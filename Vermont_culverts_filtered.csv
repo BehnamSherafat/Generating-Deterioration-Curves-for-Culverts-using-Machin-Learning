@@ -1,0 +1,1075 @@
+id,town,rd_imp,latitude,longitude,Soil_Drainage_Class,Soil_Moisture,Soil_pH,Soil_Elec_Conductivity,Soil_Surface_Texture,Flooding_Frequency,Corrosion of concrete,Corrosion of steel,year_built,owner,inv_dt,cul_type,cul_matl,hdr_matl,height,width,length,oa_cond,alignment
+a56bb324-21e7-480c-8221-00494834cb83,SPRINGFIELD,1,43.3218728,-72.43012773,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+3fe3b5b6-b875-41d1-baac-00b812274031,READING,1,43.52064519,-72.54499975,,,,,,,,,2018,Town Highway,2/13/2020,Round,Steel Corrugated,Stone masonry,36,36,50,Good,No
+0844a8b6-cf79-4159-914d-0115f6799c09,PUTNEY,1,42.99478379,-72.58203721,,,,,,,,,2011,Town Highway,4/17/2015,Round,Steel Corrugated,Stone masonry,72,72,60,Excellent,No
+6366ddce-d90f-4911-8733-01273901ba39,WILMINGTON,1,42.88005862,-72.8555969,,,,,,,,,2013,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,42,Excellent,No
+6b2c4c82-85e4-4dd6-9e1b-0249ed4cccd6,READING,1,43.47675508,-72.57707163,,,,,,,,,2012,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,20,Good,No
+2f34a9da-d730-4bd0-ae65-02916a25fc1f,DERBY,1,44.89790663,-72.17803741,,,,,,,,,2020,Town Highway,9/24/2020,Round,Steel Corrugated,Rip-rap,18,18,30,Excellent,No
+91666ac2-3615-4462-9336-02e1fa557f7e,UNDERHILL,3,44.53961645,-72.8710144,,,,,,,,,2016,Town Highway,7/25/2018,Round,Steel Corrugated,Metal,24,24,60,Excellent,No
+ae12e3bd-9b03-43bb-ac69-034aed053613,CORNWALL,3,43.91765749,-73.17651673,,,,,,,,,2004,Town Highway,6/5/2018,Round,Plastic Smooth,Rip-rap,36,36,40,Excellent,No
+9ae99161-3ad2-4927-b4c5-0398379822f8,UNDERHILL,1,44.56378108,-72.94776777,,,,,,,,,2015,Town Highway,8/7/2018,Round,Steel Corrugated,Concrete,18,18,40,Good,No
+ead09300-fe60-496c-9831-03f0bbc70802,READING,1,43.50286344,-72.61458064,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+d52ea088-d547-422b-89c4-04060a438735,CHESTER,1,43.24306694,-72.61997246,,,,,,,,,2015,Town Highway,10/7/2015,Round,Plastic Corrugated,Stone masonry,36,36,60,Excellent,No
+53da7e97-ffda-4d42-9f14-0473078268eb,BRATTLEBORO,2,42.83399209,-72.58527459,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+02f0b829-b889-4134-aae3-048a7da37aa2,SPRINGFIELD,3,43.31998661,-72.50933954,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,30,30,60,Fair,No
+696bb0bc-0456-4a0f-998c-0554df329f66,LUDLOW,1,43.37407627,-72.67506584,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,54,Excellent,No
+3ff30fa4-59c7-4445-8a06-058fcfbd425a,BRATTLEBORO,1,42.89436703,-72.54284652,,,,,,,,,2013,Town Highway,8/13/2013,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+e87945ff-cd90-4b95-8e35-061f2d327325,READING,1,43.55152922,-72.61522052,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+eabf03ba-b8b8-4506-a2d5-063ba72e71b9,LUDLOW,1,43.37051138,-72.67478067,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,44,Excellent,No
+a509c77f-a252-4c3d-87e8-0653fee0a1f7,RIPTON,3,44.00899423,-73.02222463,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,30,30,40,Excellent,No
+d0066d1d-114c-4698-80b5-066bc4971a96,TINMOUTH,1,43.44317085,-73.08237247,,,,,,,,,1985,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,24,24,15,Good,No
+2cd1d79c-2988-4a6a-95cc-06cc3bcd8065,SPRINGFIELD,1,43.31775171,-72.4295615,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+900bcfe0-2e70-47c9-a8c7-06d2de1b2a7b,PUTNEY,3,42.97023878,-72.49342227,,,,,,,,,2006,Town Highway,4/17/2015,Round,Plastic Smooth,Stone masonry,36,36,55,Excellent,No
+e1119a0f-a65a-432d-a135-06df1d907226,GOSHEN,2,43.92145177,-73.0184936,,,,,,,,,2018,Town Highway,5/28/2020,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+a61d391f-3c53-44c8-a73d-07015ed14df5,READING,1,43.50820431,-72.53524646,,,,,,,,,2013,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+4dbf4a02-06cb-48c5-aa60-078239b38df9,SPRINGFIELD,3,43.32848125,-72.52517858,,,,,,,,,2002,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+a1b9b1e3-ad48-4bc7-b9cc-07b7b274b63c,WILMINGTON,1,42.8848493,-72.82823468,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+96ce12f2-c230-4977-9792-07d3d4e86ce2,WILMINGTON,3,42.85724559,-72.82224545,,,,,,,,,2017,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+785f5b96-cda7-4e5c-9781-084c9f3690f8,READING,1,43.48011162,-72.60093743,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+578f8da7-8e61-446c-b34f-0914fc210e8d,SPRINGFIELD,3,43.31546602,-72.50597977,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,50,Excellent,No
+1cff23b1-2c5f-4882-b225-0918d77f54e7,UNDERHILL,2,44.58497516,-72.87962839,,,,,,,,,2014,Town Highway,8/1/2018,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+8003734b-7bd9-4860-9e8d-09bf4040a7eb,WILMINGTON,3,42.85961056,-72.82131456,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+690ec708-7317-48a5-a7be-09d84bcc12f4,ANDOVER,2,43.2535491,-72.70445462,,,,,,,,,2013,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+b982ebfc-9a01-4a28-b74c-09e045b6761e,DERBY,1,44.95470657,-72.10760951,,,,,,,,,2018,Town Highway,10/5/2018,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+a6e8bf76-3f62-4eac-9a47-09e860fa5604,SPRINGFIELD,1,43.30862186,-72.52257492,,,,,,,,,2005,Town Highway,10/3/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+f698da12-4cd4-48b3-be9a-09fd6a5ffb07,READING,1,43.46141943,-72.58212133,,,,,,,,,2013,Town Highway,6/15/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+082500bb-e2bc-48e8-a2a0-0a6893d09cbb,GOSHEN,2,43.90039248,-73.01531317,,,,,,,,,2020,Town Highway,5/1/2020,Round,Plastic Corrugated,Concrete,20,20,40,Excellent,No
+ba79d537-54dd-41e7-aa0d-0a763bc85e4d,CHARLESTON,1,44.89223445,-72.06826686,,,,,,,,,2010,Town Highway,5/7/2014,Round,Steel Corrugated,Rip-rap,36,36,50,Good,No
+d8e71a55-1df8-4c27-944e-0ae7c0cea1b0,GOSHEN,2,43.87090786,-73.00918044,,,,,,,,,2016,Town Highway,3/31/2020,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+2a73f566-c450-4127-a1d0-0bb4ea208c5b,LUDLOW,1,43.36754963,-72.69142385,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,55,Excellent,No
+ff309f2f-0d17-45f7-8631-0bc08e3756a0,TINMOUTH,2,43.44291163,-73.0468468,,,,,,,,,1995,"Private, (other than railroad)",6/4/2020,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+7d71cbdd-0895-4573-9837-0bc6ec4c765f,SPRINGFIELD,1,43.32003659,-72.52587341,,,,,,,,,2004,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,55,Good,No
+18f6ab1e-25b1-49c8-a90a-0bf54ea8b6c1,SPRINGFIELD,1,43.32287432,-72.42976281,,,,,,,,,2010,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,15,15,30,Poor,No
+d8edc075-c280-46f8-8874-0c59f823fba4,DERBY,1,44.93245588,-72.12462269,,,,,,,,,2020,"Private, (other than railroad)",9/3/2020,Round,Steel Corrugated,Rip-rap,15,15,20,Excellent,No
+f6719793-e5f2-448b-9f62-0c645e7ca990,SPRINGFIELD,1,43.26626711,-72.53703142,,,,,,,,,2009,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,30,30,60,Good,No
+1596e087-3fae-4076-8b62-0c8c6da17a50,ANDOVER,1,43.31556998,-72.72562032,,,,,,,,,2007,Town Highway,9/1/2013,Ellipse/Squashed,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+2c8ba4bf-8e91-4776-bc1f-0d207e57c08f,SPRINGFIELD,3,43.26246091,-72.47563494,,,,,,,,,2007,Town Highway,8/12/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+bd195f48-d0c9-4df1-9c63-0d37250ba0a2,BALTIMORE,1,43.35497137,-72.58281305,,,,,,,,,2011,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,37,Good,No
+84aec9e4-be0e-487b-b356-0d3b9fa9c854,SPRINGFIELD,1,43.32454014,-72.50119156,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+b1c72e8f-6bf0-4859-b8e2-0d58e5b3e226,ANDOVER,1,43.26869804,-72.73672177,,,,,,,,,1994,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+1a24508c-c07b-4a0d-a9e9-0d93a64260ea,READING,1,43.48993147,-72.61150082,,,,,,,,,2013,Town Highway,6/29/2016,Round,Steel Corrugated,Stone masonry,24,24,30,Excellent,No
+e2af7e42-2dd8-4bc2-b774-0d951e6b2bbb,WILMINGTON,3,42.89204709,-72.88362491,,,,,,,,,2018,Town Highway,8/30/2018,Round,Plastic Corrugated,Concrete,18,18,38,Excellent,No
+9c131714-09a1-4464-85e8-0d9ba4f4f67e,READING,3,43.468366,-72.58023117,,,,,,,,,1996,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+7eb2cc4b-3a2d-4016-a5d4-0dab41afe841,READING,1,43.46895473,-72.58449765,,,,,,,,,2014,Town Highway,6/15/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+673f5566-edda-4a0e-8671-0db23a029afc,DERBY,1,44.92083242,-72.0814572,,,,,,,,,2018,Town Highway,9/5/2018,Ellipse/Squashed,Steel Corrugated,Concrete,33,48,50,Excellent,No
+338f3836-44a2-41fe-9f54-0e8e55566863,TINMOUTH,2,43.47560134,-73.05163697,,,,,,,,,1994,Town Highway,5/18/2020,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+d39eb32b-f24e-4042-b1c0-0e933b6d1185,ANDOVER,2,43.25852448,-72.70689424,,,,,,,,,2001,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,47,Excellent,No
+51ac57b7-2423-4178-8495-0ea5d925cc78,SPRINGFIELD,3,43.32179234,-72.51052901,,,,,,,,,1950,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,48,48,50,Good,No
+5a9941ef-f243-439b-ac18-0ed810af682c,WEATHERSFIELD,1,43.41606818,-72.51971226,,,,,,,,,2013,Town Highway,5/8/2014,Round,Steel Corrugated,Rip-rap,36,36,50,Good,No
+11530098-9575-4859-9a64-0ef013e6934a,LUDLOW,2,43.39467443,-72.68938997,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+77f4bd67-c2b8-44e4-9cbd-0f1072cfb377,READING,1,43.49175887,-72.55793838,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,32,Excellent,No
+6dafa912-0411-45d0-ba5f-0f709835c98b,SPRINGFIELD,1,43.26140754,-72.50321929,,,,,,,,,2000,Town Highway,9/29/2016,Round,Plastic Smooth,Concrete,18,18,40,Good,No
+ed8ae9fe-1420-4b5e-858a-0fb301035834,READING,1,43.4564083,-72.61267746,,,,,,,,,2013,Town Highway,6/15/2016,Round,Plastic Corrugated,Stone masonry,15,15,34,Good,No
+ebdf3e93-1936-4260-a7e1-0fbca3f2c243,DERBY,1,44.93724166,-72.09518572,,,,,,,,,2019,Town Highway,11/26/2019,Round,Steel Corrugated,Stone masonry,60,60,60,Excellent,No
+7aee9da3-b32d-46cc-b0fe-0fbcc432fa39,ANDOVER,2,43.24521604,-72.7087717,,,,,,,,,2013,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,36,36,36,Good,No
+78112085-5012-495b-94ca-1025eb0674cd,LUDLOW,1,43.43241236,-72.71877256,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+5e8009fe-d76b-40d6-a1ff-105168df591d,SPRINGFIELD,1,43.32604354,-72.50106018,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+05fc8c05-67a9-42b4-9625-1051b4288bcd,CHARLESTON,1,44.8326739,-71.92892423,,,,,,,,,2010,"Private, (other than railroad)",5/7/2014,Round,Steel Corrugated,Metal,6,6,20,Fair,No
+9396b61b-3016-403f-9f79-1065edbc8c88,SPRINGFIELD,1,43.32301153,-72.42742139,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+6dde9ca1-e073-4d3f-a1d9-106831ed9cd0,LUDLOW,1,43.38463273,-72.66826637,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,24,24,60,Excellent,No
+6e49fb65-7f1d-4a2f-8619-10e0e9ec6939,SPRINGFIELD,1,43.3231857,-72.52645048,,,,,,,,,2004,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,70,Excellent,No
+6eb547df-112a-4f0f-abf0-1143d08026e7,BALTIMORE,1,43.36016869,-72.57479284,,,,,,,,,1962,Town Highway,6/17/2014,Round,Steel Corrugated,Stone masonry,24,24,40,Good,No
+5b25a766-5d16-4b20-ba1c-114f436d2c85,LUDLOW,1,43.42447363,-72.71111156,,,,,,,,,2016,Town Highway,7/23/2002,Round,Plastic Smooth,Stone masonry,15,15,40,Excellent,No
+0b2024e8-0115-430d-b47c-115a32cc72c8,STRATTON,3,43.11287022,-72.87847115,,,,,,,,,2020,Town Highway,8/18/2020,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+c86f9304-bc2a-4301-a252-117c1665a16d,UNDERHILL,1,44.5506315,-72.94750269,,,,,,,,,2017,Town Highway,6/7/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+a9d49874-6dab-4e33-bd2d-119a65b981e9,UNDERHILL,1,44.58034336,-72.94406822,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Stone masonry,18,18,35,Closed,No
+063dfee8-2b70-4d7d-8102-1225f8f3dfdd,SPRINGFIELD,1,43.32812747,-72.46052567,,,,,,,,,2003,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,15,15,35,Good,No
+33a3da11-aeb4-4974-a23f-122f43cf7a78,SPRINGFIELD,1,43.26333435,-72.53699039,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+3900af69-3eba-43bf-8045-1287cbcd1c53,ANDOVER,1,43.30330219,-72.7013041,,,,,,,,,2007,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,22,Good,No
+1872e1bc-748e-4f77-8276-12ab443b30f0,WILMINGTON,1,42.91113174,-72.87944689,,,,,,,,,2016,Town Highway,8/30/2018,Ellipse/Squashed,"Pipe, Metal",Stone masonry,59,81,42,Fair,No
+4e17b702-d8a5-44f5-ad7f-12b874686193,GROTON,1,44.21742539,-72.21190033,,,,,,,,,2012,Town Highway,5/18/2004,Round,Plastic Smooth,Rip-rap,18,18,38,Excellent,No
+d90405ed-b925-4612-ba48-12e434445eaa,SPRINGFIELD,1,43.29448863,-72.40508451,,,,,,,,,2002,Town Highway,9/29/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Excellent,No
+2769f2af-ebff-4abf-b82b-12e521a18859,GROTON,1,44.19591104,-72.2354427,,,,,,,,,2014,Town Highway,12/5/2014,Round,Plastic Smooth,Rip-rap,18,18,29,Excellent,No
+7e8cf774-9502-4fe2-a923-136e13980190,CHARLESTON,1,44.8366593,-71.99109433,,,,,,,,,2010,Town Highway,5/7/2014,Round,Steel Corrugated,Metal,48,48,60,Good,No
+b9fb6ce7-dbc8-4749-848e-13cf391b8361,BOLTON,1,44.416363,-72.8491111,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Concrete,24,24,45,Excellent,No
+5e31d3d3-664e-4894-a082-142527abee4b,WAITSFIELD,3,44.14166208,-72.80942765,,,,,,,,,1970,Town Highway,9/18/2020,Round,Steel Corrugated,Concrete,48,48,80,Good,No
+f8c06c84-40d4-4049-b2ef-144c2ed63e10,UNDERHILL,3,44.54002248,-72.87025153,,,,,,,,,2016,Town Highway,7/25/2018,Round,Steel Corrugated,Rip-rap,18,18,50,Good,No
+483b835d-0aa3-42fb-a24d-146308c05cf2,STRATTON,3,43.06141592,-72.97486549,,,,,,,,,2005,Town Highway,11/10/2017,Round,Plastic Smooth,Stone masonry,18,18,34,Excellent,No
+cbe49994-7ef5-44fb-a5ee-1464a6804539,READING,3,43.46407066,-72.55563235,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Concrete,24,24,40,Good,No
+d94bc0db-bb85-47f2-aa49-14c9a02f9dd6,ANDOVER,2,43.26642954,-72.70531735,,,,,,,,,1973,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,28,28,39,Good,No
+8afd98f4-f140-4d8e-b64a-14cf00789542,WILMINGTON,1,42.91406585,-72.83643869,,,,,,,,,2017,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,30,30,45,Excellent,No
+3fdc1bb9-d63d-429d-9369-15082fd87ade,ANDOVER,1,43.30283454,-72.73213903,,,,,,,,,2018,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+0ff9f978-746a-462c-bcf2-150e0eafe1ca,ANDOVER,1,43.23959675,-72.75495798,,,,,,,,,2001,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,25,Excellent,No
+3d2313df-1da6-4340-9207-150ee49f05ba,READING,1,43.49116499,-72.61134833,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+e4b53dff-4763-4cde-b70a-158295d281c7,UNDERHILL,3,44.51698824,-72.92137046,,,,,,,,,2017,Town Highway,6/7/2018,Round,Steel Corrugated,Concrete,24,24,50,Excellent,No
+9ef098db-0d0c-4c2c-9366-1601c754c3d0,UNDERHILL,1,44.50259991,-72.90015525,,,,,,,,,2014,Town Highway,7/31/2018,Round,Steel Corrugated,Rip-rap,18,18,40,Good,No
+defaaa55-f296-4cd2-b693-1602c4677e2f,SPRINGFIELD,1,43.26433122,-72.50306143,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Concrete,18,18,60,Good,No
+a158b7d9-b3b5-43e3-b5ef-160d2466d41f,WINDSOR,1,43.48743105,-72.41991161,,,,,,,,,2016,Town Highway,10/11/2016,Round,Steel Corrugated,Concrete,18,18,40,Excellent,No
+60e95cc8-868b-4444-b2cd-162e87d3ec41,LUDLOW,2,43.42038076,-72.68484008,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+78ca0ac4-5571-4d2f-955f-1648ba64c32a,LUDLOW,2,43.39443915,-72.70858725,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,336,Excellent,No
+7137471b-a81c-4b28-babd-1686316cea86,WAITSFIELD,3,44.17693655,-72.81471432,,,,,,,,,1997,Town Highway,9/17/2020,Round,Plastic Corrugated,Stone masonry,24,24,50,Good,Yes
+31b14671-1461-4eb2-a34b-1714bf50fa97,CHARLESTON,1,44.83357823,-72.01874684,,,,,,,,,2020,Town Highway,9/13/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+bc3a87f9-5c23-49c9-aeed-1764e3cfd4bc,WAITSFIELD,2,44.18220707,-72.79579479,,,,,,,,,2006,Town Highway,9/16/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,60,80,50,Good,No
+c770b59a-e899-4cd4-b4ad-181347092d16,SPRINGFIELD,1,43.31362043,-72.5404353,,,,,,,,,2005,Town Highway,8/5/2016,Round,Plastic Smooth,Stone masonry,18,18,32,Good,No
+200920b2-aff7-41e8-880b-18689212b87f,READING,1,43.51424,-72.60787077,,,,,,,,,2015,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+acf49a9a-ccaa-49ae-8d11-1873d63ec253,WEATHERSFIELD,1,43.40108569,-72.42451485,,,,,,,,,2006,Town Highway,2/6/2018,Arch,Mixed,Concrete,15,20,42,Good,No
+724911ab-31b2-4732-b5e1-188bfd53e06c,CHARLESTON,3,44.81684856,-71.96846054,,,,,,,,,2017,Town Highway,9/19/2017,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+5a348924-99ee-4ed3-a5a2-18d5c31316b3,TINMOUTH,3,43.40136264,-73.04106985,,,,,,,,,1997,Town Highway,5/27/2020,Round,Plastic Smooth,Stone masonry,12,12,40,Good,No
+24137c91-8256-47c4-a4e0-194544940206,RICHMOND,1,44.42979783,-72.98836048,,,,,,,,,2018,Town Highway,6/19/2018,Round,Plastic Corrugated,Stone masonry,24,24,30,Excellent,No
+73ccd10d-9129-4daa-8839-197f09be0afa,ANDOVER,2,43.27047796,-72.70467779,,,,,,,,,2006,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,36,36,34,Good,No
+2846f33d-d2fc-428f-ae2f-19821a024479,SPRINGFIELD,1,43.29708969,-72.54085331,,,,,,,,,2008,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Good,No
+9bdb382f-c51c-46e6-a047-198440b1b96d,LUDLOW,1,43.38415999,-72.66908302,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,60,Excellent,No
+8fe1fc81-6f99-4ea0-afae-1a1de82af9ab,ANDOVER,2,43.32551999,-72.71657176,,,,,,,,,1995,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,56,Excellent,No
+778d4de2-fe2d-4192-875f-1a249d0b0b54,CHARLOTTE,3,44.3365652,-73.17064597,,,,,,,,,2019,Town Highway,11/19/2019,Round,Steel Corrugated,Stone masonry,15,15,40,Excellent,No
+99ed5155-5f7a-42db-9117-1a38b0917d47,CHARLESTON,1,44.89600724,-72.06460067,,,,,,,,,2011,Town Highway,5/7/2014,Ellipse/Squashed,Steel Corrugated,Concrete,36,50,50,Excellent,No
+1a32b2e1-c2f3-4a68-b44b-1a3ad11eaa35,ANDOVER,1,43.29836108,-72.73731917,,,,,,,,,2009,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,20,Excellent,No
+834bfd14-72db-42a2-aa3f-1acbc426c87c,DERBY,3,44.91322585,-72.15024088,,,,,,,,,2020,Town Highway,5/11/2020,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+a3d4e6b7-722f-496b-8886-1adfdc44d479,CHARLESTON,1,44.83578871,-72.02115566,,,,,,,,,2020,"Private, (other than railroad)",9/13/2020,Round,Plastic Smooth,Rip-rap,15,15,60,Excellent,No
+2d773bb8-0344-4d08-a30e-1b019f54c0d8,SPRINGFIELD,1,43.25895139,-72.49271926,,,,,,,,,2001,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,15,15,35,Good,No
+7f87e373-f094-4565-8793-1b0eaad954be,SPRINGFIELD,1,43.31225482,-72.54294963,,,,,,,,,2005,Town Highway,8/5/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+b1415e8c-5786-4f7e-a17e-1b4806c9ef99,ANDOVER,2,43.32548249,-72.71724837,,,,,,,,,2013,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,24,24,55,Good,No
+64064572-f7d9-47eb-916f-1b4e848d07e5,ANDOVER,1,43.32049825,-72.70891959,,,,,,,,,2013,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,36,36,20,Excellent,No
+f0a4bbba-7e96-4cae-b2be-1bc2aff4adca,ANDOVER,2,43.32543033,-72.71558022,,,,,,,,,1992,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,60,Excellent,No
+ebc2770e-a6a5-44e6-93fa-1c74b3a62536,WARREN,1,44.11036645,-72.85281147,,,,,,,,,2011,Town Highway,6/29/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+9fd6fd96-7e64-4e42-9b51-1ca788996773,ANDOVER,1,43.2993835,-72.75764747,,,,,,,,,2016,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,Yes
+4f8f0122-2185-4bd2-850a-1cf5fb823be2,CHESTER,1,43.24340931,-72.61898791,,,,,,,,,2015,Town Highway,10/7/2015,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+d24ea260-e5e4-43b7-b3e2-1d34c89fd74b,ANDOVER,1,43.25671692,-72.74926559,,,,,,,,,1996,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Fair,No
+4d280f78-a175-4a5c-81a1-1d4014885ffb,LUDLOW,1,43.33504177,-72.69695139,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,15,15,36,Good,No
+8cf75ec7-01f9-40b6-b7a7-1e226575da02,SPRINGFIELD,1,43.2858193,-72.43524667,,,,,,,,,2018,Town Highway,9/4/2018,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+7efc9175-d77d-43b8-9db0-1e9b17852e83,UNDERHILL,3,44.53270808,-72.87438564,,,,,,,,,2014,Town Highway,8/1/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+b8280dfc-2697-45ea-93ae-1e9f99c9f8ec,TINMOUTH,2,43.44706805,-73.05064368,,,,,,,,,1980,Town Highway,5/28/2020,Round,Steel Corrugated,Concrete,20,20,30,Good,No
+25479e12-a368-40db-a3d8-1eb741d21210,CHARLESTON,1,44.83752021,-72.02038878,,,,,,,,,2020,Town Highway,9/13/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+0732f04d-8a61-43f4-8ae8-1f2253b08846,BRATTLEBORO,2,42.83606043,-72.58498121,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Smooth,Concrete,18,18,30,Good,No
+9bfc6a46-0881-46ec-bdbd-1f313a00c116,UNDERHILL,1,44.52105926,-72.89842618,,,,,,,,,2014,Town Highway,8/1/2018,Round,Steel Corrugated,Stone masonry,24,24,40,Poor,No
+d98cc8e9-0415-495f-b000-1f682c15a9cf,SPRINGFIELD,1,43.24771896,-72.52623917,,,,,,,,,1970,Town Highway,8/10/2016,Round,Concrete Sectional,Stone masonry,12,12,35,Good,No
+0f3a9a48-f6c8-4db8-9418-1f872a51a557,ANDOVER,1,43.32894289,-72.71407552,,,,,,,,,2013,Town Highway,2/2/2015,Round,Steel Corrugated,Stone masonry,18,18,80,Good,No
+e018af25-a093-48a7-ac0f-1fa797e87474,HALIFAX,1,42.77968856,-72.78475302,,,,,,,,,1990,Town Highway,6/14/2017,Round,Steel Corrugated,Stone masonry,65,90,60,Good,No
+fe66d976-4ffe-4cd8-9cdf-1fbe19b99ce3,WINDSOR,3,43.48460745,-72.43877157,,,,,,,,,2013,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,18,18,60,Excellent,No
+e2ec9aa4-1968-44e5-9479-1fc7a98d55d3,READING,3,43.46639198,-72.56000369,,,,,,,,,2014,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Fair,No
+3dae95fa-cd36-42f9-a2cd-20c4c4e27106,SPRINGFIELD,1,43.32586635,-72.52760709,,,,,,,,,2017,Town Highway,6/9/2017,Round,Plastic Smooth,Stone masonry,18,18,63,Excellent,Yes
+62c001fa-a8dd-430b-a047-20db3793810d,HALIFAX,3,42.77788785,-72.75147667,,,,,,,,,2008,Town Highway,6/26/2017,Arch,Steel Corrugated,Concrete,84,84,60,Good,No
+8e6ec733-2792-4251-88fb-2111e4209f96,SPRINGFIELD,3,43.32721726,-72.52684031,,,,,,,,,2002,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,70,Excellent,No
+494c4be1-043a-4315-a154-2137e45490d1,READING,1,43.47717438,-72.57405504,,,,,,,,,2015,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+52d9051d-3883-4dce-8104-2181ee4e078b,READING,3,43.46802536,-72.56427063,,,,,,,,,2017,Town Highway,2/13/2020,Round,Steel Corrugated,Stone masonry,36,36,40,Good,No
+ebe56ef2-17ab-4a56-b215-22656efb9e2a,SPRINGFIELD,1,43.30429563,-72.52069813,,,,,,,,,2001,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+fc8a456c-311f-4919-ad88-22ae56847331,DERBY,1,44.9643205,-72.15609079,,,,,,,,,2021,Town Highway,7/21/2021,Round,Steel Corrugated,Rip-rap,18,18,30,Excellent,No
+8f28ff46-380b-4945-ad15-22b3ca77ad6f,BOLTON,1,44.439983,-72.902789,,,,,,,,,2018,Town Highway,7/19/2018,Round,Plastic Corrugated,Stone masonry,30,30,40,Excellent,No
+98eae158-2755-44fa-8d86-22bc322bc9d6,SPRINGFIELD,3,43.3289656,-72.52477395,,,,,,,,,2017,Town Highway,7/12/2017,Round,Plastic Smooth,Concrete,18,18,30,Excellent,No
+07652bf2-042a-4e71-876c-22dc99d01ec1,READING,1,43.50193355,-72.56527913,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,24,24,46,Good,No
+b5aa4880-381a-404d-8360-22dcfb17efbb,TINMOUTH,2,43.47455486,-73.05275384,,,,,,,,,1974,Town Highway,5/18/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Poor,No
+e470af83-8b66-441d-a693-23352621bd87,WEATHERSFIELD,2,43.41589952,-72.50507327,,,,,,,,,2005,"Private, (other than railroad)",5/8/2014,Round,Steel Corrugated,Stone masonry,18,18,28,Good,No
+f0b815e1-94c3-4e42-82a6-233bed390267,CHARLESTON,1,44.90649759,-72.06703713,,,,,,,,,2010,"Private, (other than railroad)",5/7/2014,Round,"Pipe, Plastic",Metal,10,10,30,Good,No
+2e658b21-7194-431a-8455-234e276a4610,WEATHERSFIELD,1,43.41518107,-72.47564626,,,,,,,,,2009,Town Highway,5/12/2014,Round,Concrete Sectional,Stone masonry,24,24,44,Good,No
+3d74563c-127c-4d8e-8706-237386763691,GOSHEN,2,43.8591276,-73.0171345,,,,,,,,,2017,Town Highway,11/3/2018,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+fbe273c5-05cb-40ff-9a69-2376be14e8bd,SPRINGFIELD,1,43.32307529,-72.50273822,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Rip-rap,18,18,32,Excellent,Yes
+da9d14b3-1f94-4ba8-9c58-243393ac2fb0,GROTON,1,44.21958678,-72.27689041,,,,,,,,,2015,Town Highway,9/8/2015,Round,Plastic Smooth,Rip-rap,24,24,40,Excellent,No
+3f093f5a-3af8-4e74-9be2-245e5f8292a0,ANDOVER,2,43.25560044,-72.70509203,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,24,Good,No
+25ad7fa1-2eac-483e-b51b-246b2ba99ff1,SPRINGFIELD,2,43.32874792,-72.41213195,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+9fabd7e1-aec6-4962-b2ce-247b44688d90,WINDSOR,1,43.47047008,-72.45126638,,,,,,,,,2011,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,24,24,30,Excellent,No
+385d52f0-c11b-4f8a-a50c-250110866d36,SPRINGFIELD,1,43.26934661,-72.53915517,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,46,Good,No
+f5712e02-c7c1-4bcd-b9e8-250f822b03d0,WILMINGTON,3,42.88331589,-72.82011024,,,,,,,,,2018,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,38,Excellent,No
+6236c7ec-3eba-4aa7-bfd4-25b3b8b16135,GOSHEN,2,43.92154904,-73.01857025,,,,,,,,,2015,Town Highway,5/28/2020,Round,Steel Corrugated,Concrete,48,48,50,Good,No
+9a99c282-12a4-4800-ac91-25c3b452b16a,SPRINGFIELD,1,43.32386066,-72.43160582,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,24,24,30,Excellent,No
+39eee7fa-6dab-4a6b-b172-25c992c53e5e,SPRINGFIELD,3,43.32769603,-72.52605152,,,,,,,,,2002,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,36,36,50,Excellent,No
+6cfb8a3b-ae8c-4c76-9e79-25f2e7ee3333,WARREN,1,44.09991147,-72.8109913,,,,,,,,,2010,Town Highway,7/28/2017,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+5efff3d5-efd4-4b98-99a6-26206e9b00fe,GOSHEN,3,43.85156099,-73.01748988,,,,,,,,,2020,Town Highway,12/30/2020,Round,Plastic Smooth,Stone masonry,24,24,50,Excellent,No
+32c10576-81ef-4b51-927a-262ea0f845a4,SPRINGFIELD,1,43.27542384,-72.46855763,,,,,,,,,2014,Town Highway,8/12/2016,Round,Plastic Smooth,Stone masonry,24,24,50,Good,No
+d4ba249d-efa0-4577-8e4b-263631ac8116,MIDDLEBURY,3,44.03369003,-73.11986517,,,,,,,,,2008,Town Highway,11/26/2018,Round,Concrete Sectional,Rip-rap,36,36,72,Excellent,No
+6446b383-b62b-4faa-b6ac-26e9660096a9,CHARLOTTE,2,44.2875042,-73.21017268,,,,,,,,,2019,Town Highway,7/22/2019,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+901e7f97-719a-4a8e-b972-26ef568c2821,TINMOUTH,3,43.41870596,-73.03601021,,,,,,,,,1974,Town Highway,5/25/2020,Round,Steel Corrugated,Stone masonry,24,24,30,Good,No
+6d180fbc-4415-451a-b003-270593866090,WILMINGTON,3,42.87912551,-72.87538086,,,,,,,,,2016,Town Highway,8/30/2018,Round,Plastic Smooth,Concrete,18,18,58,Excellent,No
+1959c63e-6c3d-4cf0-b30c-27adf1924a28,KILLINGTON,1,43.65420732,-72.78865033,,,,,,,,,1999,"Private, (other than railroad)",9/29/2020,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+9d396b16-1e38-4a01-a384-27fdd39b629b,ANDOVER,1,43.32618741,-72.71524325,,,,,,,,,2002,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+54ba733a-9ae0-485a-b972-282674b3c389,WARREN,1,44.09382966,-72.83667847,,,,,,,,,2011,Town Highway,7/2/2018,Round,Steel Corrugated,Concrete,18,18,40,Fair,No
+4ccd55d1-3d1f-4061-b63c-283e9870d97f,SPRINGFIELD,1,43.30421268,-72.4632538,,,,,,,,,2000,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,12,12,35,Good,No
+196d1467-c4bd-4256-8aa8-287a1b13cfb0,READING,1,43.50182096,-72.57947123,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,34,Good,No
+f3f92947-4b99-49c5-8599-28e477297b8c,ANDOVER,1,43.30262696,-72.70152153,,,,,,,,,2007,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,26,Excellent,No
+694a950f-4288-47be-9a9c-28f1440454db,LUDLOW,1,43.35815867,-72.69733587,,,,,,,,,2017,Town Highway,8/10/2017,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+25d8a953-f934-46d1-9b69-28fbf3902cb0,ANDOVER,2,43.28184624,-72.70751068,,,,,,,,,2013,Town Highway,9/30/2014,Round,"Pipe, Metal",Stone masonry,18,18,53,Fair,No
+79830a4f-ab52-4c93-a689-290c62b66a00,SPRINGFIELD,1,43.26066297,-72.53601292,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,55,Good,No
+5400fff8-3b81-45b7-999f-29501d6bffe6,WARREN,1,44.13475648,-72.87742464,,,,,,,,,2017,Town Highway,10/5/2017,Round,Steel Corrugated,Stone masonry,24,24,44,Excellent,No
+c0227a05-285a-4f19-9f06-295b39e51e83,BALTIMORE,1,43.35004907,-72.5644614,,,,,,,,,2002,Town Highway,6/17/2014,Box,Concrete Sectional,Concrete,72,60,32,Good,No
+c98e8d6d-7eab-4640-829a-29a155e51fce,ANDOVER,3,43.27750472,-72.70126905,,,,,,,,,2016,Town Highway,9/7/2016,Round,Plastic Corrugated,Stone masonry,36,36,60,Excellent,No
+ad0f5bd4-6290-4fdc-9dac-29d6590a74b1,SPRINGFIELD,1,43.32136685,-72.46182977,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+f61b80b0-018b-42b7-a5a4-2a1361cea176,READING,1,43.47843728,-72.58095751,,,,,,,,,2011,Town Highway,6/29/2016,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+f82749ad-393a-4620-93a8-2a22664874d1,SPRINGFIELD,3,43.26381628,-72.4831406,,,,,,,,,2002,Town Highway,8/12/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+5cc3c5ff-4c7a-4cd2-a018-2aa945685cc8,UNDERHILL,2,44.56959545,-72.88315607,,,,,,,,,2014,Town Highway,8/6/2018,Round,Steel Corrugated,Rip-rap,18,18,60,Fair,No
+26984bb8-63c7-49a5-8f2b-2ab0bc08accc,BOLTON,1,44.416559,-72.8510631,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Concrete,36,36,50,Excellent,No
+c20197d5-1928-42c9-add5-2ac93c8fa813,STRATTON,1,43.11036052,-72.88381125,,,,,,,,,2011,Town Highway,11/17/2016,Round,Plastic Smooth,Stone masonry,15,15,28,Poor,No
+ddd2d10d-5d5e-40fc-a9de-2aebbde05584,ANDOVER,1,43.28053843,-72.69658023,,,,,,,,,2017,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+b2e50298-407f-494d-9aa7-2af736de1040,WEATHERSFIELD,2,43.39783002,-72.48760099,,,,,,,,,2011,Town Highway,5/12/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+6f976f4c-737d-46a8-85e4-2b5c93b486f3,WEATHERSFIELD,1,43.39541773,-72.42508473,,,,,,,,,2009,Town Highway,8/25/2014,Round,Steel Corrugated,Stone masonry,24,24,58,Good,No
+f5ca1a9b-b493-4b93-a49e-2b9836252b9e,COLCHESTER,3,44.54690787,-73.14436823,,,,,,,,,2013,Town Highway,7/2/2019,Round,Plastic Corrugated,Concrete,4,4,30,Good,No
+9820fa69-cc2b-442d-b26c-2bc236735d8d,WILMINGTON,1,42.85321089,-72.87077614,,,,,,,,,2011,Town Highway,11/8/2018,Round,Plastic Smooth,Stone masonry,36,36,30,Excellent,No
+1aa960bf-15d0-4baa-a8fd-2c0264b45690,GOSHEN,2,43.86710672,-73.01566099,,,,,,,,,2019,Town Highway,6/24/2019,Round,Plastic Corrugated,Concrete,24,24,50,Excellent,No
+5d86216c-9746-409a-bafa-2c59e194c500,WEATHERSFIELD,1,43.35554733,-72.43303117,,,,,,,,,2006,"Private, (other than railroad)",5/21/2014,Round,Plastic Corrugated,Stone masonry,18,18,28,Good,No
+b4f7810d-17a3-4144-838d-2c9d07df5b7a,ANDOVER,1,43.27674644,-72.70863678,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,18,18,35,Good,No
+af259e16-143a-4625-a135-2d18a080ba05,PUTNEY,3,42.98954395,-72.55654646,,,,,,,,,2013,Town Highway,4/17/2015,Round,Plastic Smooth,Stone masonry,48,48,74,Excellent,No
+9c6e63ed-9ad1-425d-8136-2e84e19abf49,SPRINGFIELD,1,43.31988284,-72.43015582,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+5849503a-6d65-4cb0-9827-2e8f9958b931,READING,1,43.51873101,-72.54192058,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+6920eb0a-0562-4bc6-91c9-2eee03bd3dd4,WILMINGTON,3,42.89998987,-72.8349231,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,55,Good,No
+dc2c6cdc-185a-4d8c-9444-2f162557e24f,WARREN,1,44.08962816,-72.85060651,,,,,,,,,2011,Town Highway,7/2/2018,Round,Steel Corrugated,Stone masonry,18,18,35,Good,No
+523fd612-bcf2-4a7e-8031-2f4894a7e00a,ANDOVER,1,43.24736927,-72.74526103,,,,,,,,,1992,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,35,Excellent,No
+c1dfb3b1-4a72-4881-8052-2fa0e417d291,GROTON,1,44.23979765,-72.23777287,,,,,,,,,2015,"Private, (other than railroad)",10/19/2015,Round,Plastic Smooth,Rip-rap,18,18,20,Excellent,No
+cac0cdd2-4ee2-4e2c-ae2a-2fa47f103f5b,ANDOVER,1,43.26803573,-72.73381698,,,,,,,,,2017,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+763c955d-f4ef-4a08-86a5-2fe3f675c783,READING,1,43.50596735,-72.55478823,,,,,,,,,2012,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+de266d90-bd4b-4f3b-980c-30809cebf546,LUDLOW,1,43.37281668,-72.70403591,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,12,12,38,Good,No
+912f1c84-8103-4377-a259-308fcbfc4324,BALTIMORE,2,43.36921073,-72.55590382,,,,,,,,,2016,Town Highway,3/23/2017,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+70056a1b-f715-416d-956b-30b3100c4eed,TINMOUTH,1,43.49063737,-73.03210079,,,,,,,,,1974,Town Highway,5/15/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Poor,No
+04fc72e3-c67f-4069-9ef2-30d9fffeda2c,WEATHERSFIELD,1,43.35611816,-72.45016412,,,,,,,,,2009,"Private, (other than railroad)",5/19/2014,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+3d179957-7cde-4be3-8dfa-31ac851d2492,ANDOVER,1,43.25182223,-72.68771935,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+68e1e413-3bf9-4050-a06c-326b116327d2,JERICHO,3,44.49203592,-73.00662607,,,,,,,,,2016,"Private, (other than railroad)",6/17/2020,Round,Steel Corrugated,Stone masonry,18,18,30,Good,Yes
+b32bd2a3-70ac-4962-bfc6-328a7c48f135,WAITSFIELD,2,44.2021794,-72.79419906,,,,,,,,,2014,Town Highway,9/15/2020,Ellipse/Squashed,Steel Corrugated,Rip-rap,67,95,60,Good,No
+17fdc871-146f-473a-9cce-32c347164603,BOLTON,1,44.419268,-72.8518422,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Stone masonry,24,24,50,Excellent,No
+54d2d35e-8dcb-4a72-834c-3341bcda7f05,GROTON,1,44.23976114,-72.23997228,,,,,,,,,2015,"Private, (other than railroad)",10/19/2015,Round,"Pipe, Metal",Stone masonry,18,18,66,Good,No
+5f0da81e-956e-402b-bdc3-3398b69696f4,ORANGE,1,44.10411845,-72.34604184,,,,,,,,,2014,Town Highway,7/5/2017,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+f9a8ccdc-d212-490e-b419-343e45bbaca0,GROTON,1,44.19355337,-72.22753756,,,,,,,,,2015,"Private, (other than railroad)",10/2/2015,Round,Plastic Smooth,Stone masonry,15,15,30,Excellent,No
+fe107e2e-d230-473e-9c92-34ce8ce722dd,UNDERHILL,1,44.59619367,-72.91863721,,,,,,,,,2015,Town Highway,8/12/2019,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+9b267365-c192-407d-a7f1-3503f8083108,TINMOUTH,1,43.45629458,-73.08162544,,,,,,,,,1984,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,18,18,50,Good,No
+d6c1027d-4ef3-47ba-a99d-354a6c3318d3,BRATTLEBORO,2,42.83682166,-72.58472301,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Smooth,Concrete,15,15,30,Good,No
+a40e1680-4a46-47e5-b369-3567efb51cc0,ANDOVER,1,43.25242222,-72.68736579,,,,,,,,,2011,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,16,16,40,Good,No
+f084e4d3-8596-469b-8cb2-35713750bedb,TINMOUTH,1,43.48062876,-73.07564447,,,,,,,,,1979,Town Highway,5/20/2020,Round,Steel Corrugated,Concrete,12,12,20,Good,No
+392c948b-3ab8-4e51-931a-35b1363ae502,CHARLESTON,1,44.89367312,-72.06672825,,,,,,,,,2012,"Private, (other than railroad)",5/7/2014,Round,Plastic Smooth,Rip-rap,15,15,20,Excellent,No
+fd55358c-89db-49e5-8de9-36594f85af26,WEATHERSFIELD,1,43.3552651,-72.45148189,,,,,,,,,2012,Town Highway,5/19/2014,Round,Plastic Corrugated,Concrete,18,18,28,Good,No
+54531636-bc43-4670-afe1-3699d02c0550,READING,3,43.46865946,-72.57810327,,,,,,,,,1996,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,24,24,50,Good,No
+fda0e76a-118d-4bbc-add3-36abad6438b7,BOLTON,1,44.352682,-72.918613,,,,,,,,,2016,Town Highway,7/19/2018,Round,Plastic Corrugated,Stone masonry,26,26,25,Excellent,No
+79c4be02-4fa5-4efd-b319-36b306e5c346,ANDOVER,1,43.31591769,-72.68718653,,,,,,,,,2008,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+b81bfbf3-e7ef-49b2-a5b3-36d4283f3b7e,NORTON,1,44.99718125,-71.74868134,,,,,,,,,2017,"Private, (other than railroad)",9/20/2017,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+0621cb55-7d0b-4c32-9a67-37031581b1a9,BALTIMORE,2,43.35126374,-72.56123613,,,,,,,,,1984,Town Highway,6/17/2014,Round,Steel Corrugated,Stone masonry,24,24,50,Good,No
+7ef480cc-0060-48a6-9929-370c9f4d8da3,LUDLOW,1,43.36925706,-72.70415844,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+63881b83-4708-47c2-ac06-37635b883f74,WILMINGTON,3,42.89511641,-72.8834284,,,,,,,,,2018,Town Highway,8/30/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+0ddbc917-21d5-429f-b634-37bfcfbcd1c1,SOUTH BURLINGTON,3,44.45317628,-73.17667276,,,,,,,,,2007,Town Highway,7/30/2013,Round,Plastic Corrugated,Rip-rap,18,18,100,Good,No
+ba297247-5979-4676-9bb0-37d512c74d41,WAITSFIELD,3,44.22796729,-72.79045409,,,,,,,,,1990,Town Highway,9/21/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,13,20,40,Poor,Yes
+7439a4b5-afb6-4d5e-9769-38756db80757,READING,1,43.50107502,-72.5873555,,,,,,,,,2013,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+58dd4e6a-e772-402e-925b-387dad855af1,GROTON,1,44.20758206,-72.20236411,,,,,,,,,2018,Town Highway,7/23/2018,Round,Plastic Smooth,Rip-rap,18,18,20,Excellent,No
+b3d6ab7f-cf8c-49b6-bd4b-38b8fd55f86c,SPRINGFIELD,2,43.32215988,-72.53501103,,,,,,,,,2001,Town Highway,8/5/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+c538fae4-c9ec-45de-b6cc-3901d0876b59,WAITSFIELD,1,44.21405273,-72.80456336,,,,,,,,,1990,Town Highway,9/21/2020,Round,Steel Corrugated,Stone masonry,15,15,40,Poor,No
+6f0b4372-0279-462d-abac-3905667a7ade,PUTNEY,1,42.96622425,-72.52705346,,,,,,,,,2005,Town Highway,4/17/2015,Round,Plastic Smooth,Stone masonry,48,48,70,Excellent,No
+dc6c6889-7d61-435e-8068-39115ee51116,WINDSOR,1,43.45784514,-72.41209752,,,,,,,,,2010,Town Highway,10/11/2016,Round,Steel Corrugated,Stone masonry,15,15,32,Good,No
+204bbf52-02e0-41d6-9064-39421973168f,STRATTON,3,43.06127556,-72.97420776,,,,,,,,,2005,Town Highway,11/10/2017,Round,Plastic Smooth,Stone masonry,18,18,34,Excellent,No
+70681fe6-9bff-44a1-9c88-3947dd51c526,TINMOUTH,1,43.42946041,-73.0284765,,,,,,,,,2000,Town Highway,5/25/2020,Round,Plastic Smooth,Stone masonry,24,24,20,Excellent,No
+d7568122-7028-447a-a1ec-3965511a91c5,LEICESTER,2,43.85213738,-73.08819118,,,,,,,,,2007,Town Highway,10/18/2018,Round,Plastic Corrugated,Stone masonry,15,15,33,Excellent,No
+ea279cf6-fb4c-4321-b75c-3966bb944a30,TINMOUTH,1,43.49031452,-73.03687504,,,,,,,,,1974,Town Highway,6/12/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+95417192-1f2c-4686-8926-399ea8083722,WARREN,1,44.11069285,-72.85314392,,,,,,,,,2011,Town Highway,6/29/2018,Round,Steel Corrugated,Stone masonry,18,18,42,Poor,No
+ddae5e9f-5a01-46b5-ab2d-39cf49c3652a,BRATTLEBORO,2,42.83675387,-72.58484263,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Smooth,Concrete,18,18,40,Good,No
+4395ce0e-a71d-45b2-b0d1-3a9de7292b00,READING,1,43.52184867,-72.55115285,,,,,,,,,2013,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+a8df0a09-a86c-4708-a979-3aa905c7a567,WEATHERSFIELD,1,43.3797723,-72.47613519,,,,,,,,,2010,Town Highway,5/15/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+fdbcabf6-3d37-413e-b9fc-3ae0d765daac,GOSHEN,2,43.90956943,-73.01846762,,,,,,,,,2020,Town Highway,6/9/2020,Round,Plastic Smooth,Concrete,18,18,50,Excellent,No
+6b987547-31ca-400c-aeaf-3b28755c3d65,SPRINGFIELD,3,43.31267236,-72.50309034,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Excellent,No
+334cd2f3-d48b-427a-b947-3b2f388eea50,NORTON,1,44.99840417,-71.74838928,,,,,,,,,2015,Town Highway,6/21/2006,Round,"Pipe, Plastic",Stone masonry,48,48,100,Good,No
+75de0d0b-d632-444c-8d44-3b514a2b8356,WARREN,3,44.12247252,-72.81166669,,,,,,,,,2010,Town Highway,7/5/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+b7120f26-3990-4888-ac85-3b6b80ae674e,READING,1,43.51991141,-72.55959555,,,,,,,,,2013,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+bba6b500-da7e-4991-9e89-3bbdfaf5ca74,TINMOUTH,3,43.4569492,-73.021528,,,,,,,,,1964,Town Highway,6/4/2020,Round,Steel Corrugated,Stone masonry,15,15,40,Fair,No
+7ff9872a-ef1b-4ad8-b35f-3bfdc77761e6,ANDOVER,1,43.29204461,-72.68330666,,,,,,,,,2004,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,24,Good,No
+5db6bf3b-ad3a-4220-bbba-3c3c1bca5a50,WAITSFIELD,2,44.20272799,-72.79923496,,,,,,,,,1990,Town Highway,9/15/2020,Round,Steel Corrugated,Concrete,36,36,45,Good,No
+83deeba7-3b2f-4377-b242-3c5c8e173e4f,ANDOVER,2,43.24944406,-72.70674416,,,,,,,,,2010,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,31,Good,No
+558506ce-cd9f-444d-86d3-3c7c4cc3030f,TINMOUTH,3,43.44957124,-73.05048629,,,,,,,,,1970,Town Highway,5/28/2020,Ellipse/Squashed,Steel Corrugated,Concrete,18,30,40,Good,No
+4abfa242-4061-4139-acb8-3c9148e51b20,CHARLOTTE,2,44.2913988,-73.15143149,,,,,,,,,2019,Town Highway,8/20/2019,Round,"Pipe, Metal",Rip-rap,18,18,40,Excellent,No
+773ed548-2c29-4065-bbc6-3cb31b8b507a,WAITSFIELD,3,44.18397516,-72.81772843,,,,,,,,,1997,Town Highway,9/17/2020,Round,Plastic Corrugated,Stone masonry,32,32,60,Good,No
+4b9b9b0d-2418-4b5d-9a55-3cb48be64ff0,UNDERHILL,1,44.61341498,-72.90386221,,,,,,,,,2015,Town Highway,8/14/2018,Round,Plastic Corrugated,Stone masonry,12,12,40,Fair,No
+4a5ff801-d6d7-44b5-9b24-3cdd9a7fa551,WEATHERSFIELD,1,43.3818294,-72.46926962,,,,,,,,,2001,Town Highway,5/19/2014,Round,Steel Corrugated,Stone masonry,24,24,36,Good,No
+bfaeaeae-f037-46f0-a33b-3d2fa52c6960,BOLTON,1,44.416396,-72.898566,,,,,,,,,2018,Town Highway,7/19/2018,Round,Plastic Corrugated,Stone masonry,30,30,55,Good,No
+f12c9ff5-1e7b-451c-b7d1-3d3394088514,BRATTLEBORO,2,42.82549457,-72.58917259,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+2e7a3653-4355-43f3-8b57-3d44956d36a3,READING,1,43.47871938,-72.6016097,,,,,,,,,2013,Town Highway,6/15/2016,Ellipse/Squashed,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+e6d35f9d-23a3-4ef5-ac1e-3d5ee4f3499d,CHARLOTTE,1,44.30623223,-73.15384984,,,,,,,,,2014,Town Highway,6/2/2014,Round,Plastic Smooth,Stone masonry,15,15,60,Excellent,No
+17cf1ce6-5d19-45a6-b0fa-3d67230dcc8d,UNDERHILL,3,44.52168005,-72.93452875,,,,,,,,,2014,Town Highway,7/31/2018,Round,Steel Corrugated,Rip-rap,18,18,40,Good,No
+2e3e8d26-c40c-470a-9da2-3d6ec4f79ff2,WARREN,3,44.12165303,-72.81198572,,,,,,,,,2010,Town Highway,7/5/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+bba7d7ac-cf5e-4d7e-9105-3de489431efc,SPRINGFIELD,1,43.30148691,-72.49623256,,,,,,,,,2019,Town Highway,8/10/2019,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+371d16c5-81a8-4933-9564-3e260eab6ad5,HALIFAX,1,42.82596269,-72.80126462,,,,,,,,,1980,Town Highway,6/8/2017,Round,Steel Corrugated,Stone masonry,48,48,36,Good,No
+3382050a-fb64-4dcf-a0ea-3e474bfc1c3b,UNDERHILL,3,44.52124639,-72.93856335,,,,,,,,,2017,Town Highway,6/7/2018,Round,Steel Corrugated,Concrete,24,24,40,Excellent,No
+937a9131-085c-4446-836b-3f4024f34cd4,ANDOVER,1,43.25984674,-72.75559162,,,,,,,,,1999,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+b6cdec03-c142-4346-b0e9-3fac7b12e824,ANDOVER,1,43.27621045,-72.70929313,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+2015cf87-f768-4fd4-86ce-3faf70c8b7a1,CHARLESTON,1,44.8348072,-72.02044745,,,,,,,,,2010,Town Highway,9/13/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+a2434d16-a344-4dc5-8685-3fca5d712788,SPRINGFIELD,1,43.24572265,-72.53421633,,,,,,,,,2002,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+c9990397-2407-43fc-9231-3fde8e648f3c,WILMINGTON,3,42.91789536,-72.88319023,,,,,,,,,2017,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,24,24,65,Excellent,Yes
+6a2d4340-0264-4a4b-9883-3ff49f35c41d,ANDOVER,1,43.30227572,-72.72814914,,,,,,,,,1998,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,36,36,60,Good,No
+5a3decbc-0ce5-44f9-94dd-3ff7542c40fe,LONDONDERRY,1,43.18452403,-72.81697887,,,,,,,,,2013,Town Highway,10/29/2013,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+65959163-7b60-4268-9f68-4025c8797e7c,GROTON,1,44.22959433,-72.21593393,,,,,,,,,2016,Town Highway,1/26/2016,Round,Plastic Smooth,Rip-rap,18,18,35,Excellent,No
+521e5a88-5834-4102-805f-402d84ea914b,LUDLOW,1,43.3997258,-72.72227689,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+b6bab43f-5b4e-480e-af1e-40540fe10132,READING,1,43.50699412,-72.53161067,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Concrete,30,30,40,Good,No
+b32784b9-8955-4a20-9dfa-408f601a6191,ANDOVER,1,43.30116465,-72.74292253,,,,,,,,,2017,Town Highway,10/8/2018,Ellipse/Squashed,Steel Corrugated,Stone masonry,38,57,30,Excellent,No
+3b1753ef-7be5-4df1-9db4-413e160cb3d5,DERBY,1,44.89767281,-72.09738789,,,,,,,,,2018,Town Highway,9/27/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+153a6ce1-ecdb-4005-a03e-414397dc4646,TINMOUTH,1,43.45358345,-73.08993432,,,,,,,,,1987,Town Highway,5/22/2020,Round,Plastic Smooth,Stone masonry,15,15,30,Good,No
+31b2c485-f3b2-4942-815a-4144f9edd324,GROTON,1,44.23347612,-72.18281899,,,,,,,,,2012,Town Highway,6/22/2011,Round,Plastic Smooth,Rip-rap,18,18,30,Excellent,No
+a1c185cb-34eb-443b-aa20-4177c904642e,TINMOUTH,1,43.47203109,-73.07419172,,,,,,,,,1977,"Private, (other than railroad)",5/20/2020,Round,Steel Corrugated,Stone masonry,15,15,25,Good,No
+524751e8-8bbc-464a-967d-417b797450dc,LUDLOW,1,43.4000137,-72.72579781,,,,,,,,,2013,"Private, (other than railroad)",5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+7dfba457-e256-4f2d-97bd-41d32633714e,LUDLOW,1,43.39829947,-72.73055389,,,,,,,,,2017,Town Highway,7/12/2017,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+5821b276-0313-43b8-bd28-4200cff1e49f,GROTON,1,44.19570029,-72.24231672,,,,,,,,,2015,Town Highway,2/5/2016,Round,"Pipe, Plastic",Rip-rap,18,18,30,Good,No
+607144b0-2017-48d9-a490-4246a41962f8,WILMINGTON,3,42.90383618,-72.88327354,,,,,,,,,2018,Town Highway,8/30/2018,Round,Plastic Smooth,Concrete,30,30,40,Excellent,No
+b9a8bf5b-cc92-4266-990a-426b3ee2ecaf,ANDOVER,3,43.28460367,-72.74701118,,,,,,,,,2013,Town Highway,2/2/2015,Box,Concrete Poured,Concrete,48,72,55,Excellent,No
+b8b96f8c-c577-46e4-b726-428d6ff23a2f,SPRINGFIELD,1,43.26212585,-72.5031132,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Concrete,18,18,40,Good,No
+0442e56f-ba29-4285-980b-432733df9e65,READING,1,43.52035549,-72.5446429,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,50,Good,No
+76957ee4-668f-433c-ab1c-43533c97fc7a,SPRINGFIELD,1,43.32364282,-72.50192356,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,28,Excellent,No
+f5cccd8d-fb79-4e8c-a70e-4375b115e6c5,SPRINGFIELD,2,43.32468886,-72.41221205,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+34174164-1a93-482b-91e9-43ceb54bafeb,HALIFAX,2,42.82168727,-72.77848702,,,,,,,,,1985,Town Highway,6/14/2017,Round,Steel Corrugated,Stone masonry,48,48,40,Good,No
+0c4fbac3-8324-4770-961b-43ec7571bd8e,READING,1,43.47331532,-72.60469588,,,,,,,,,2013,Town Highway,7/14/2016,Round,Steel Corrugated,Stone masonry,15,15,20,Excellent,No
+2ce48077-607b-4ba4-af1e-43ffd4496ffd,SPRINGFIELD,1,43.32996567,-72.49649364,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+76215541-0836-4518-b091-44555731d52a,WARREN,1,44.13469762,-72.87680197,,,,,,,,,2017,Town Highway,10/5/2017,Round,Steel Corrugated,Stone masonry,24,24,44,Excellent,No
+350c090c-a780-4523-a2c3-448bd83479a7,CORNWALL,3,43.91754915,-73.17702897,,,,,,,,,2004,Town Highway,6/5/2018,Round,Plastic Smooth,Rip-rap,36,36,40,Excellent,No
+b823555b-ecbb-4a9e-ab7f-44b799262926,GROTON,1,44.19692559,-72.26813153,,,,,,,,,1988,Town Highway,5/26/2015,Round,Steel Corrugated,Concrete,54,54,30,Good,No
+00d0ecde-b59a-4d20-bdb6-44babad38dea,READING,1,43.48567998,-72.60524364,,,,,,,,,2011,Town Highway,6/30/2016,Round,Plastic Corrugated,Concrete,15,15,30,Excellent,No
+9036e6b8-f753-47d8-a6fa-44f33b269df5,SPRINGFIELD,1,43.32044831,-72.4667283,,,,,,,,,2018,Town Highway,6/26/2018,Round,Plastic Smooth,Stone masonry,18,18,50,Excellent,No
+86d40070-e1c5-424a-9b69-44f6a616972e,STRATTON,3,43.10923296,-72.89611684,,,,,,,,,1976,Town Highway,10/12/2017,Round,Steel Corrugated,Concrete,100,100,70,Good,No
+bf9dba91-8814-4b43-b228-45e417bf249f,READING,3,43.4685491,-72.57892195,,,,,,,,,1996,Town Highway,6/13/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+bc582d50-416e-402d-b24a-465c741babef,CORNWALL,3,43.95880704,-73.25276312,,,,,,,,,2017,Town Highway,12/19/2017,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+5ed6f449-abb3-406d-b3b0-467a95b4cc90,SPRINGFIELD,1,43.26620692,-72.45353889,,,,,,,,,2000,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,24,24,50,Good,No
+99e06bfc-3d42-4abe-a9e6-46b7389bab96,ANDOVER,2,43.27178626,-72.70338685,,,,,,,,,2005,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,36,36,40,Good,No
+7770f96d-b5c3-4725-b5da-46e810d7319d,TINMOUTH,1,43.46406344,-73.07801693,,,,,,,,,1990,Town Highway,5/21/2020,Ellipse/Squashed,Steel Corrugated,Concrete,48,72,50,Good,Yes
+8a377fd5-4d21-41bb-81fb-4702cc354eab,ANDOVER,1,43.25531846,-72.73733872,,,,,,,,,2005,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,16,16,25,Fair,No
+363a1606-5f82-49f3-8b5e-472c1b3690c6,ANDOVER,1,43.33167635,-72.72729196,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+195ac6fb-9e4b-413d-ac09-473d75142ace,ANDOVER,2,43.32235144,-72.71222662,,,,,,,,,2009,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,50,Fair,No
+1d47f777-5705-45ad-a5a5-47a35156e8d0,LUDLOW,1,43.33864939,-72.69723974,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,33,Excellent,No
+f2c26aac-1f1c-499e-b15e-47a99146e9b9,LUDLOW,1,43.39879731,-72.73035943,,,,,,,,,2000,Town Highway,7/15/2002,Round,"Pipe, Plastic",Stone masonry,24,24,42,Excellent,No
+bffa9745-9d84-44a6-93c4-480ca67b7c77,WEATHERSFIELD,1,43.36108947,-72.42095773,,,,,,,,,2007,Town Highway,5/21/2014,Round,Steel Corrugated,Rip-rap,24,24,48,Good,No
+c81e1aa4-9fa7-4ee0-a4d3-482e20254dac,ANDOVER,1,43.33125892,-72.72583374,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+cc4deb13-a11a-4ba2-afb0-48337b4eca54,WINDSOR,3,43.47741181,-72.39726616,,,,,,,,,2015,Town Highway,10/11/2016,Ellipse/Squashed,Steel Corrugated,Concrete,32,36,200,Excellent,No
+a2dd8499-ff5d-4baf-adde-483da5c13514,GOSHEN,2,43.91495415,-73.01781092,,,,,,,,,2009,Town Highway,6/30/2020,Round,Steel Corrugated,Stone masonry,30,30,40,Excellent,No
+e9655c73-d814-456c-9525-4851902850ae,TINMOUTH,1,43.47633885,-73.07396061,,,,,,,,,1980,Town Highway,5/20/2020,Round,Plastic Smooth,Stone masonry,18,18,25,Good,No
+872f0b00-7ead-4306-903b-4861cacd7cdd,WAITSFIELD,1,44.19148327,-72.79336448,,,,,,,,,1990,Town Highway,9/15/2020,Round,Plastic Corrugated,Stone masonry,18,18,50,Good,No
+0a9ff197-17eb-4b79-9e2b-48659344da67,DERBY,1,44.89040011,-72.1046417,,,,,,,,,2020,Town Highway,6/9/2020,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+1dd424dd-c245-4496-97ac-489eefaf2f1a,GOSHEN,1,43.89130429,-73.02412963,,,,,,,,,2002,Town Highway,5/26/2020,Round,Plastic Smooth,Stone masonry,24,24,42,Good,No
+fd4ab1b3-f7e9-4df5-9375-48a021108b78,JAY,1,44.94119381,-72.45664058,,,,,,,,,2015,Town Highway,7/27/2015,Round,Plastic Smooth,Rip-rap,15,15,100,Excellent,No
+19fca9e8-32bd-4897-9ce0-48c8a7178ba5,GROTON,1,44.2399264,-72.23776751,,,,,,,,,2015,"Private, (other than railroad)",10/19/2015,Round,Plastic Smooth,Rip-rap,18,18,20,Excellent,No
+fd9ac43a-5fce-4e43-a1fa-492991160443,TINMOUTH,3,43.47748472,-73.06619776,,,,,,,,,1994,Town Highway,5/18/2020,Round,Plastic Smooth,Stone masonry,18,18,50,Good,No
+73edffd1-c329-47f5-b4bb-49310342baf0,WARREN,1,44.09369871,-72.83620887,,,,,,,,,2011,Town Highway,7/2/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+3fe14f67-60e2-4e67-80cb-4a092d272743,WEATHERSFIELD,1,43.35610407,-72.44868416,,,,,,,,,2012,Town Highway,5/19/2014,Round,Plastic Corrugated,Concrete,18,18,52,Good,No
+7dc76020-c990-43ff-999b-4a2b055446c8,GROTON,1,44.20554751,-72.18210559,,,,,,,,,1995,Town Highway,6/22/2011,Round,Plastic Smooth,Rip-rap,18,18,40,Good,No
+c4b21621-cdf8-457f-9c02-4a86c8d2f770,GROTON,1,44.21812673,-72.24312992,,,,,,,,,2002,Town Highway,7/17/2013,Round,Plastic Smooth,Concrete,30,30,30,Excellent,No
+d6890b78-abca-4bfe-8bba-4a90aeb690f5,GROTON,1,44.24245019,-72.18002902,,,,,,,,,2016,Town Highway,6/22/2011,Round,Steel Corrugated,Rip-rap,72,72,30,Good,No
+0126f286-0ccd-4e24-9fe9-4ae978802be0,WEATHERSFIELD,1,43.4032678,-72.40688,,,,,,,,,2007,Town Highway,5/15/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+8a72506b-569c-4bb4-9abb-4b9782090166,WAITSFIELD,2,44.17056584,-72.79744967,,,,,,,,,1997,Town Highway,9/16/2020,Round,Steel Corrugated,Stone masonry,24,24,40,Fair,No
+3e13a3c5-11ff-4719-b280-4c471f807691,READING,1,43.49777882,-72.5313434,,,,,,,,,2013,Town Highway,7/14/2016,Ellipse/Squashed,Steel Corrugated,Stone masonry,13,16,30,Good,No
+b93c33b3-4fc0-4c7b-b1f3-4c698ca05f43,READING,1,43.50099941,-72.58721761,,,,,,,,,2013,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+594c5f20-2c40-4294-8e05-4cc16fe5f22e,GOSHEN,2,43.87561812,-73.02543121,,,,,,,,,2015,Town Highway,8/2/2019,Round,Plastic Corrugated,Rip-rap,18,18,40,Good,No
+f418362a-e720-4f3c-8af9-4d4b66255be4,SPRINGFIELD,1,43.27944654,-72.53996878,,,,,,,,,2001,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+b0ce7429-f244-4cad-b9d8-4dbeb8c3b7b9,SPRINGFIELD,1,43.314449,-72.42881488,,,,,,,,,2019,Town Highway,6/16/2019,Round,Plastic Smooth,Stone masonry,15,15,33,Excellent,No
+1f7b7a96-fb89-4ec6-960c-4df104071e41,ANDOVER,2,43.31367138,-72.70249204,,,,,,,,,2009,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,25,Good,No
+4a465d20-939e-4d8f-a02f-4dfc1d2dd59c,ANDOVER,1,43.33191887,-72.72784779,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,24,24,31,Good,No
+ad88ebe9-7049-4643-b825-4e03322ef75a,TINMOUTH,1,43.46315792,-73.08031655,,,,,,,,,1974,Town Highway,5/21/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,30,48,30,Good,No
+af31a399-66fe-4d15-b487-4e166a93d0f5,READING,1,43.5521133,-72.61519857,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Good,No
+94f85ec0-5fc6-4dab-b95c-4e70f2a4d2ea,WARREN,1,44.107393,-72.85130025,,,,,,,,,2010,Town Highway,6/29/2018,Round,Steel Corrugated,Concrete,24,24,60,Poor,No
+9d76c041-3313-42b2-97a4-4e89fadabf04,READING,1,43.46470269,-72.62171985,,,,,,,,,2015,Town Highway,6/29/2016,Round,Plastic Corrugated,Stone masonry,24,24,30,Excellent,No
+85ffdca7-880c-48ec-ad77-4e90b68861e1,STRATTON,3,43.06103326,-72.96301196,,,,,,,,,2012,Town Highway,11/10/2016,Round,Steel Corrugated,Stone masonry,30,30,40,Excellent,No
+ff8a0c2a-b7ed-4546-b071-4e9cd7ce7c88,GROTON,1,44.21892838,-72.26278914,,,,,,,,,2013,Town Highway,7/10/2013,Round,Steel Corrugated,Rip-rap,24,24,30,Excellent,No
+07d59809-bf3e-4c56-a327-4fbae730a9b3,TINMOUTH,1,43.40031028,-73.03410353,,,,,,,,,1984,Town Highway,5/27/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+13417c31-21bc-4533-8540-4fc91a422a02,BALTIMORE,1,43.3573611,-72.58029046,,,,,,,,,2009,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+d5e3bb76-0189-4c5b-ad9c-501b96f8f6ba,LUDLOW,1,43.39815649,-72.71067551,,,,,,,,,2011,"Private, (other than railroad)",7/19/2017,Round,Plastic Corrugated,Rip-rap,15,15,20,Good,No
+b6f3dfa0-9e31-48aa-a7e4-503581b952e9,GOSHEN,1,43.8891039,-73.01688145,,,,,,,,,2012,Town Highway,11/3/2018,Round,Plastic Corrugated,Rip-rap,18,18,40,Good,No
+48358b3c-5ff0-4cef-bda2-506066ae6b5e,BALTIMORE,2,43.34915262,-72.5527838,,,,,,,,,2016,"Private, (other than railroad)",3/23/2017,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+64ab9c89-521e-4e10-9b4c-508203386f22,SPRINGFIELD,3,43.3183389,-72.50795836,,,,,,,,,2006,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+befd23f9-d5df-493b-9699-51a8b0ca56c4,WILMINGTON,1,42.86372158,-72.87693242,,,,,,,,,2017,Town Highway,11/8/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+831afecd-78b6-4a5b-a56f-51ec196083d6,READING,1,43.4774694,-72.57308635,,,,,,,,,2015,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+cf70b300-d34c-42e0-989e-51f206671e0f,GOSHEN,1,43.88887662,-73.01639499,,,,,,,,,2012,Town Highway,5/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+425c5c11-955d-43bb-9186-5202e1ce09d2,SPRINGFIELD,3,43.32791715,-72.52568772,,,,,,,,,2002,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,50,Good,No
+f6ada6c2-ed27-40e7-b6bf-525c8b2f4d71,WINDSOR,2,43.51066013,-72.44125694,,,,,,,,,2007,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Good,No
+d5234467-0bb3-4911-8449-531f93997eb7,CORNWALL,2,43.95689299,-73.23851049,,,,,,,,,1993,Town Highway,6/6/2018,Round,"Pipe, Plastic",Stone masonry,24,24,40,Excellent,No
+5e3d039d-9cda-42a3-866a-53540d99c299,TINMOUTH,3,43.47345375,-73.05551476,,,,,,,,,1974,Town Highway,5/18/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Poor,No
+81938d16-57cf-444b-bd09-53b8f083471f,WEATHERSFIELD,1,43.3817138,-72.4681672,,,,,,,,,2001,Town Highway,5/19/2014,Round,Steel Corrugated,Stone masonry,36,36,40,Good,No
+8b0cc636-5174-4b86-ae28-53d537eafc78,LUDLOW,1,43.3758139,-72.67508664,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+24ee7899-8dba-46d4-85de-53fed4142ff0,UNDERHILL,1,44.58078809,-72.91592791,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Concrete,30,30,50,Fair,No
+223396cf-8a1f-4b1e-957d-5403886471a8,ANDOVER,1,43.30199504,-72.70155124,,,,,,,,,2007,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,29,Good,No
+8eb68970-c248-4f59-b37f-543cb4ef2efb,READING,1,43.55062013,-72.6142794,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,60,Poor,No
+0ced1ae5-c7e7-49c7-aefa-5449966734f3,ANDOVER,1,43.28282491,-72.73573831,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+f1a545ba-7e19-4992-a52b-54b00ad88bcf,WILMINGTON,3,42.9116403,-72.8783233,,,,,,,,,2017,Town Highway,10/24/2018,Round,Steel Corrugated,Concrete,59,81,80,Excellent,No
+afdf39e3-fce6-44bb-8684-54c089464eed,ANDOVER,2,43.32723184,-72.72234574,,,,,,,,,2012,Town Highway,9/1/2013,Arch,Steel Corrugated,Stone masonry,18,18,30,Good,No
+a60ac9d7-3f24-455e-a5af-54e829b706b6,READING,3,43.4683979,-72.57745249,,,,,,,,,1996,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,15,15,50,Good,No
+fe56beab-fdf9-4ece-bf78-552b13b75be3,ANDOVER,1,43.27742035,-72.70737919,,,,,,,,,2016,Town Highway,9/7/2016,Round,Steel Corrugated,Concrete,72,72,40,Excellent,No
+3c38d63f-eb06-411f-9d20-552f2777f272,ANDOVER,1,43.32338537,-72.70688487,,,,,,,,,1998,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,36,36,40,Excellent,No
+5ee09e55-c74b-42ed-bc96-553d3ccc7688,SPRINGFIELD,1,43.23744812,-72.53933604,,,,,,,,,2014,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+9491e61b-9dd4-46fb-baaa-559df80694dc,STRATTON,3,43.05359167,-72.88341773,,,,,,,,,2008,Town Highway,11/18/2016,Round,Plastic Smooth,Stone masonry,24,24,48,Excellent,No
+d9d88cde-dd60-4f09-93c3-560acd5cfad1,WILMINGTON,3,42.91925859,-72.88352467,,,,,,,,,2017,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,65,Excellent,No
+8baae0db-d0d7-40f7-9dae-56444afdd6fa,SPRINGFIELD,1,43.33170796,-72.46098541,,,,,,,,,2003,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,15,15,30,Good,No
+38aab9c1-b7cd-4d40-b499-5660fa319502,SPRINGFIELD,1,43.26120062,-72.53619333,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+8e24b39d-de14-4788-9388-56756735d2cb,WINDSOR,1,43.45832543,-72.39466926,,,,,,,,,2010,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,15,15,35,Good,No
+e5d4e813-aa1d-4ddf-855d-56a787f4811f,ANDOVER,2,43.32549054,-72.72042024,,,,,,,,,2002,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,53,Excellent,No
+894d3959-83ef-4a2d-b0e6-56dde093c7c0,WEATHERSFIELD,1,43.41162489,-72.48624024,,,,,,,,,2013,Town Highway,5/12/2014,Round,Steel Corrugated,Stone masonry,18,18,38,Good,No
+804c7b91-f6d3-4a2c-ac99-56e32b4c82ef,GOSHEN,2,43.8906276,-73.01074751,,,,,,,,,2006,Town Highway,5/28/2020,Round,Plastic Smooth,Stone masonry,24,24,37,Good,No
+6470a165-ca27-40cd-81b5-57aaf1689e26,WINDSOR,3,43.49459449,-72.40659968,,,,,,,,,2017,Town Highway,10/31/2017,Round,Steel Corrugated,Stone masonry,36,36,53,Excellent,No
+b3e2f48e-7cdc-4735-bfcd-57b5f531e705,READING,1,43.52078698,-72.53777783,,,,,,,,,2015,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+2c254bcb-f34f-4ccb-8d2a-57b92363985f,SUNDERLAND,2,43.09292598,-73.11115964,,,,,,,,,2016,Unknown,6/20/2018,Round,Plastic Corrugated,Rip-rap,18,18,33,Excellent,Yes
+f41a1fef-fa17-45bd-b2fc-57e32e5f6800,WEATHERSFIELD,1,43.41596983,-72.52054043,,,,,,,,,2013,"Private, (other than railroad)",5/8/2014,Round,Steel Corrugated,Rip-rap,18,18,36,Good,No
+90eeae56-d239-4238-8656-57ff4d6c9318,ANDOVER,1,43.28968908,-72.76147002,,,,,,,,,2006,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,61,Good,No
+79a3e0ca-8ef7-47d5-af43-58614537bd2d,DERBY,1,45.00006789,-72.05805081,,,,,,,,,2015,Town Highway,5/13/2015,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+99072a8b-0e0e-4f03-9e6f-58ac56c76736,WESTMINSTER,1,43.092583,-72.46418,,,,,,,,,2009,Town Highway,2/28/2014,Round,Steel Corrugated,Concrete,60,60,44,Good,No
+e3ae47fe-4d3e-4a04-b040-5934f32609c3,SPRINGFIELD,1,43.23880689,-72.53896985,,,,,,,,,2001,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+96c2ac39-6a03-4709-a1c1-597290a67643,GOSHEN,2,43.9126498,-73.01909536,,,,,,,,,2009,Town Highway,9/23/2019,Round,Plastic Smooth,Stone masonry,24,24,34,Fair,No
+a3cc7055-4af4-4b5d-98ac-599b72eaf1c5,WINDSOR,1,43.48593511,-72.39993818,,,,,,,,,2017,Town Highway,7/6/2017,Round,Plastic Corrugated,Stone masonry,36,36,20,Excellent,No
+66e84eff-1025-4b32-a9a3-59b4aba97625,GOSHEN,3,43.85482701,-73.01158286,,,,,,,,,2020,Town Highway,12/30/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,43,64,52,Excellent,No
+ebcd6a52-2201-4962-a4e8-59eaabf78491,LUDLOW,2,43.39466719,-72.6901946,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+27de7c95-ce9a-4932-ae5f-5a298b2e367b,SPRINGFIELD,1,43.28875357,-72.45307268,,,,,,,,,2013,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+ba94b4eb-118c-4b75-a9da-5a42c16e9ae9,WILMINGTON,2,42.84552288,-72.83042945,,,,,,,,,1999,Town Highway,11/5/2018,Round,Steel Corrugated,Stone masonry,72,72,60,Excellent,No
+52a3bfc0-ecdc-41c1-9cd8-5a4dc7587166,WAITSFIELD,3,44.13893342,-72.81003828,,,,,,,,,1989,Town Highway,9/18/2020,Round,Steel Corrugated,Concrete,72,72,80,Fair,No
+faa13a3b-44fc-4555-a048-5b69f507c840,CHARLESTON,3,44.89776034,-72.05419207,,,,,,,,,2010,Town Highway,7/1/2015,Ellipse/Squashed,Steel Corrugated,Rip-rap,42,50,36,Good,No
+e7b79b12-be93-4b08-9573-5bde837172f3,READING,3,43.47116994,-72.58425089,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Stone masonry,18,18,20,Good,No
+798aec25-ccf0-46e3-8719-5bf1336c2373,WEATHERSFIELD,1,43.38837366,-72.46493479,,,,,,,,,2012,Town Highway,5/15/2014,Round,Steel Corrugated,Stone masonry,24,24,40,Good,Yes
+232cb673-8aa0-4a0d-a570-5c1b40eaf002,CHARLESTON,3,44.81686044,-71.96907994,,,,,,,,,2010,Town Highway,9/3/2019,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+d30177f5-6a90-4a92-9df7-5d1a097e7064,RIPTON,2,44.00583657,-73.03633335,,,,,,,,,1965,Town Highway,8/15/2014,Round,Steel Corrugated,Concrete,48,48,45,Good,Yes
+ab30b2d4-595c-4a6c-b511-5d3aa353cea4,BALTIMORE,1,43.3602494,-72.57260593,,,,,,,,,1994,Town Highway,6/17/2014,Round,Steel Corrugated,Stone masonry,18,18,36,Fair,No
+5fcf6eae-f011-4513-8b42-5d3c56b3b204,UNDERHILL,1,44.52989421,-72.86962488,,,,,,,,,2014,Town Highway,8/13/2018,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+31da0396-01eb-4f60-85d8-5dec02d2e271,SPRINGFIELD,1,43.27921895,-72.44163657,,,,,,,,,2003,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+46c918af-8c7e-49fb-8d6b-5df7b9aca1f2,SPRINGFIELD,1,43.29406255,-72.52966696,,,,,,,,,2019,Town Highway,8/9/2019,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+c4b0f110-f827-4809-a8ea-5e2b0ecb62b8,SPRINGFIELD,1,43.31789506,-72.42966473,,,,,,,,,2016,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+0cb0c343-f8bb-4648-ad25-5e76d1d5b28f,LUDLOW,1,43.37903327,-72.67344346,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,35,Excellent,No
+ec5815c4-f2c1-4052-9481-5ecf631da483,WEATHERSFIELD,1,43.35449899,-72.47550579,,,,,,,,,2012,Town Highway,5/19/2014,Round,Steel Corrugated,Concrete,18,18,40,Good,No
+a4c51d6e-2e85-4e4d-ad70-5f0f3916eccb,MILTON,3,44.62736175,-73.10082415,,,,,,,,,2018,Town Highway,6/26/2018,Round,Plastic Corrugated,Rip-rap,18,18,40,Excellent,No
+9f63f069-4794-4ec9-8ff2-5f19b2b2a7f0,WAITSFIELD,2,44.17131588,-72.79627803,,,,,,,,,1960,Town Highway,9/16/2020,Box,Concrete Poured,Concrete,50,54,35,Poor,No
+f2d2252f-5520-4f19-9254-5f38484009b5,BRATTLEBORO,2,42.82653403,-72.58953364,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Corrugated,Stone masonry,15,15,50,Good,No
+7229d802-7b15-4dee-909b-5f4efc1b68d0,SPRINGFIELD,1,43.31918443,-72.47007263,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,15,15,35,Good,No
+fb1ea537-bd8e-40e0-803d-5f59c9158a18,ANDOVER,1,43.322834,-72.70681363,,,,,,,,,1998,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+d23821fe-7141-4f9c-bfc4-5fa5f7a0bff9,TINMOUTH,1,43.45049569,-73.08764382,,,,,,,,,1974,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,36,36,30,Good,No
+3f704c71-e631-4b41-a53f-5fc4433b53df,SPRINGFIELD,1,43.29718241,-72.51985337,,,,,,,,,2002,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+7dc70e47-068d-4b6e-b580-5ffbbe550679,WILMINGTON,1,42.8882839,-72.84400105,,,,,,,,,2001,Town Highway,10/17/2018,Round,Plastic Smooth,Stone masonry,36,36,56,Excellent,Yes
+7fa807b5-4658-4765-91a4-601fc7448417,GOSHEN,2,43.91993289,-73.01841748,,,,,,,,,2017,Town Highway,4/22/2018,Round,Plastic Smooth,Concrete,24,24,40,Excellent,No
+b21d0ee8-a7f8-43f7-bb19-603774c35098,WILMINGTON,1,42.88590344,-72.82228015,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+32ea04c4-705b-4251-a1cc-6081ec550378,ANDOVER,1,43.25486676,-72.72722668,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+5df95677-2f41-4ea0-9958-60feda31c6d3,DERBY,1,44.97030989,-72.14602771,,,,,,,,,2018,Town Highway,6/13/2005,Round,Steel Corrugated,Rip-rap,18,18,30,Excellent,No
+79863b89-e0b8-40c2-9084-6125cfd88f09,WEATHERSFIELD,2,43.39247348,-72.48664528,,,,,,,,,2011,Town Highway,5/12/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+b830dd99-a188-455d-99d4-612d75e7b7ea,BRATTLEBORO,2,42.83793855,-72.58384121,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Smooth,Stone masonry,18,18,36,Good,No
+6b6fd36d-e939-46db-81c8-6158b382fec0,WEATHERSFIELD,1,43.36426222,-72.42189456,,,,,,,,,2007,Town Highway,5/21/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+ba9b193c-c135-4ff1-a77c-61888b9b05ab,WAITSFIELD,1,44.20388547,-72.82006243,,,,,,,,,1970,Town Highway,9/21/2020,Round,Steel Corrugated,Stone masonry,74,62,25,Fair,No
+b7582443-0929-43b8-814a-61aad4d3bc5e,SPRINGFIELD,1,43.26532946,-72.53641397,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Concrete,30,30,48,Excellent,No
+748fe72d-072b-48e2-b37d-61ab29ad1229,CHARLOTTE,2,44.27750655,-73.17218442,,,,,,,,,2017,Town Highway,10/24/2017,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+7637ebed-929e-4467-a88a-61d11c257b63,ANDOVER,1,43.27885303,-72.73595349,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,34,Good,No
+1739bad2-8202-44f5-a201-631057152cd8,SPRINGFIELD,3,43.25157536,-72.49259175,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+16ffe016-6cc2-44dc-82d4-632653644a32,WILMINGTON,1,42.90873783,-72.85457845,,,,,,,,,2017,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+7a00c56b-7238-4e27-bff5-63373d0d5433,ANDOVER,1,43.2570501,-72.68711551,,,,,,,,,1973,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,16,16,40,Good,No
+5955b287-ed91-43a9-a053-635e25ab3971,SPRINGFIELD,2,43.32811552,-72.41212841,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Good,No
+eeb765b8-d065-4c5a-8c8b-63758f64d027,SPRINGFIELD,3,43.32266506,-72.51096431,,,,,,,,,2006,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Excellent,No
+78e5efe7-ce98-4bb1-8573-641d97ea87e0,WINDSOR,1,43.47051467,-72.45210876,,,,,,,,,2011,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,24,24,20,Excellent,No
+9ca340f0-2c1f-4be4-bf3f-641eabdcd752,ANDOVER,2,43.33337773,-72.72350791,,,,,,,,,1997,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+e0930acf-a8e9-4e01-a14d-6452aaaafeaf,WILMINGTON,1,42.88565593,-72.82521119,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,46,Excellent,No
+36791f82-7a94-4404-827b-65cd3e061f00,GOSHEN,2,43.91212934,-73.0191447,,,,,,,,,2009,Town Highway,10/4/2019,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+d20b2bc0-9c64-4a98-a3d5-660b4f021979,GROTON,1,44.23949212,-72.23807328,,,,,,,,,2015,"Private, (other than railroad)",10/19/2015,Round,Plastic Smooth,Rip-rap,18,18,20,Excellent,No
+c0e5591a-c0e7-4bff-81fd-6617481bbe08,DERBY,1,44.96773064,-72.08058389,,,,,,,,,2017,Town Highway,11/14/2017,Round,"Pipe, Plastic",Rip-rap,18,18,50,Excellent,No
+0a65788a-f5e3-47b5-bccc-664533d067ad,BALTIMORE,2,43.36926265,-72.55655176,,,,,,,,,2016,Town Highway,3/23/2017,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+6e92f3b8-1bde-422a-af05-665ece7760fc,HALIFAX,3,42.75375762,-72.71174693,,,,,,,,,2012,Town Highway,6/26/2017,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+b445dbd2-6c84-4fa9-9450-669e0f1f7fad,ANDOVER,2,43.25078589,-72.70593953,,,,,,,,,2013,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,30,30,35,Excellent,No
+3d2908ea-92d1-492a-8ede-66b1a6a81009,WILMINGTON,1,42.86619399,-72.81844962,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+f2ee79e5-cca1-42bb-a0f6-67063d8212f0,CHARLESTON,1,44.84741776,-72.01903555,,,,,,,,,2020,Town Highway,9/18/2020,Round,Plastic Smooth,Rip-rap,15,15,60,Excellent,No
+b49e1096-bff8-4398-a337-674d22c96ad8,DERBY,1,44.94455558,-72.16633811,,,,,,,,,2018,Town Highway,5/7/2018,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+134d7f85-1c01-4a69-8c21-67842d1da133,SPRINGFIELD,1,43.31469743,-72.53914463,,,,,,,,,2005,Town Highway,8/5/2016,Round,Plastic Smooth,Stone masonry,18,18,34,Good,No
+db9a44e0-fc5f-46b8-ba8d-678a16c14f21,GROTON,1,44.195082,-72.22804772,,,,,,,,,2015,Town Highway,10/2/2015,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+8a50cd5d-4569-44ce-932e-679e4548af9d,CORNWALL,3,43.91755229,-73.17702025,,,,,,,,,2004,Town Highway,6/5/2018,Round,Plastic Smooth,Rip-rap,36,36,40,Excellent,No
+44261c44-fe3e-4dc6-9986-67b8aafd53b5,ANDOVER,1,43.29916367,-72.70090859,,,,,,,,,1997,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,6,6,20,Excellent,No
+871fafa7-bc04-4635-96a5-67c488c7b224,RUTLAND TOWN,1,43.66578349,-72.98447625,,,,,,,,,2010,Town Highway,4/9/2018,Round,"Pipe, Plastic",Rip-rap,15,15,40,Good,No
+45f7b918-82f6-4257-b440-67c6a181087a,ANDOVER,2,43.31297479,-72.70095322,,,,,,,,,2010,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+7d097a11-1cda-49db-9ab5-68deb041794e,SPRINGFIELD,1,43.26026925,-72.53617539,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+40dcee5c-1ea0-4328-8d44-68f7064527d2,TINMOUTH,1,43.46046547,-73.07484179,,,,,,,,,1985,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,12,12,20,Fair,No
+d54a8a50-59e6-4e8a-a87f-695f2aeba414,RUTLAND TOWN,1,43.58248157,-72.95858683,,,,,,,,,2000,Town Highway,4/5/2011,Round,Plastic Corrugated,Plastic,15,15,20,Good,No
+8b8e825d-0ee3-450c-8698-69ce69dbff46,GOSHEN,2,43.85654901,-72.99803671,,,,,,,,,2013,Town Highway,8/2/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+fbbd9369-7fb8-40b1-945a-6a1414a8cb2a,SPRINGFIELD,1,43.24208933,-72.50138384,,,,,,,,,2004,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+84e3013d-cc6b-4db5-86ed-6a20a8cc99a4,SPRINGFIELD,1,43.31058562,-72.52578298,,,,,,,,,2001,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+ef80532d-eb86-4d29-92b7-6a23cfc18e3b,PANTON,2,44.1491578,-73.34141193,,,,,,,,,2002,Town Highway,12/8/2015,Round,Steel Corrugated,Concrete,48,48,120,Good,No
+f13de0fc-3d40-4bc8-b84b-6a42a4c8205e,SPRINGFIELD,3,43.30822942,-72.50143212,,,,,,,,,2005,Town Highway,8/25/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Excellent,No
+364a6f1c-9069-41c7-80ab-6aef446545a9,TINMOUTH,1,43.39975979,-73.02174447,,,,,,,,,2001,Town Highway,5/27/2020,Round,Plastic Smooth,Stone masonry,12,12,50,Good,No
+597c0a66-ddec-4568-aad3-6c211fc6e6bc,WAITSFIELD,1,44.18237913,-72.79538293,,,,,,,,,1997,Town Highway,9/16/2020,Round,Steel Corrugated,Concrete,60,60,40,Fair,No
+b31e878d-8af2-446a-a9e5-6c21ebc960b5,RICHMOND,1,44.430598,-72.989958,,,,,,,,,2017,Town Highway,6/19/2018,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+a1168718-abea-4fcc-a176-6c368a8c1081,WAITSFIELD,2,44.16946214,-72.79963232,,,,,,,,,1997,Town Highway,9/16/2020,Round,Plastic Corrugated,Stone masonry,36,36,40,Fair,Yes
+d445cebc-c65f-4bbd-8748-6cbd4db71cc2,WILMINGTON,1,42.89443,-72.8971,,,,,,,,,2018,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+0dc76f81-a97d-487a-bc30-6ccc75f4ba12,BALTIMORE,2,43.36262856,-72.5705618,,,,,,,,,2016,Town Highway,3/23/2017,Round,Steel Corrugated,Stone masonry,24,24,40,Excellent,No
+ce2b5666-dc57-4e91-8d2b-6d5bf0c85b97,READING,1,43.50406444,-72.58711101,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Good,No
+89415a79-be17-426f-ae27-6d5fc70dfe2d,SPRINGFIELD,1,43.27293476,-72.53760425,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,30,30,40,Good,No
+9d99f3e0-e5f4-47ed-870f-6d879365aa59,ANDOVER,1,43.25398415,-72.74088153,,,,,,,,,2000,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+37a441a9-48e4-4ebf-ad5c-6db7d28534d7,BOLTON,3,44.371193,-72.893986,,,,,,,,,2018,Town Highway,7/19/2018,Round,Plastic Corrugated,Concrete,30,30,40,Excellent,No
+fb9cba0e-8e0e-4c37-bf58-6db8caff8ae9,TINMOUTH,1,43.41841765,-73.11457717,,,,,,,,,1988,Town Highway,5/22/2020,Round,Plastic Smooth,Rip-rap,24,24,30,Good,No
+e7f05b32-bc67-48c9-bedf-6e666b93421b,WARREN,3,44.13482811,-72.81043525,,,,,,,,,2011,Town Highway,7/5/2018,Round,Steel Corrugated,Concrete,18,18,55,Good,No
+ec8f0b6a-b890-4c23-b4c9-6ee31c93517d,TINMOUTH,1,43.48790586,-73.0400682,,,,,,,,,2002,Town Highway,6/12/2020,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+5e5743ba-9f50-41a4-8b54-6efca33e608c,DERBY,3,44.90454419,-72.15095196,,,,,,,,,2020,Town Highway,5/11/2020,Round,"Pipe, Plastic",Rip-rap,18,18,53,Excellent,No
+2a9ac555-6c01-4688-a2e5-6f0d2f19d8d2,CHARLOTTE,3,44.27691324,-73.18356872,,,,,,,,,2010,State Highway,6/2/2014,Ellipse/Squashed,Metal - undefined type,Stone masonry,9,12,40,Excellent,No
+a8c8109c-f27a-401b-9d65-6f32b102ba1a,WILMINGTON,3,42.88388,-72.82002,,,,,,,,,2018,Town Highway,10/24/2018,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+f1cf6d1d-6643-4b70-881e-6f51a11a7319,SPRINGFIELD,1,43.23981169,-72.54154728,,,,,,,,,2004,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+2569f20e-5a5e-4821-b283-6f68c3823686,WILMINGTON,3,42.88283359,-72.82014879,,,,,,,,,2018,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,35,Excellent,No
+c41c7d89-5a67-48d8-99b1-6fb8b6ddc9d7,JERICHO,3,44.44237676,-72.97833086,,,,,,,,,2016,Unknown,6/17/2020,Round,Steel Corrugated,Stone masonry,24,24,60,Good,No
+02ebb6ac-b199-4f80-a44e-6fc1b7232c68,DERBY,1,44.89375267,-72.1322116,,,,,,,,,2017,Town Highway,7/19/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+b8b2b72f-fbad-471a-8a40-70011315c81e,LUDLOW,1,43.39973888,-72.72278307,,,,,,,,,2013,Town Highway,7/19/2017,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+6f8bf8e7-1442-44b1-a688-707855b90070,RIPTON,3,44.00777457,-73.02174464,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Excellent,No
+9da88499-4015-41e1-b361-70ae8a726676,MILTON,1,44.62850519,-73.12688425,,,,,,,,,2003,Town Highway,7/2/2015,Round,Plastic Corrugated,Plastic,18,18,60,Fair,Yes
+a7c48a5f-9256-41c8-82ee-70cf2fd8c9ef,SPRINGFIELD,1,43.27337836,-72.44671412,,,,,,,,,2004,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,15,15,50,Good,No
+57a7d514-28ec-4a58-887c-70dabd71b4b2,SPRINGFIELD,1,43.25431661,-72.45205881,,,,,,,,,2015,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+543c8192-9270-44b3-aa34-70ec9a2aa4ec,HALIFAX,1,42.7983713,-72.76103578,,,,,,,,,1975,Town Highway,6/22/2017,Round,Steel Corrugated,Stone masonry,36,36,30,Good,No
+0d1e3059-fcfe-4095-80af-71524d0e4750,TINMOUTH,1,43.48557834,-73.04077085,,,,,,,,,1979,Town Highway,6/12/2020,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+31c773d4-f052-4bd3-82a1-71939fc5f693,WILMINGTON,1,42.89221829,-72.91052465,,,,,,,,,2015,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,55,Excellent,No
+e1c5a3bb-4815-429c-9295-71ad893f5317,ANDOVER,1,43.29310244,-72.73172045,,,,,,,,,2011,Town Highway,9/1/2013,Ellipse/Squashed,Steel Corrugated,Stone masonry,60,72,52,Good,No
+57c8daa7-d9b5-4ced-bbfb-71dd4999c16b,STARKSBORO,3,44.27147855,-73.01969816,,,,,,,,,2014,Town Highway,7/30/2013,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+2bf6b0d8-61bb-4d80-8166-71e47dc61a53,UNDERHILL,1,44.5287905,-72.864437,,,,,,,,,2014,Town Highway,7/31/2018,Round,Steel Corrugated,Metal,30,30,40,Good,No
+58ebddab-5943-42d1-a3f1-71fa02bf9aea,ANDOVER,1,43.30113328,-72.72861694,,,,,,,,,2013,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+3aebb6b2-5ebe-4e31-b06b-729b2694d7aa,SPRINGFIELD,1,43.26418785,-72.53666848,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Good,No
+8e7f35c0-3ccc-4967-b71f-72cdd594a818,GOSHEN,3,43.85435711,-73.01287043,,,,,,,,,2020,Town Highway,12/30/2020,Round,Plastic Smooth,Stone masonry,24,24,50,Excellent,No
+ec0741c8-3b3f-4c98-9411-72d3266e7c22,WEATHERSFIELD,1,43.3575941,-72.44320022,,,,,,,,,2012,"Private, (other than railroad)",5/21/2014,Round,Steel Corrugated,Concrete,18,18,40,Good,No
+b4080af9-8e63-49db-9572-735fa84e010b,READING,3,43.45898549,-72.54731282,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Stone masonry,18,18,36,Good,No
+7ab8bc9f-a88b-4374-af9a-74099ef7553e,READING,1,43.46178164,-72.62099854,,,,,,,,,2016,Town Highway,6/29/2016,Round,Steel Corrugated,Stone masonry,15,15,34,Good,No
+397e360e-34ca-46f2-8740-7424ebc95786,TINMOUTH,1,43.42236595,-73.05705854,,,,,,,,,2001,Town Highway,6/3/2020,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+84acffb3-73eb-4190-b856-7440193ecb4f,TINMOUTH,1,43.45916523,-73.07982998,,,,,,,,,1994,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,24,24,50,Good,No
+9d8bc19f-7e97-4fc0-9db7-74c0f6baa995,GROTON,1,44.21985415,-72.27555033,,,,,,,,,2015,Town Highway,9/8/2015,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+1b3fc4b2-aaa2-4750-826e-75978e2f2b0d,LUDLOW,1,43.36848845,-72.69154015,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,62,Good,No
+0755cc35-6a3e-444f-af70-75e135311486,TINMOUTH,1,43.40036344,-73.03625114,,,,,,,,,1980,Town Highway,5/27/2020,Round,Plastic Smooth,Stone masonry,15,15,50,Good,No
+58c9faf8-b56f-4628-a96c-75e802e7ffea,SPRINGFIELD,3,43.30399417,-72.49790056,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,36,36,70,Fair,No
+08ba5ae6-0586-4f91-b80c-760d30e21f6e,ANDOVER,1,43.25896458,-72.71961375,,,,,,,,,1996,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,35,Excellent,No
+2bd90548-5312-4db5-8a90-7614d32be871,HINESBURG,3,44.35279344,-73.10003873,,,,,,,,,2008,Town Highway,6/11/2016,Round,Plastic Corrugated,Stone masonry,24,24,60,Good,No
+d95b0e20-4d46-4217-86b6-762f5cae0dbc,ANDOVER,1,43.32552105,-72.71741259,,,,,,,,,2013,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+06e985ad-3398-4a75-bd59-763647b246c7,TINMOUTH,3,43.45279104,-73.04932042,,,,,,,,,1980,"Private, (other than railroad)",6/3/2020,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+b7988491-c190-4bb4-a64d-7649eb70ec63,CHARLOTTE,1,44.29226929,-73.23544234,,,,,,,,,2017,Town Highway,5/31/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+0c6f43a8-9ef1-4af4-b598-7653931232f7,LUDLOW,1,43.40054559,-72.72506313,,,,,,,,,2013,"Private, (other than railroad)",5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+cf50f8cc-4989-4d36-acad-76864a397e99,GOSHEN,1,43.89092977,-73.02191213,,,,,,,,,2009,Town Highway,5/13/2020,Round,Steel Corrugated,Stone masonry,18,18,23,Fair,No
+359cf64b-ed8c-4ff0-9a69-769034d2a90a,DERBY,1,44.904728,-72.0923497,,,,,,,,,2020,Town Highway,9/8/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Good,No
+c858e932-3ef8-4535-a410-76957662ddc7,SPRINGFIELD,1,43.33510355,-72.53621117,,,,,,,,,2001,Town Highway,8/3/2016,Round,Plastic Smooth,Concrete,15,15,50,Excellent,No
+d7b30ba6-7f1c-44cf-a957-774b115b695b,COLCHESTER,2,44.56014786,-73.14995696,,,,,,,,,2011,Town Highway,7/24/2019,Round,Steel Corrugated,Rip-rap,15,15,30,Good,No
+42c48d74-3450-4c88-a90f-7782c552e550,HALIFAX,1,42.80119351,-72.77730706,,,,,,,,,2014,Town Highway,6/14/2017,Round,Plastic Smooth,Stone masonry,24,24,40,Good,Yes
+197d6f37-541a-4bb9-897f-77b05619d341,READING,1,43.46638948,-72.60716263,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+125d5388-15d1-41fe-9f30-77c34874d21d,WEATHERSFIELD,1,43.35571077,-72.43679385,,,,,,,,,2012,Town Highway,5/21/2014,Round,Steel Corrugated,Concrete,18,18,36,Good,No
+3099c1f1-7688-4bab-999a-77d1d07e07ae,READING,1,43.47840047,-72.58097253,,,,,,,,,2014,Town Highway,6/29/2016,Ellipse/Squashed,Steel Corrugated,Stone masonry,13,21,40,Excellent,No
+efa224a7-076b-4533-8fb9-77f1edd06088,ANDOVER,1,43.3311486,-72.7250007,,,,,,,,,2011,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+1a08674a-105a-4ab0-ba40-78806cdcf57a,BRATTLEBORO,2,42.82665286,-72.58953259,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+5ba0694b-ecbf-4a21-bd70-79adf8d3402d,READING,1,43.49781852,-72.58431877,,,,,,,,,2013,Town Highway,6/15/2016,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+c17c9989-491c-4393-94bb-7ac95848cc91,WEATHERSFIELD,1,43.40342885,-72.46755779,,,,,,,,,2015,Town Highway,5/22/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Fair,Yes
+d657b514-c349-424d-aa33-7b90c550509c,WILMINGTON,1,42.88210313,-72.89041833,,,,,,,,,2015,Town Highway,8/9/2018,Round,Plastic Smooth,Concrete,24,24,45,Excellent,No
+a80ea982-5d30-4a05-a98f-7c364da1b16a,SPRINGFIELD,3,43.33001234,-72.51985202,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Excellent,No
+4a941170-025d-43c4-bc2a-7c44a6af5d72,UNDERHILL,1,44.563041,-72.946121,,,,,,,,,2015,Town Highway,8/7/2018,Round,Steel Corrugated,Rip-rap,18,18,60,Good,No
+689050c1-94f8-4ac3-b834-7c465ade88a2,HALIFAX,1,42.78218929,-72.73224236,,,,,,,,,2008,Town Highway,7/5/2017,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+01e9af32-4cbc-436e-9ae9-7c57688f452c,HALIFAX,1,42.73853711,-72.78284361,,,,,,,,,2013,Town Highway,6/15/2017,Round,Plastic Smooth,Stone masonry,36,36,40,Excellent,No
+c2695d64-501c-455d-a4e1-7cb6c06f4dec,SPRINGFIELD,2,43.29708427,-72.43743127,,,,,,,,,2008,Town Highway,8/16/2016,Box,Concrete Sectional,Stone masonry,48,96,30,Excellent,No
+d7c441ea-6738-4aef-920f-7cff7a8b0e1f,LUDLOW,1,43.38692012,-72.72368953,,,,,,,,,2002,Town Highway,7/19/2017,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+178bcd43-3f5c-4afd-b244-7d6df527b044,SPRINGFIELD,1,43.24790684,-72.52629719,,,,,,,,,1970,Town Highway,8/10/2016,Round,Concrete Sectional,Stone masonry,12,12,40,Good,No
+a9f22e2a-b019-41e5-9421-7daa6dc29fda,CHARLOTTE,1,44.2728578,-73.18352408,,,,,,,,,2018,Town Highway,9/26/2018,Round,"Pipe, Metal",Stone masonry,18,18,40,Excellent,No
+22b80cbb-e0fe-48f3-8541-7dbaae6346ee,SPRINGFIELD,1,43.32133708,-72.43010597,,,,,,,,,2015,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+7ef987c1-60d1-42bf-b512-7df118e497c6,READING,1,43.50397703,-72.57053733,,,,,,,,,2015,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,34,Excellent,No
+5ec75536-00fb-4f36-90a6-7df252bb5acd,ANDOVER,1,43.26447785,-72.73001767,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,50,Good,No
+4e7eb9f0-1e19-4deb-a505-7e0bc4a1b74f,BALTIMORE,1,43.35550825,-72.58258927,,,,,,,,,2002,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,18,18,32,Good,No
+1d10e6ee-0d7e-4000-9b85-7ef5b7d2d327,SPRINGFIELD,1,43.26047723,-72.46728637,,,,,,,,,2000,Town Highway,8/12/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+6b9dd0a4-1e42-4b05-82c1-7f00dfba3cb0,SPRINGFIELD,1,43.27051194,-72.45646784,,,,,,,,,2000,Town Highway,8/15/2016,Box,Concrete Poured,Concrete,60,120,35,Good,No
+1fa6d0c0-39a6-49c5-84fd-7f0887992aeb,UNDERHILL,1,44.55608825,-72.96124972,,,,,,,,,2014,Unknown,8/12/2019,Round,Steel Corrugated,Metal,25,25,60,Good,No
+3ceb0cb5-4e8c-4da3-91e0-7f83a0a1188b,WARREN,1,44.0932913,-72.83454883,,,,,,,,,2011,Town Highway,7/2/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+ad544874-64e2-40f1-b43f-7fbc59955140,LUDLOW,2,43.39441651,-72.69157165,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+05031149-bd10-4efd-894b-7fc9704aea05,READING,1,43.50385797,-72.57243462,,,,,,,,,2018,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+722808fd-90ac-47cb-80f1-80020b012d2c,BALTIMORE,2,43.36720862,-72.56341394,,,,,,,,,2017,Town Highway,10/24/2017,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+24908737-81cc-4689-8680-81a77e828612,ANDOVER,1,43.27994804,-72.73596151,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,36,Good,Yes
+1fce99de-d946-4246-98e8-821e8316f596,READING,1,43.47491637,-72.53946913,,,,,,,,,2011,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+1f7fbd25-f40e-4033-84ac-82f60983f3d2,GOSHEN,3,43.85125187,-73.0181879,,,,,,,,,2020,Town Highway,12/1/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,22,35,50,Excellent,No
+5d1e6b17-d111-4082-8fe2-82fa6ee3605e,CAVENDISH,1,43.40859174,-72.55948375,,,,,,,,,2016,Town Highway,9/1/2017,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+764d9fac-c5a2-40dc-b83f-8305d531cbb8,JERICHO,1,44.52027107,-72.95280277,,,,,,,,,2017,Town Highway,7/11/2018,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+e0890ffa-70a5-470d-85b2-830cab66df4f,HALIFAX,1,42.76814879,-72.72781658,,,,,,,,,2012,Town Highway,7/15/2017,Round,Plastic Smooth,Stone masonry,48,48,40,Good,No
+356c8593-2aab-4d7e-af09-83324e93a28d,READING,3,43.46551092,-72.55756383,,,,,,,,,1996,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,Yes
+c0bc521c-e194-49ec-b7fc-83432c96a86d,GROTON,1,44.23982071,-72.23787479,,,,,,,,,2015,"Private, (other than railroad)",1/19/2015,Round,Plastic Smooth,Rip-rap,18,18,20,Excellent,No
+3950df48-6175-481e-8894-839fb7532b40,SPRINGFIELD,1,43.32826882,-72.52070907,,,,,,,,,2014,Town Highway,8/3/2016,Round,Plastic Smooth,Stone masonry,18,18,47,Good,No
+af4b074d-b5b3-43c3-acfb-83d3a4845389,WILMINGTON,1,42.86640194,-72.85132204,,,,,,,,,2018,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+843e16b0-229d-4041-bf38-83eca09fc831,LUDLOW,1,43.37379647,-72.70400101,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,12,12,40,Good,No
+6ad0057b-7a51-4e35-b9a4-84180e09bad3,WILMINGTON,1,42.86859667,-72.84851428,,,,,,,,,2002,Town Highway,10/17/2018,Round,Plastic Smooth,Stone masonry,48,48,40,Excellent,Yes
+700208d0-6174-4f68-ad4a-844a7911022d,READING,1,43.4940881,-72.55969317,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,28,Good,No
+972dedc6-232f-4aa6-824d-84559ef68adb,ANDOVER,1,43.24640303,-72.74612991,,,,,,,,,2001,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+72361fcc-b143-49cc-a224-845a3ed52611,SOUTH BURLINGTON,2,44.43607982,-73.16268653,,,,,,,,,2017,Town Highway,7/3/2018,Box,Concrete Poured,Concrete,50,192,78,Excellent,No
+281fbbc2-637d-4b8e-9418-84770831e4aa,READING,1,43.50162229,-72.58053697,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+989c8f4b-ef7c-4605-a717-84994cd5df6e,BALTIMORE,1,43.36022134,-72.5725294,,,,,,,,,2020,Town Highway,6/21/2021,Ellipse/Squashed,Steel Corrugated,Stone masonry,36,36,60,Good,No
+e4a27402-b60f-4e3c-a145-84b09bdae3fa,CHARLESTON,1,44.82579668,-71.94222033,,,,,,,,,2013,Town Highway,5/7/2014,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+73d08361-1e3f-451a-bfbf-84c0dbeb75bc,CORNWALL,2,43.97344682,-73.19952035,,,,,,,,,1992,Town Highway,8/3/2018,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+ad07e1f1-4770-48fd-9eea-84f6060ebfd5,SPRINGFIELD,1,43.26253063,-72.50309435,,,,,,,,,2000,Town Highway,9/29/2016,Round,Plastic Smooth,Concrete,15,15,40,Excellent,No
+89dda874-880f-4902-86b3-84fa4ca92dbc,ANDOVER,1,43.2570018,-72.74986868,,,,,,,,,1998,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+54528637-f2f3-4e71-a13b-85332d1f76be,ANDOVER,1,43.25408843,-72.73979993,,,,,,,,,2000,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+4dedaa01-6e8c-40ba-822a-854096a29f49,SPRINGFIELD,1,43.28100891,-72.54658407,,,,,,,,,2021,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Good,No
+e1df384f-792e-4b09-837d-8547c62e7326,READING,1,43.50394026,-72.56119496,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+24440008-e829-43b7-a6bd-85a7bbd8c3b9,SPRINGFIELD,3,43.30609641,-72.50028788,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,58,Good,No
+fbde89b4-daa2-4ec4-aa03-85cc01329c62,SUNDERLAND,2,43.07670527,-73.13106134,,,,,,,,,2016,Unknown,6/19/2018,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,Yes
+de6b0ced-4a25-4633-917b-863c4b55c826,CHARLESTON,1,44.86744989,-72.11423881,,,,,,,,,2012,Town Highway,5/7/2014,Round,Plastic Smooth,Rip-rap,18,18,36,Excellent,No
+575a2efe-e073-41ce-b3e0-8646f66c471d,ANDOVER,1,43.27154125,-72.73309658,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,48,48,40,Good,No
+6ce0fd87-f7de-4ac8-9578-866d11573a38,LUDLOW,1,43.37227157,-72.67471169,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+d8bd2922-e7e0-453f-888d-867cbdbfa04d,WILMINGTON,3,42.86306674,-72.82131454,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,44,Excellent,No
+f4e94abb-abd9-40e5-9c9b-86b6ae37ba63,READING,1,43.52094727,-72.54563595,,,,,,,,,2018,Town Highway,2/13/2020,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+176210c3-9528-4cf1-b75d-87249f5a344a,READING,1,43.49275029,-72.61120201,,,,,,,,,2014,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+2bcd5fe3-0f50-4322-8d5c-87db0f7fa0c3,ANDOVER,1,43.32431929,-72.69574479,,,,,,,,,1999,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+d28be2b7-e962-4684-a572-884a9739f5bd,SPRINGFIELD,1,43.27149522,-72.44889878,,,,,,,,,2004,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Good,No
+8b6ff15d-aec0-4cd9-971a-887ef5a5499e,BOLTON,1,44.423517,-72.896762,,,,,,,,,2017,Town Highway,7/19/2018,Round,Plastic Corrugated,Concrete,48,48,40,Excellent,No
+08ecd3a0-083d-4f30-9818-8880d80bcdc5,UNDERHILL,1,44.50543431,-72.89537243,,,,,,,,,2015,Town Highway,7/31/2018,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+fba70fd4-16db-4b3f-9627-88971b22f765,WILMINGTON,3,42.88302791,-72.82014158,,,,,,,,,2018,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,38,Excellent,No
+5a6b8932-58c2-48a2-a273-88b2355a0af4,READING,1,43.46597807,-72.58372831,,,,,,,,,2017,Town Highway,2/2/2020,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+fef0c49e-6ad2-4e1b-a2b8-88d887372099,READING,1,43.4904931,-72.55486704,,,,,,,,,2013,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,15,15,90,Excellent,No
+1879060c-a825-46a9-8477-8967cefdb3d3,SPRINGFIELD,1,43.26499714,-72.50328444,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Concrete,24,24,50,Excellent,No
+7c9b7b14-5a13-4927-93c5-898b6d041b50,WILMINGTON,3,42.87945257,-72.89327107,,,,,,,,,2015,Town Highway,8/9/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+c5bfea2d-d846-440d-bf3d-8a230bf07bfb,ANDOVER,2,43.32529223,-72.71853211,,,,,,,,,1995,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,52,Excellent,No
+92b74665-187c-412b-afc4-8a3573d8fa0e,WILMINGTON,1,42.890958,-72.8984544,,,,,,,,,2016,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+c0b0c619-885c-440f-b7fa-8a3bf2a69311,ANDOVER,1,43.24757304,-72.72702951,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,39,Good,No
+d9ff0354-4e77-45cc-b77f-8a4804b66325,SPRINGFIELD,1,43.27490402,-72.491186,,,,,,,,,2003,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+5255bbc4-02e1-475c-a787-8a7406c92308,SPRINGFIELD,1,43.28160323,-72.51584346,,,,,,,,,2019,Town Highway,8/11/2019,Round,Plastic Smooth,Stone masonry,18,18,25,Excellent,No
+923a98b0-e4ae-4841-891c-8ad0a0c3a665,UNDERHILL,1,44.54799938,-72.91401236,,,,,,,,,2016,Town Highway,8/6/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+0abba495-ca60-4e0a-97a9-8aeb8fb1a443,SOUTH BURLINGTON,2,44.43682885,-73.16288812,,,,,,,,,2017,Town Highway,7/3/2018,Box,Concrete Poured,Concrete,42,192,110,Excellent,No
+aa178bf6-4ff9-467e-a455-8b16bada9345,READING,1,43.47043074,-72.5848679,,,,,,,,,2013,Town Highway,6/15/2016,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+28138b2d-c097-4b27-8069-8b2e10b459e4,CHARLOTTE,2,44.34246433,-73.16593797,,,,,,,,,2019,Town Highway,7/18/2019,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+a2b631f3-c570-4f00-8374-8b6e315ea770,GOSHEN,2,43.90247477,-73.01537466,,,,,,,,,2004,Town Highway,12/30/2020,Round,Plastic Smooth,Stone masonry,18,18,36,Good,No
+7978a28e-3e2f-40d1-9e37-8bbfefc1c98f,SPRINGFIELD,1,43.31911724,-72.43022424,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,18,18,33,Excellent,No
+700d6c2a-c1a1-459d-9bc3-8c282513ea2f,DERBY,1,44.91055707,-72.12044698,,,,,,,,,2015,Town Highway,7/15/2015,Round,"Pipe, Plastic",Stone masonry,18,18,38,Excellent,No
+4ac94ebe-2a16-4cc2-b555-8c2df02fb2a4,WEATHERSFIELD,1,43.41180282,-72.48584209,,,,,,,,,2012,Town Highway,5/12/2014,Round,Steel Corrugated,Stone masonry,24,24,40,Good,No
+fefe13bd-353e-44be-9ef1-8c3df569688e,ANDOVER,1,43.27080865,-72.71079871,,,,,,,,,1998,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,29,Excellent,No
+cf1da7e2-f7ee-4520-9270-8c509a9b23c5,WEATHERSFIELD,1,43.35415181,-72.45261755,,,,,,,,,2013,Town Highway,5/19/2014,Round,Steel Corrugated,Stone masonry,18,18,58,Good,No
+813a767f-8b79-471e-83d5-8c5fdf0dec5e,SPRINGFIELD,1,43.28021035,-72.48783074,,,,,,,,,2014,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+f574f53a-44da-4c05-b203-8ca3b0217edc,WAITSFIELD,1,44.20060417,-72.79180838,,,,,,,,,2001,Town Highway,9/15/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,62,77,75,Good,No
+906d0c57-f025-4f3c-aa04-8cb246301be4,TINMOUTH,1,43.47972031,-73.01727588,,,,,,,,,1974,Town Highway,6/9/2020,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+1e15b78a-fa5f-4db7-8f0c-8d442b4d79ef,WILMINGTON,1,42.86435798,-72.87765438,,,,,,,,,2017,Town Highway,11/8/2018,Round,Plastic Smooth,Concrete,18,18,37,Excellent,No
+f4107b88-099c-484a-b421-8d4bcfa10459,WILMINGTON,3,42.86085107,-72.82134664,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+685eb19f-b841-4a98-a669-8da3518b2688,WILMINGTON,1,42.9049065,-72.81659579,,,,,,,,,2018,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,18,18,38,Excellent,No
+606a8b2f-772e-4ea1-bb67-8dbe09ca9694,GOSHEN,3,43.8554654,-73.00931441,,,,,,,,,2005,Town Highway,12/30/2020,Round,Plastic Smooth,Concrete,24,24,66,Good,No
+2c0aea96-5f20-460a-ad7b-8dfd9a9c974f,READING,1,43.520029,-72.57410461,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+c41ceccd-3e65-44f6-9119-8e70f08a5a29,HALIFAX,1,42.82501805,-72.78131015,,,,,,,,,1985,Town Highway,6/8/2017,Round,Steel Corrugated,Stone masonry,48,48,40,Good,No
+a2206234-e520-4b76-8bda-8e84b794c79c,SPRINGFIELD,1,43.26544548,-72.50392444,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Concrete,24,24,50,Good,No
+9109bb4a-56cc-4d07-ac3c-8f66a3e9989b,WAITSFIELD,2,44.1688557,-72.80094215,,,,,,,,,1997,Town Highway,9/16/2020,Round,Plastic Corrugated,Stone masonry,36,36,40,Fair,Yes
+dfff3335-4bc5-4e9b-ab09-8f8d67ce5085,WAITSFIELD,1,44.19353045,-72.7873299,,,,,,,,,1990,Town Highway,9/15/2020,Round,Plastic Corrugated,Rip-rap,36,36,80,Fair,Yes
+7f14504b-797d-43b6-b0bc-907cd752f1a6,READING,1,43.47588845,-72.54361824,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+ff0a9926-0652-415a-861e-907fcce9407c,WILMINGTON,1,42.901843,-72.90099179,,,,,,,,,2017,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,35,Excellent,No
+b515968a-7708-4917-8924-90a831ed8d1f,WEATHERSFIELD,2,43.35300968,-72.53663229,,,,,,,,,2011,Town Highway,5/7/2014,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+0666f4e7-fa4e-4122-973f-90abee53e144,READING,3,43.46865194,-72.58113259,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Concrete,18,18,40,Good,No
+b4f19e09-c3dd-4d0a-bfde-91222d356293,BALTIMORE,1,43.36007926,-72.57576383,,,,,,,,,2006,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+ef01f1c9-165e-406b-9b4e-9129261ec0ad,WILMINGTON,1,42.88523882,-72.83198127,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+b12be68a-d7e7-454d-ad4a-91bb0e643aa6,RIPTON,1,43.98371046,-73.01563681,,,,,,,,,2011,Town Highway,8/15/2014,Round,Plastic Smooth,Rip-rap,24,24,45,Good,Yes
+8557fa72-511e-4fa1-a755-91d31b7a895f,SPRINGFIELD,1,43.27625713,-72.53120872,,,,,,,,,2002,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+46244094-1bde-4ed3-8eb7-91e38992f387,DERBY,1,45.00036484,-72.06038226,,,,,,,,,2015,Town Highway,5/14/2015,Round,Steel Corrugated,Stone masonry,15,15,40,Excellent,No
+b33bf3d6-8a23-465a-ae4b-91f1df24fa08,READING,3,43.46342912,-72.55483472,,,,,,,,,2011,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+a76a7da5-a98f-429f-ae7e-9210068d79f1,HINESBURG,3,44.3519282,-73.1029496,,,,,,,,,2005,Town Highway,7/11/2016,Round,Plastic Corrugated,Stone masonry,24,24,24,Good,No
+a75494a7-fdd0-487e-9930-92185ddffb12,ANDOVER,1,43.29785615,-72.70070453,,,,,,,,,1997,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+abf4fb55-2a74-4c9b-a219-92320edbbb06,CHARLESTON,2,44.81016053,-71.98196959,,,,,,,,,2013,Town Highway,5/7/2014,Round,Plastic Smooth,Rip-rap,24,24,40,Excellent,No
+ad6f0966-2937-4634-8c8d-923a9102f188,CHARLOTTE,3,44.29540606,-73.18353968,,,,,,,,,2014,"Private, (other than railroad)",9/10/2014,Round,Steel Corrugated,Stone masonry,15,15,50,Excellent,No
+3c0da806-14c7-4894-967f-92a0d77dbf35,ANDOVER,1,43.2894023,-72.73742184,,,,,,,,,2010,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+e184e522-c873-4140-a1d9-92b35ecbabb8,RICHMOND,1,44.38971243,-73.01587362,,,,,,,,,2018,Town Highway,6/19/2018,Round,Plastic Corrugated,Stone masonry,24,24,30,Excellent,No
+46b660db-3804-4e98-a5e0-92b594a714b7,WILMINGTON,1,42.89128866,-72.90829248,,,,,,,,,2015,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,50,Excellent,No
+2a22dbca-7895-4880-9f71-92dddbff326a,GOSHEN,2,43.8548679,-72.99869046,,,,,,,,,2005,Town Highway,6/19/2020,Round,Plastic Smooth,Stone masonry,24,24,49,Good,No
+8ab1d9f4-bb40-403f-bbbe-936dec7965e2,DERBY,1,44.89715133,-72.12391558,,,,,,,,,2020,Town Highway,9/10/2020,Round,Steel Corrugated,Rip-rap,18,18,30,Excellent,No
+0335e881-85ca-4757-8779-93932cda1e8e,DERBY,1,44.96451219,-72.15056708,,,,,,,,,2019,Town Highway,6/13/2005,Round,Steel Corrugated,Rip-rap,18,18,80,Excellent,No
+fc83c5f2-00a7-4a30-b445-9428adb8b8e9,READING,1,43.55088286,-72.61461016,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+151f3210-e3bb-4a1b-8252-9429edd653e8,BALTIMORE,2,43.34935838,-72.55504267,,,,,,,,,2007,"Private, (other than railroad)",6/17/2014,Round,Plastic Corrugated,Stone masonry,18,18,36,Good,No
+45e86489-0af0-4682-a406-947b55f0c5be,SPRINGFIELD,1,43.23835655,-72.53918647,,,,,,,,,2010,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+99fbccb0-3472-4762-b128-949ecbb0ef68,SPRINGFIELD,1,43.32221221,-72.52606254,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,18,18,40,Fair,No
+81442cc0-5c60-4c27-94f1-94d2d577263a,CHESTER,1,43.2429265,-72.6205061,,,,,,,,,2015,Town Highway,10/7/2015,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+53c138c8-b1a4-4354-afaa-9531288aec65,HALIFAX,3,42.75279319,-72.7095486,,,,,,,,,2009,Town Highway,6/26/2017,Round,Plastic Smooth,Stone masonry,36,36,40,Good,No
+34bb4e8c-78d8-452f-84b8-9562f0ffee85,DERBY,1,44.96838171,-72.18601224,,,,,,,,,2018,"Private, (other than railroad)",9/5/2018,Round,Steel Corrugated,Stone masonry,18,18,44,Excellent,No
+79faa3d9-4255-4f36-af58-95692771057e,TINMOUTH,3,43.47787824,-73.06698371,,,,,,,,,1974,Town Highway,5/18/2020,Round,Steel Corrugated,Stone masonry,30,30,40,Fair,No
+0c9368ab-6850-460d-ae85-9620f15fa71c,TINMOUTH,1,43.44860035,-73.05198802,,,,,,,,,1970,"Private, (other than railroad)",5/28/2020,Round,Plastic Smooth,Stone masonry,15,15,30,Excellent,No
+870cadf2-c1d1-40ad-89fc-9671cfdeb409,WAITSFIELD,1,44.180824,-72.81162092,,,,,,,,,2014,Town Highway,9/17/2020,Box,Concrete Sectional,Concrete,84,168,70,Good,Yes
+748858a7-9cb6-4ece-9c95-96c54a66188c,WARREN,1,44.10427982,-72.85042846,,,,,,,,,2011,Town Highway,6/29/2018,Round,Steel Corrugated,Stone masonry,48,48,40,Good,No
+15f4daf8-65b6-4093-926c-9704bfce6b90,BALTIMORE,1,43.35073785,-72.56159211,,,,,,,,,2007,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+8f0b6203-7ac1-4913-981f-97226043c3e1,RIPTON,2,43.99419139,-73.04335762,,,,,,,,,1998,Town Highway,8/15/2014,Round,Steel Corrugated,Concrete,48,48,55,Good,Yes
+135bf6a8-e165-4f65-b061-97c94d283996,READING,1,43.47575561,-72.54245339,,,,,,,,,2011,Town Highway,6/30/2016,Round,Steel Corrugated,Stone masonry,18,18,20,Good,No
+fb42fd0a-07b3-4dc6-a3dd-9820651b9583,SPRINGFIELD,1,43.29653754,-72.523522,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Concrete,18,18,40,Good,No
+f4ed96c8-bd87-46c3-980c-985654057e76,GROTON,1,44.20642568,-72.18073708,,,,,,,,,1995,Town Highway,6/22/2011,Round,Plastic Smooth,Rip-rap,18,18,40,Good,No
+39b97699-8942-4465-94e1-98ce074e9ee7,RIPTON,1,43.97823397,-73.03327657,,,,,,,,,1973,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,36,36,50,Good,Yes
+51dfe31e-7df3-45c8-a967-98dcdf94ee9c,ANDOVER,1,43.28034135,-72.69628011,,,,,,,,,2016,Town Highway,9/7/2016,Round,Steel Corrugated,Concrete,72,72,60,Excellent,No
+35be69ed-b639-4ff6-919f-99fb96fcdc76,SPRINGFIELD,1,43.30803464,-72.52198172,,,,,,,,,2010,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+465bf462-b825-4cea-87b6-9a02c57e6ec3,WINDSOR,1,43.47031294,-72.45051796,,,,,,,,,2011,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+ed2f330d-67b2-47bf-b323-9a36ab908bed,CHARLESTON,1,44.83415854,-72.01956528,,,,,,,,,2020,Town Highway,9/13/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+2f5a7731-cf17-4f0c-b003-9aab950cbfd1,ANDOVER,1,43.27008428,-72.70766525,,,,,,,,,2005,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,34,Good,No
+94e9c8d1-e3ad-4693-bbe4-9ac6dc8cbd28,TINMOUTH,1,43.42466076,-73.05698763,,,,,,,,,2001,Town Highway,6/3/2020,Round,Plastic Smooth,Stone masonry,30,30,40,Good,No
+2dcb7ed4-a651-48ad-a761-9aec1ef92e33,SPRINGFIELD,1,43.33358039,-72.49419047,,,,,,,,,2000,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+3a276840-0b5c-4eab-a22d-9aeea99213e3,PUTNEY,1,42.97421899,-72.59341465,,,,,,,,,2004,Town Highway,4/17/2015,Round,Plastic Smooth,Stone masonry,36,36,40,Excellent,No
+251223d4-d2df-45b6-b623-9b00fd1dab1c,GOSHEN,2,43.87221437,-73.01557575,,,,,,,,,2017,Town Highway,8/2/2019,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+71223533-e40b-4b75-b7d0-9b1dd48178f9,WAITSFIELD,3,44.17552505,-72.81416909,,,,,,,,,1997,Town Highway,9/17/2020,Round,Plastic Corrugated,Stone masonry,24,24,50,Good,No
+d56584b9-0a5f-41f5-bf4c-9b44a5f67c2d,GROTON,1,44.25787718,-72.1902891,,,,,,,,,2018,Town Highway,7/23/2018,Round,Plastic Smooth,Rip-rap,18,18,36,Excellent,No
+d5c54094-7591-4f33-97e8-9b8460a4af3b,TINMOUTH,1,43.47028952,-73.0672057,,,,,,,,,1979,Town Highway,5/20/2020,Round,Steel Corrugated,Stone masonry,30,30,40,Good,No
+cab984bc-6cd6-4083-af5a-9b8d2d9f8a57,WAITSFIELD,1,44.19228114,-72.79106682,,,,,,,,,1990,Town Highway,9/15/2020,Round,Plastic Corrugated,Stone masonry,18,18,60,Good,No
+ea8c78ed-8557-495c-a54b-9bca99891e71,WEATHERSFIELD,1,43.35541887,-72.43442562,,,,,,,,,2011,"Private, (other than railroad)",5/21/2014,Round,Steel Corrugated,Stone masonry,18,18,26,Good,No
+bafce13e-ba9f-4dc2-bd82-9be59119b5ec,WILMINGTON,1,42.89131513,-72.91143769,,,,,,,,,2015,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,48,48,60,Excellent,No
+c164709d-9278-4c26-aa43-9bffeb22b35e,RIPTON,3,44.01326822,-73.02265667,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Excellent,No
+d8526848-5c1d-4146-a0aa-9c07e30c23a6,CHARLESTON,3,44.82335322,-71.98781004,,,,,,,,,2010,Town Highway,5/7/2014,Round,Steel Corrugated,Metal,18,18,50,Good,No
+b63b81bc-a0f6-490b-b065-9c1188ad4960,WILMINGTON,1,42.88567912,-72.82154372,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+f1ae2b2b-dd3b-418b-96fe-9c900de01135,PUTNEY,3,42.97197401,-72.54092318,,,,,,,,,2005,Town Highway,4/17/2015,Round,Plastic Smooth,Stone masonry,48,48,50,Excellent,Yes
+4c5fe22b-6092-48e6-99a0-9d18b188c823,GROTON,1,44.24008781,-72.24003665,,,,,,,,,2015,Town Highway,10/19/2015,Round,Plastic Smooth,Rip-rap,15,15,30,Good,No
+b24fd009-328b-456b-8c66-9da83b58fa87,CHARLESTON,3,44.83648795,-72.0158467,,,,,,,,,2015,Town Highway,10/30/2015,Round,Plastic Smooth,Rip-rap,24,24,40,Excellent,No
+704f7fcc-066e-40e3-a4dc-9de4aff7037d,WEATHERSFIELD,2,43.39810895,-72.48756006,,,,,,,,,2012,Town Highway,5/12/2014,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+307360ca-5fb1-41d6-b75e-9e0c6c6e2aaa,TINMOUTH,1,43.41521464,-73.05751284,,,,,,,,,2003,"Private, (other than railroad)",6/3/2020,Round,Steel Corrugated,Stone masonry,15,15,20,Good,No
+7937c6d7-6037-445d-b7e8-9e4eb7539ef8,SPRINGFIELD,3,43.31902545,-72.50862244,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,24,24,40,Fair,No
+d11e5832-87d4-4ffa-a5e6-9e6ab5945dda,GOSHEN,2,43.91427841,-73.01843993,,,,,,,,,2009,Town Highway,10/3/2019,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+07f1a30a-73e1-41f4-8ba0-9ea8d76f70f2,READING,1,43.48407759,-72.60157762,,,,,,,,,2013,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+f168163f-bde1-4aa7-b13b-9ebfb3f77570,SPRINGFIELD,1,43.26852732,-72.53933026,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Good,No
+b4bdf68a-24b1-4526-83a1-9ed94b2a7f36,CHARLESTON,1,44.89517001,-72.06517247,,,,,,,,,2010,"Private, (other than railroad)",5/7/2014,Round,Steel Corrugated,Rip-rap,18,18,30,Good,No
+42a537ca-a471-4066-900a-9eed75b26207,CHARLESTON,1,44.82926696,-72.01522488,,,,,,,,,2020,Town Highway,9/18/2020,Round,Plastic Smooth,Rip-rap,24,24,40,Excellent,No
+eef22380-b538-48e0-a9eb-9fb02369d716,SPRINGFIELD,1,43.3328748,-72.49514511,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,34,Excellent,No
+c9903ecb-9abe-411c-b4ec-9ff85555379b,WILMINGTON,1,42.86880286,-72.86599177,,,,,,,,,2017,Town Highway,11/8/2018,Round,Plastic Smooth,Concrete,18,18,35,Excellent,No
+13725dc0-0e23-429e-9d8c-a00ce6a34ac8,CHARLESTON,1,44.83163935,-72.01686814,,,,,,,,,2020,Town Highway,9/13/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+9e562eff-5ee3-4e0d-a34c-a0430a5cd35f,GOSHEN,2,43.86585199,-73.01588225,,,,,,,,,2019,Town Highway,8/2/2019,Round,Plastic Corrugated,Concrete,18,18,50,Excellent,No
+058684f7-caac-4039-8f5c-a0855da6029c,SPRINGFIELD,3,43.31180081,-72.50234408,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+1d05c4b0-0476-4c23-a2b9-a0a6ad24409e,TINMOUTH,3,43.45438833,-73.02350534,,,,,,,,,1997,Town Highway,6/10/2020,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+2488ec3a-4712-4ad7-945d-a0d9f99ae206,DERBY,1,45.00016081,-72.05881109,,,,,,,,,2015,Town Highway,5/13/2015,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+cb8230cb-8a32-4554-a899-a10310051cb7,READING,1,43.47580785,-72.58280998,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,20,Good,No
+e53181d8-01d3-4c92-9732-a1193ccada47,GROTON,1,44.19784422,-72.28431417,,,,,,,,,1985,Town Highway,6/14/2016,Round,Steel Corrugated,Rip-rap,48,48,30,Fair,No
+ca59fd38-6405-4d51-954b-a11b865498fa,TINMOUTH,3,43.47945904,-73.07129066,,,,,,,,,1974,Town Highway,5/18/2020,Round,Steel Corrugated,Stone masonry,18,18,50,Good,No
+39bddc1f-3bd4-46bc-9abd-a172bc49a12f,BRATTLEBORO,2,42.82715383,-72.58940504,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Corrugated,Concrete,18,18,35,Good,No
+b6fad50c-1a53-4346-baa8-a18125a4a61d,ANDOVER,1,43.25001807,-72.69149669,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,16,16,40,Good,No
+c8454bb7-ff38-4fab-8ee6-a18c9634eb5a,READING,3,43.45892059,-72.5470085,,,,,,,,,2011,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+61be6b4c-2b14-4140-b2c9-a1b2b20c6696,READING,1,43.47631593,-72.58092673,,,,,,,,,2011,Town Highway,6/29/2016,Round,Plastic Corrugated,Stone masonry,36,36,40,Good,No
+4f4292d4-4a64-4224-afb3-a1b98dd1caa3,BRATTLEBORO,2,42.82571848,-72.58947621,,,,,,,,,2013,Town Highway,7/2/2013,Round,Plastic Corrugated,Stone masonry,15,15,30,Good,No
+9b056a9a-5ace-497a-8cdf-a247a29851e7,SPRINGFIELD,1,43.26068824,-72.4753523,,,,,,,,,2004,Town Highway,8/12/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+af6dc52d-e480-41e5-bd77-a24879c5ff50,GROTON,1,44.20597153,-72.19454639,,,,,,,,,2016,Town Highway,10/26/2015,Arch,Steel Corrugated,Stone masonry,81,123,30,Good,No
+5e769721-a93e-4c45-9eed-a25cb3c5b228,WILMINGTON,1,42.86365282,-72.82033074,,,,,,,,,2017,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+8a72e172-850e-411f-b7dc-a26439c713fe,BOLTON,1,44.418359,-72.850804,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Stone masonry,24,24,49,Excellent,No
+af5039f4-4a0c-409a-bbe7-a29a2121bd68,WEATHERSFIELD,1,43.38940617,-72.4256989,,,,,,,,,2012,"Private, (other than railroad)",8/25/2014,Round,Plastic Corrugated,Stone masonry,24,24,20,Good,No
+57be5ca3-6a19-44fc-ba01-a2ac8035d3db,ANDOVER,1,43.30702442,-72.72364557,,,,,,,,,2005,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,29,Good,No
+7d7fc6df-b204-4e6b-9773-a2fe18d4270c,GROTON,1,44.2392865,-72.23833882,,,,,,,,,2015,"Private, (other than railroad)",10/19/2015,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+c03a7b19-4821-4783-aa5d-a3031d27b600,READING,1,43.55072204,-72.61438387,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,60,Good,No
+40f09da1-4a0f-439e-9cba-a321b91128f9,LUDLOW,1,43.3972924,-72.7099977,,,,,,,,,2010,"Private, (other than railroad)",7/19/2017,Round,Plastic Corrugated,Stone masonry,15,15,20,Excellent,No
+95206cbf-1c4a-4201-bdcf-a3f144448e9e,RIPTON,2,44.00689801,-73.03584422,,,,,,,,,1973,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Excellent,Yes
+efff5eb7-bd95-47d9-801c-a4111b74de2f,SPRINGFIELD,1,43.27765688,-72.5265263,,,,,,,,,2015,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+54fce8fe-2ac0-44d9-8cea-a418f6bc9968,GRANVILLE,2,43.99297157,-72.88826698,,,,,,,,,2019,Town Highway,10/15/2019,Round,Plastic Smooth,Stone masonry,24,24,30,Excellent,No
+c004e696-1466-44c4-bcf2-a41d76d82ec8,SPRINGFIELD,1,43.27344887,-72.53759911,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+e4c5c37f-80fe-4ea1-b2fb-a45f33ddce66,SPRINGFIELD,1,43.25938101,-72.53595932,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+176674c0-e143-4e05-b485-a4d70cfb1513,WILMINGTON,1,42.88493543,-72.82740599,,,,,,,,,2017,Town Highway,10/17/2018,Round,Plastic Smooth,Concrete,18,18,46,Excellent,No
+1e4497e1-dcfe-4b43-bc0f-a53b8fbbebc0,UNDERHILL,1,44.49990592,-72.90690237,,,,,,,,,2015,Town Highway,7/31/2018,Round,Steel Corrugated,Rip-rap,18,18,30,Good,No
+deab4385-8660-4423-82cc-a57ec2252e2c,DERBY,1,44.88540226,-72.11681502,,,,,,,,,2020,Town Highway,8/19/2020,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+a68107c1-6600-45a9-846b-a5efcbc51a08,ANDOVER,1,43.2993568,-72.70088297,,,,,,,,,2016,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+b7951329-b369-4022-96c0-a60dc6dedc93,SPRINGFIELD,1,43.34213363,-72.53293632,,,,,,,,,2003,Town Highway,8/3/2016,Round,Plastic Smooth,Stone masonry,15,15,30,Excellent,No
+87b7a3b3-68b6-48b0-9305-a6237997f4e4,ANDOVER,1,43.32548931,-72.70103457,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+5ca23479-4b4d-479d-83e9-a633b126638f,READING,1,43.47515016,-72.53243583,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+51b7fc25-c76e-4b80-ad32-a65e6044a679,BALTIMORE,2,43.35013346,-72.55924496,,,,,,,,,2016,Town Highway,3/23/2017,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+bf8d8f29-f96b-4911-ad41-a73ed22a492d,CHARLESTON,1,44.89296784,-72.06760441,,,,,,,,,2012,"Private, (other than railroad)",5/7/2014,Round,Plastic Smooth,Rip-rap,15,15,40,Excellent,No
+c96b3946-1997-4a65-a26b-a7bd4395e214,SPRINGFIELD,3,43.3295462,-72.51805985,,,,,,,,,2015,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,85,Excellent,No
+a79b9724-60f3-4ea9-84bc-a7cb2994badd,READING,1,43.50368831,-72.56905013,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+de7250ae-5bc4-4958-8938-a7d56bbfce4d,CORNWALL,3,43.91747911,-73.177321,,,,,,,,,2004,Town Highway,6/5/2018,Round,Plastic Smooth,Rip-rap,24,24,40,Excellent,No
+8b5fa4f8-21db-423f-8635-a7dcd92843ed,GOSHEN,2,43.91049446,-73.01896854,,,,,,,,,2009,Town Highway,9/23/2019,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+95698acf-9edb-4d2d-a104-a7ea0c6b24f2,UNDERHILL,1,44.51296151,-72.90502603,,,,,,,,,2015,Town Highway,8/1/2018,Round,Steel Corrugated,Metal,24,24,40,Excellent,No
+5f530cdb-8066-41c7-b58b-a7f95f4dd122,CHARLESTON,3,44.82368402,-71.9893371,,,,,,,,,2013,Town Highway,5/7/2014,Round,Steel Corrugated,Concrete,48,48,48,Excellent,No
+0d89606c-7da2-49c5-b194-a82e73045e26,WAITSFIELD,1,44.19426648,-72.77032497,,,,,,,,,1970,Town Highway,9/15/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,66,84,70,Fair,No
+aa866497-f238-4b85-ae96-a905e40aa790,SPRINGFIELD,1,43.27286653,-72.44862871,,,,,,,,,2004,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,15,15,60,Good,No
+8a6fc88f-0be2-4b99-9ec2-a93b2d4db084,ANDOVER,1,43.25635368,-72.74860613,,,,,,,,,2009,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,36,36,26,Fair,No
+75aabb9a-025f-4314-806b-a98dd95214a2,RIPTON,3,44.01037918,-73.02264707,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Good,No
+a4ef4255-073b-4e38-936a-a9b33dd95b25,WORCESTER,3,44.38490053,-72.52558335,,,,,,,,,1976,Town Highway,6/5/2015,Round,Steel Corrugated,Stone masonry,15,15,36,Good,Yes
+fa5e6b82-d329-41b2-b0ad-a9d53637636a,ANDOVER,2,43.22848006,-72.70978481,,,,,,,,,1996,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+bb7aee98-290e-420a-9c5a-aa29bfd8fcc3,CHARLOTTE,2,44.28740836,-73.15338257,,,,,,,,,2013,Town Highway,6/2/2014,Round,Steel Corrugated,Stone masonry,24,24,50,Good,No
+450462be-6d12-4f99-82b5-aa3cc6cf4a30,SPRINGFIELD,2,43.33009857,-72.41199493,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Good,No
+c203516b-d739-4ddb-a493-aa44177861d3,BOLTON,1,44.416462,-72.8491231,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Concrete,24,24,50,Excellent,No
+66fe5265-c5c7-46cc-8e0a-aa8c11976a25,WEATHERSFIELD,1,43.35463863,-72.45212374,,,,,,,,,2012,Town Highway,5/19/2014,Round,Steel Corrugated,Concrete,18,18,32,Good,No
+12fb5566-891a-4df4-907a-aaef2704bc93,TINMOUTH,1,43.48089702,-73.01699605,,,,,,,,,1974,Town Highway,6/9/2020,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+e67c9ee5-a703-42dd-818e-ab45631558d5,ANDOVER,1,43.31330571,-72.68828698,,,,,,,,,2008,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+7e213e3d-02f8-4cc5-a1b8-ab65d3f7479a,UNDERHILL,1,44.58071194,-72.91598694,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Concrete,30,30,40,Fair,No
+7072d7ad-e764-44e4-9fd0-ab81b916d63f,GROTON,1,44.22531731,-72.218733,,,,,,,,,2016,Town Highway,10/26/2016,Ellipse/Squashed,Steel Corrugated,Rip-rap,20,28,40,Excellent,No
+24fbcf37-62fd-4c3e-910f-ab9557cc3be5,DERBY,1,44.88726598,-72.10913161,,,,,,,,,2020,Town Highway,9/16/2020,Round,"Pipe, Plastic",Rip-rap,18,18,40,Excellent,No
+ef0985fc-6cc8-46d4-9489-ac38209dd366,GOSHEN,2,43.87195142,-73.01428182,,,,,,,,,2014,Town Highway,5/6/2020,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+bcb10e86-5525-4475-b254-ade64c477772,ANDOVER,2,43.25451851,-72.70429031,,,,,,,,,2014,Town Highway,2/2/2015,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+2271be16-6372-4299-9d9d-ae2f53f9aadd,WILMINGTON,3,42.85662598,-72.82240224,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,50,Excellent,No
+bf0ef5bc-3135-4e87-a084-ae459948e72a,SPRINGFIELD,1,43.25483054,-72.53630482,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Concrete,30,30,40,Good,No
+85781907-b666-456a-9782-ae65b358bdcf,ANDOVER,1,43.266889,-72.731846,,,,,,,,,2007,Town Highway,7/12/2018,Round,Plastic Corrugated,Stone masonry,18,18,55,Excellent,No
+8634d410-2a8f-4a60-be28-ae696d47747f,SPRINGFIELD,3,43.25256372,-72.49203154,,,,,,,,,2000,Town Highway,8/11/2016,Round,Steel Corrugated,Stone masonry,15,15,20,Fair,No
+bb9b8568-6db8-49f3-a6c7-aea7adbaea6a,READING,3,43.4634482,-72.64984196,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+95a2b921-2901-43e7-824c-aeaaee356940,WILMINGTON,1,42.86177977,-72.83811033,,,,,,,,,2020,Town Highway,8/10/2020,Box,Concrete Sectional,Concrete,72,144,40,Excellent,No
+487bcf43-418e-4f6f-bd99-aee01c189785,GROTON,1,44.2030804,-72.18494635,,,,,,,,,1983,Town Highway,5/26/2015,Round,Steel Corrugated,Stone masonry,96,96,20,Good,No
+2c8be7ba-6cff-4b38-8a22-aef164960276,UNDERHILL,1,44.58023313,-72.94414332,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Stone masonry,30,30,50,Good,No
+184d6151-23ca-451f-a9f2-af0694993592,BALTIMORE,1,43.35478392,-72.58291065,,,,,,,,,2011,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+6baf784d-292a-400b-8adf-af123661164e,CHARLOTTE,1,44.32521934,-73.23192435,,,,,,,,,2013,Town Highway,6/2/2014,Round,Plastic Smooth,Stone masonry,18,18,30,Excellent,No
+acecfcf0-213c-4190-9a2f-af324d2f6eb5,ANDOVER,2,43.28260318,-72.70748656,,,,,,,,,2005,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+39bc75e2-2628-43fa-b6dd-afa5f4342316,TINMOUTH,1,43.45800553,-73.0874109,,,,,,,,,2001,"Private, (other than railroad)",5/22/2020,Round,Plastic Smooth,Stone masonry,24,24,30,Excellent,No
+31980a26-ef2f-4f61-b0ef-afbeb7cda3a1,STRATTON,1,43.05087308,-72.90037393,,,,,,,,,2003,Town Highway,11/18/2016,Box,Concrete Sectional,Concrete,72,136,25,Excellent,No
+7ba2e895-4175-4f96-bc55-afd0ee95e974,BALTIMORE,2,43.34925827,-72.55216819,,,,,,,,,2000,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,60,Good,No
+d744b0ac-8525-4ca1-a72b-aff81fc26125,WILMINGTON,3,42.85908688,-72.82130261,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,44,Excellent,No
+226e8f7f-2d80-485a-ab48-affa36816d32,GOSHEN,2,43.90156452,-73.01516579,,,,,,,,,2018,Town Highway,12/24/2018,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+29f2a9e8-c25d-4f81-8feb-afff040ab897,ANDOVER,1,43.29210058,-72.7315147,,,,,,,,,2009,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,18,18,60,Good,No
+91381683-ea35-4434-9d8f-b0202b8658ca,WEATHERSFIELD,1,43.41606766,-72.52482355,,,,,,,,,2013,"Private, (other than railroad)",5/8/2014,Round,Steel Corrugated,Concrete,84,84,20,Good,No
+dad519fc-eb73-45ea-86af-b09c95fe604d,READING,1,43.47501589,-72.53987865,,,,,,,,,2011,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+4a96a80a-2af2-46cd-8c21-b0b351be80b7,STRATTON,1,43.10496635,-72.87377414,,,,,,,,,2012,Town Highway,11/17/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+92de0606-6737-4356-bf39-b0dd000b81ac,LUDLOW,1,43.39700977,-72.70053555,,,,,,,,,2013,Town Highway,5/13/2014,Round,"Pipe, Plastic",Rip-rap,18,18,30,Excellent,No
+d1670ae0-6437-4a10-988f-b0e50d025a5c,WINDSOR,3,43.48515016,-72.43668477,,,,,,,,,2013,Town Highway,10/11/2016,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+585bb5d0-0598-42af-8afd-b101953229bf,ANDOVER,1,43.25584927,-72.68670699,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,Yes
+c6fce887-2dcc-4fd6-898b-b14c21b99681,GOSHEN,2,43.87216392,-73.01484254,,,,,,,,,2017,Town Highway,8/2/2019,Round,Plastic Corrugated,Concrete,24,24,60,Excellent,No
+87b8f208-acaa-41db-9c2c-b18e44311e43,READING,1,43.54933812,-72.6141268,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Good,No
+444e4309-de4b-4bf2-86c5-b1e01c6c7346,WEATHERSFIELD,1,43.40260916,-72.41258063,,,,,,,,,2008,Town Highway,5/15/2014,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+61001476-a826-4c4e-b2be-b1fde57bb9f6,GOSHEN,2,43.8633628,-73.00749422,,,,,,,,,2019,Town Highway,6/25/2020,Round,Plastic Smooth,Concrete,28,28,40,Excellent,No
+80aead7d-0a5e-461b-bf66-b1fe964d1d82,ANDOVER,1,43.31859825,-72.72504128,,,,,,,,,2014,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+40e5a86b-5ab2-460f-9dd0-b2683c5b5ab9,TINMOUTH,3,43.45069659,-73.0275932,,,,,,,,,2002,Town Highway,6/10/2020,Round,Plastic Smooth,Stone masonry,30,30,40,Excellent,No
+4be3aef4-8ac8-4513-820e-b2973f869a54,READING,1,43.55119916,-72.61496878,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+9d01fa56-996a-4750-ba3b-b378764bdff9,SPRINGFIELD,1,43.31067811,-72.44529137,,,,,,,,,2000,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+a92f2515-c874-40bf-9603-b3a601e7de89,ANDOVER,1,43.25121699,-72.68960978,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,16,16,20,Good,Yes
+b27cb558-f743-423a-b952-b3c832ab8ef8,SPRINGFIELD,2,43.32414656,-72.4121139,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+9c804254-abd9-4b7f-a16f-b3e5c5190da7,CHARLOTTE,1,44.30698938,-73.15255325,,,,,,,,,2013,Town Highway,6/2/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+fd4ed4d0-5003-4b85-b471-b3e740277a13,LUDLOW,1,43.33684946,-72.69741427,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+a5436d8a-4daa-46ca-a47f-b3ef7f04f2b6,ANDOVER,1,43.27563603,-72.71049197,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+60fcc6f2-4add-440a-9715-b3f085926b7b,LONDONDERRY,1,43.18386913,-72.81726544,,,,,,,,,2013,Town Highway,10/29/2013,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+287e4d4b-244d-4a1e-aeda-b4988cbc070f,JERICHO,3,44.44215945,-72.97945142,,,,,,,,,2016,Unknown,6/17/2020,Round,Steel Corrugated,Stone masonry,30,30,50,Excellent,Yes
+67e6312a-ac00-4da5-be21-b4c5a3395e8b,WEATHERSFIELD,1,43.34746224,-72.4925354,,,,,,,,,2005,Town Highway,5/19/2014,Round,Steel Corrugated,Concrete,18,18,38,Good,No
+9c37e710-29ea-4be9-a802-b4d08581827a,SPRINGFIELD,1,43.26489411,-72.45204784,,,,,,,,,2000,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+9f808d57-6017-4914-b66f-b4daddcccdb9,BALTIMORE,1,43.35829528,-72.57870639,,,,,,,,,2000,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+f828abf4-8e7e-4ea3-926c-b4f9accad898,WEATHERSFIELD,1,43.3553364,-72.46941285,,,,,,,,,2009,Town Highway,5/19/2014,Round,Steel Corrugated,Rip-rap,48,48,60,Good,No
+04dcfa0a-1f6b-4ecd-bcce-b5237bf569f2,ANDOVER,2,43.24839535,-72.70748918,,,,,,,,,2014,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+20cf21a3-bbdd-40dd-b631-b5da6b53a0a0,BALTIMORE,2,43.35195914,-72.56117739,,,,,,,,,2016,"Private, (other than railroad)",3/23/2017,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+bc7d7d1e-b819-40e4-9430-b5e9fadd3c04,TINMOUTH,1,43.42344029,-73.0570407,,,,,,,,,2000,Town Highway,6/3/2020,Round,Plastic Smooth,Stone masonry,30,30,50,Good,No
+a9b2583e-f63a-4d5e-a49a-b65c1d8108c6,WAITSFIELD,1,44.17669987,-72.80575914,,,,,,,,,2004,Town Highway,9/17/2020,Box,Concrete Sectional,Concrete,72,108,60,Good,No
+96827014-7a80-4822-8017-b69991c1823e,READING,1,43.50513399,-72.55860421,,,,,,,,,2015,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+cb198064-716e-49e4-a3b1-b6b0d249068c,DERBY,1,44.96360363,-72.15709642,,,,,,,,,2013,Town Highway,9/10/2013,Round,Plastic Smooth,Stone masonry,18,18,60,Excellent,No
+8f5c1428-257d-4621-b2d6-b6ce0032916d,GOSHEN,1,43.88839935,-73.01057827,,,,,,,,,2009,Town Highway,5/13/2020,Ellipse/Squashed,Steel Corrugated,Concrete,84,108,33,Excellent,No
+23d26893-9d01-4576-99db-b7121ba99f5d,DERBY,1,44.92053991,-72.08762756,,,,,,,,,2016,Town Highway,10/20/2016,Round,Plastic Smooth,Stone masonry,48,48,40,Excellent,No
+ac82a1d6-6480-40c9-86ff-b740e571cd92,SPRINGFIELD,1,43.25201288,-72.53531487,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+a2445b03-0cec-4faf-b406-b7696360ac2d,TINMOUTH,1,43.4190181,-73.11349489,,,,,,,,,1999,"Private, (other than railroad)",5/22/2020,Round,Plastic Smooth,Stone masonry,15,15,30,Good,No
+3c4d1fd8-2b43-47e8-aa14-b76ca9ed3726,TINMOUTH,1,43.43174291,-73.10866178,,,,,,,,,1974,Town Highway,5/22/2020,Round,"Pipe, Metal",Stone masonry,12,12,20,Poor,No
+bbebbb2b-7c2b-4035-a220-b773e0e41d74,READING,3,43.45856029,-72.54679475,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+fe6f2e40-7ba9-4908-a090-b7b4e2878f45,HALIFAX,1,42.80392923,-72.777211,,,,,,,,,2014,Town Highway,11/18/2015,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+71bd9562-2e0f-4396-8d58-b7f6b95318e9,HALIFAX,3,42.78330539,-72.76836526,,,,,,,,,2008,Town Highway,6/15/2017,Round,Plastic Smooth,Stone masonry,36,36,40,Good,No
+5291d17c-0807-43d1-86de-b80815b4aa6d,GOSHEN,2,43.86628863,-73.01566046,,,,,,,,,2019,Town Highway,8/2/2019,Round,Plastic Corrugated,Concrete,18,18,50,Excellent,No
+4b36a74d-59e8-49a7-a946-b81800b50b2f,WEATHERSFIELD,2,43.39569607,-72.48691683,,,,,,,,,2012,Town Highway,5/12/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+9e9feb0e-c7bf-4eba-a01c-b8a077f009d8,WINHALL,3,43.13480167,-72.88373893,,,,,,,,,2012,Town Highway,8/31/2020,Round,Plastic Smooth,Stone masonry,24,24,80,Excellent,No
+3c96edc1-eb81-415b-9366-b8c51455681e,WEATHERSFIELD,1,43.35817481,-72.40830051,,,,,,,,,2012,Town Highway,5/21/2014,Round,Steel Corrugated,Stone masonry,24,24,40,Good,No
+8204657b-15ce-4873-9ab1-b946160e4b0d,ANDOVER,1,43.25448864,-72.74396821,,,,,,,,,1999,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+18982a87-f1b4-4280-9715-b95a9d4b7e8a,CHARLOTTE,2,44.29736363,-73.19278522,,,,,,,,,2019,Town Highway,8/21/2019,Round,Steel Corrugated,Rip-rap,15,15,35,Excellent,No
+f24abf22-0101-4a02-8164-b9bf1c399aa9,ANDOVER,1,43.25860899,-72.75325202,,,,,,,,,2018,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+e0303cb7-ab02-4126-b611-b9c2138cb7b3,READING,1,43.51754189,-72.560744,,,,,,,,,2013,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+05294ebb-39b3-4d0e-a8b9-ba5e3b9ec462,WARREN,1,44.09403048,-72.83704159,,,,,,,,,2011,Town Highway,7/2/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+8f06eb81-c472-4ee9-ad64-ba677033e1d0,WINDSOR,3,43.48214143,-72.44639728,,,,,,,,,2013,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,36,36,33,Good,No
+4efdff71-3bd3-43a1-ad90-ba77158bf62b,WILMINGTON,3,42.8979728,-72.88304632,,,,,,,,,2018,Town Highway,8/30/2018,Round,Plastic Corrugated,Concrete,18,18,40,Excellent,No
+a2bc4099-108d-4470-9da6-bb2363a9b26a,TINMOUTH,3,43.45507753,-73.0091045,,,,,,,,,1999,"Private, (other than railroad)",6/4/2020,Round,Plastic Smooth,Stone masonry,18,18,30,Good,No
+af05a8e0-b3e0-4a42-bd8d-bb4599daefe7,WINDSOR,1,43.49542696,-72.43600177,,,,,,,,,2010,Town Highway,10/11/2016,Round,Plastic Corrugated,Rip-rap,18,18,30,Good,No
+3285249a-d7ff-4625-bfed-bb589ca98849,READING,1,43.51871905,-72.54189933,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+90808319-735b-4d4f-a80e-bbaf6d30bf5c,GOSHEN,3,43.85356309,-73.0144173,,,,,,,,,2020,Town Highway,12/1/2020,Round,Plastic Smooth,Stone masonry,24,24,50,Excellent,No
+c5c0906b-8908-4574-ba9b-bbb52b8f2ec5,LUDLOW,1,43.37188551,-72.67318325,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+daf39641-ef8c-4098-8590-bbc967db334b,ANDOVER,2,43.23167788,-72.70841363,,,,,,,,,1995,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+b250b580-34b0-4e0f-ae2a-bbd1b68a82d5,SPRINGFIELD,1,43.24955405,-72.53441552,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+f286696a-e41c-4056-b53d-bbd9a3a06ad0,ANDOVER,1,43.26543278,-72.73091162,,,,,,,,,2011,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,24,24,40,Good,No
+9eae76bd-61de-48cd-afb4-bbeeab6f8516,READING,1,43.4760888,-72.59053703,,,,,,,,,2015,Town Highway,6/29/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+b083cb74-8a93-40b3-8610-bc30179ffd22,CHARLOTTE,3,44.26898802,-73.21788469,,,,,,,,,2019,Town Highway,5/13/2019,Round,"Pipe, Metal",Stone masonry,18,18,40,Excellent,No
+d73c116c-58bd-4bb7-875d-bc38f275b800,TINMOUTH,1,43.46590401,-73.02210648,,,,,,,,,1974,Town Highway,6/9/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+a8a98233-eba0-463a-9c8d-bc63ffa711d3,READING,1,43.50340427,-72.58749521,,,,,,,,,2013,Town Highway,7/6/2016,Round,Plastic Corrugated,Concrete,30,30,40,Excellent,No
+1f74703c-8da9-47c2-8135-bc741d774c60,LUDLOW,1,43.39314588,-72.66975606,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,45,Excellent,No
+24e64953-cc60-4e57-86be-bcd0a3916c35,ANDOVER,1,43.24497594,-72.72595357,,,,,,,,,1995,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,16,16,28,Excellent,No
+6ef4a36d-4107-4b86-a96d-bdea7354c111,ANDOVER,1,43.24294286,-72.75205634,,,,,,,,,2000,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+2a3299a5-a317-4e1f-8c47-bdea9b7df623,READING,1,43.51352457,-72.53731524,,,,,,,,,2013,Town Highway,7/14/2016,Round,Plastic Corrugated,Concrete,24,24,60,Good,No
+8159dec8-9522-4e7c-845d-be1f98e9dbc6,WINDSOR,1,43.47592315,-72.43715757,,,,,,,,,2007,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,12,12,30,Good,No
+9b5379b0-722c-4dfe-b519-be2c9fa95dd0,SPRINGFIELD,3,43.3146588,-72.50514153,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,55,Good,No
+d7235ab6-be79-49d9-94ac-be570f35abe7,SPRINGFIELD,3,43.31671098,-72.50711745,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Excellent,No
+b0aa04b1-9805-4a6f-8c2a-be79212332a9,SPRINGFIELD,1,43.32200281,-72.45668065,,,,,,,,,2003,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,15,15,35,Good,No
+25296e23-5dab-4f7a-aa3b-beaa526b7b7f,SPRINGFIELD,3,43.32386149,-72.51180973,,,,,,,,,2006,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,55,Excellent,No
+237b48fc-a702-4692-966d-bee287dbbb5f,DERBY,1,44.96179692,-72.12895634,,,,,,,,,2017,Town Highway,9/13/2017,Round,Steel Corrugated,Rip-rap,18,18,30,Excellent,No
+b46b529e-dcd9-43b4-8886-bf0481ce9f84,HALIFAX,1,42.79240885,-72.79910881,,,,,,,,,1990,Town Highway,6/14/2017,Round,Steel Corrugated,Stone masonry,72,72,40,Good,Yes
+d833fd74-102f-4d20-b784-bf162bf55afd,CHARLESTON,1,44.8933329,-72.06718656,,,,,,,,,2010,Town Highway,5/7/2014,Round,Steel Corrugated,Rip-rap,18,18,48,Fair,No
+2ab7c1b5-e456-4fb9-97a1-bf168860f1c8,NORTON,1,45.00075806,-71.7969155,,,,,,,,,2015,Town Highway,9/12/2017,Round,Plastic Smooth,Stone masonry,24,24,30,Excellent,No
+055cf87a-0c1e-439c-83e0-c004bf375685,SPRINGFIELD,1,43.26051226,-72.50330354,,,,,,,,,2000,Town Highway,9/29/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+17b25d82-5844-40de-85d1-c03d8770ba1c,TINMOUTH,2,43.44243993,-73.05143606,,,,,,,,,1997,"Private, (other than railroad)",5/28/2020,Round,Steel Corrugated,Stone masonry,15,15,20,Good,No
+c4b9f377-355f-4755-9349-c0d7bc77180b,WEATHERSFIELD,1,43.35654872,-72.44766102,,,,,,,,,2001,"Private, (other than railroad)",5/19/2014,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+449816ab-4f62-41f5-a907-c1446a523bdf,READING,1,43.47556229,-72.54176958,,,,,,,,,2011,Town Highway,6/30/2016,Round,Steel Corrugated,Stone masonry,18,18,20,Excellent,No
+e5d5a4fe-d306-403b-9090-c1656f9d78f6,READING,3,43.46878227,-72.58185188,,,,,,,,,2011,Town Highway,6/13/2016,Round,Steel Corrugated,Concrete,18,18,50,Good,No
+14cab5e4-d418-4347-9bf7-c2b87d26639c,READING,1,43.50433374,-72.55982507,,,,,,,,,2014,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+50d91c3e-8ec1-423c-b744-c2cb7190ff28,SPRINGFIELD,1,43.3344086,-72.46474451,,,,,,,,,2012,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+7e5064da-9849-4974-b090-c335eb9ed2a6,SPRINGFIELD,3,43.26129511,-72.49094669,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Good,No
+77108041-29e8-4002-a9d8-c4748f1e39ee,ANDOVER,2,43.3255044,-72.71611645,,,,,,,,,1994,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,60,Excellent,No
+65448c85-8b2b-4d55-b158-c4855fe688c6,TINMOUTH,2,43.42791922,-73.05185593,,,,,,,,,1999,"Private, (other than railroad)",6/1/2020,Round,"Pipe, Plastic",Stone masonry,12,12,40,Good,No
+122206cc-05f4-4b0d-ae73-c48b5b7f3927,ANDOVER,1,43.25800892,-72.75195754,,,,,,,,,1998,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,15,15,20,Excellent,No
+be05590d-d2f1-4d0a-b6cd-c496977a68fd,WILMINGTON,3,42.85790415,-72.82179037,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+9007d08b-72c2-4128-914f-c4d1b0614cf5,UNDERHILL,1,44.58071516,-72.91546235,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Stone masonry,30,30,40,Fair,No
+53b095d1-1aaf-4724-a27a-c4d548563603,HALIFAX,1,42.76854872,-72.75082783,,,,,,,,,2014,Town Highway,6/22/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+3c7abab8-68cc-49f2-94a7-c57543f76aa3,READING,1,43.45444848,-72.61604639,,,,,,,,,2010,Town Highway,6/15/2016,Round,Plastic Corrugated,Stone masonry,15,15,36,Good,No
+8ba3462e-fe78-491b-a90b-c577dcb69406,WINDSOR,3,43.48310988,-72.45212528,,,,,,,,,1996,Town Highway,10/11/2016,Round,Steel Corrugated,Stone masonry,18,18,40,Fair,No
+04cb2700-b1bd-4475-8731-c5b7a77290e5,ANDOVER,1,43.32877258,-72.69814859,,,,,,,,,2018,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,48,48,40,Fair,No
+d62b2ff0-4efe-4ee8-8246-c5c00e1391dc,WILMINGTON,1,42.9168521,-72.82778282,,,,,,,,,2016,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,18,18,55,Excellent,No
+218d51f6-8660-474d-a78d-c5d3219448c0,SPRINGFIELD,3,43.32904227,-72.51570308,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,15,15,55,Fair,No
+e321c14e-7596-46f4-825d-c5e6d88be356,READING,3,43.46109987,-72.6493615,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+a79f7f8f-464e-46e9-a244-c644f720dd43,WILMINGTON,3,42.86032594,-72.82131827,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,44,Excellent,No
+6566b2e9-c722-4207-b7f5-c6921ed54207,GOSHEN,1,43.88846867,-73.01193239,,,,,,,,,2009,Town Highway,5/13/2020,Round,Steel Corrugated,Stone masonry,18,18,28,Good,No
+21588205-3b03-4498-9043-c6b19e3365da,UNDERHILL,1,44.52453907,-72.93582462,,,,,,,,,2016,Town Highway,8/1/2018,Round,Steel Corrugated,Rip-rap,18,18,50,Good,No
+7a93c832-2a77-4f09-9432-c6c6fca9bb4b,SPRINGFIELD,1,43.26715081,-72.53819827,,,,,,,,,2009,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+30f6e42b-db32-4505-98ad-c6ca1c5e959c,SPRINGFIELD,1,43.32162289,-72.46879379,,,,,,,,,2004,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+8b11c346-27bc-4302-a98e-c739d413dead,CHARLESTON,1,44.89414826,-72.06625627,,,,,,,,,2012,"Private, (other than railroad)",5/7/2014,Round,Plastic Smooth,Rip-rap,15,15,24,Excellent,No
+8afa20b5-a367-42ca-8634-c74ac1ef3c45,READING,1,43.49938728,-72.56174445,,,,,,,,,2011,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+821e6020-7029-46a1-9eff-c7bdbe648356,TINMOUTH,1,43.4324537,-73.05667914,,,,,,,,,1980,Town Highway,6/1/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+bb64efdb-bd34-414c-a69f-c7fcd7d34a2d,ANDOVER,1,43.28397604,-72.74385033,,,,,,,,,2013,Town Highway,9/30/2014,Round,Steel Corrugated,Stone masonry,15,15,40,Excellent,Yes
+d1826b45-aa87-4c3f-b9fb-c82aff14e382,WAITSFIELD,1,44.19083868,-72.79533246,,,,,,,,,1990,Town Highway,9/15/2020,Round,Plastic Corrugated,Stone masonry,18,18,40,Closed,No
+31c06e20-b165-4444-a2a5-c86c5b3ad6ab,LUDLOW,1,43.39718673,-72.70997489,,,,,,,,,2010,Town Highway,7/19/2017,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+e0e2ed61-f53c-46ce-9a44-c87fded04da6,WILMINGTON,1,42.89642978,-72.90672988,,,,,,,,,2017,Town Highway,7/16/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+06b46a53-3846-4ec7-991f-c8f01509171d,WEATHERSFIELD,1,43.35546661,-72.43342279,,,,,,,,,2018,Town Highway,7/8/2018,Round,Steel Corrugated,Stone masonry,24,24,40,Excellent,No
+3aed5643-86f2-48ae-88e1-c8faa923a9e2,SPRINGFIELD,1,43.26207974,-72.53656785,,,,,,,,,2013,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Excellent,No
+41b957ef-e5d3-44c7-be52-c90592efb57f,TINMOUTH,3,43.42325708,-73.03599714,,,,,,,,,2004,"Private, (other than railroad)",5/25/2020,Round,Plastic Smooth,Stone masonry,15,15,30,Fair,No
+76fe7952-3037-4e5e-973a-c917a706bc4f,WAITSFIELD,1,44.18218603,-72.84201923,,,,,,,,,2004,Town Highway,12/4/2020,Round,Plastic Corrugated,Concrete,18,18,40,Good,No
+3820f778-eb6d-4e5c-b48e-c926af68bce8,TINMOUTH,1,43.46058167,-73.0778885,,,,,,,,,1988,Town Highway,5/21/2020,Round,"Pipe, Metal",Stone masonry,12,12,20,Good,No
+9ccdf26a-6ff3-49ea-9412-c931363377f2,GROTON,2,44.27746172,-72.27997861,,,,,,,,,2011,Town Highway,6/22/2011,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+22f4de39-ee33-46dc-9f06-c97d58dd7669,SOUTH BURLINGTON,2,44.463517,-73.174144,,,,,,,,,2017,Town Highway,7/3/2018,Arch,Concrete Poured,Concrete,60,12,64,Excellent,No
+b0206526-9d6d-4e86-9fb3-c9d21a80d2b3,CHARLESTON,1,44.82619969,-71.95187553,,,,,,,,,2017,Town Highway,10/27/2017,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+d2acac7e-ecb7-4198-9318-ca3c08b8f4da,SPRINGFIELD,3,43.29921409,-72.48198007,,,,,,,,,1949,Town Highway,8/24/2016,Box,Concrete Poured,Concrete,72,168,366,Fair,No
+5c1bbfdd-8b45-43a7-9c05-ca7d41effd22,GOSHEN,2,43.87620379,-73.02581626,,,,,,,,,2009,Town Highway,8/2/2019,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+c6eaaa20-62d7-4950-a62c-ca8dac921ccd,UNDERHILL,1,44.58088168,-72.94495781,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+3511514c-dfb7-4ff0-84b0-ca9793c27bf8,UNDERHILL,1,44.58124115,-72.91764685,,,,,,,,,2014,Town Highway,8/7/2018,Round,Steel Corrugated,Concrete,30,30,40,Good,No
+d9d11f2d-d8c4-451a-815d-cb367dbac2ae,READING,3,43.46634537,-72.65164042,,,,,,,,,2011,Town Highway,6/29/2016,Ellipse/Squashed,Steel Corrugated,Stone masonry,20,27,30,Good,No
+2b5d4f57-4bf3-4ac2-94dd-cb63853382da,ANDOVER,2,43.25689423,-72.70626433,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,27,Good,No
+00363fbb-d2c7-4241-81db-cb8337172cbb,LUDLOW,1,43.39239664,-72.70004496,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Rip-rap,18,18,62,Excellent,No
+c2ac8dbb-cc5d-4944-b427-cbbce1dc909c,SPRINGFIELD,3,43.2523291,-72.49217832,,,,,,,,,2000,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+5ce60d15-6122-4b66-af73-cbec1a6a38e1,LUDLOW,1,43.37261029,-72.67491201,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+2e19a9b0-ed62-4a89-903c-cbf6292cd2be,MILTON,1,44.69897648,-73.1887094,,,,,,,,,2014,Town Highway,8/3/2015,Round,Plastic Corrugated,Stone masonry,24,24,36,Excellent,No
+601d76fc-d570-4c4b-bae6-cc4ec8911652,WAITSFIELD,1,44.21287842,-72.79938938,,,,,,,,,1980,Town Highway,9/21/2020,Round,Steel Corrugated,Rip-rap,48,48,85,Poor,No
+4154434d-9401-4312-b072-cc5ea379feba,SPRINGFIELD,3,43.31978252,-72.50922545,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Fair,No
+27381fe0-d457-477f-87b6-ccc8f66660d2,GOSHEN,2,43.86655056,-73.00713844,,,,,,,,,2010,Town Highway,4/29/2020,Box,Concrete Sectional,Concrete,36,70,42,Good,No
+c669c905-becb-456e-89cf-cce02ba1bbd0,LUDLOW,1,43.37970765,-72.6728585,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+09b5eab9-6724-4a23-b6a5-cd61baa0286b,READING,1,43.49527901,-72.56011083,,,,,,,,,2011,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,28,Good,No
+ff8ec44f-4dc6-442f-af8e-cd6def55c3c2,TINMOUTH,1,43.42595221,-73.05364535,,,,,,,,,1999,"Private, (other than railroad)",6/3/2020,Round,Plastic Smooth,Stone masonry,12,12,20,Good,No
+2a7d6873-a26a-4ea6-845a-cd7bbbbe2b83,READING,1,43.51652156,-72.53890915,,,,,,,,,2014,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,18,18,26,Excellent,No
+8300ecac-dd21-4594-90e1-cda93c6b7c3a,BALTIMORE,2,43.36855949,-72.55920293,,,,,,,,,2017,Town Highway,10/24/2017,Round,Plastic Corrugated,Stone masonry,24,24,40,Excellent,No
+475785ab-4fdb-48f7-95a5-ce025c8f667b,UNDERHILL,1,44.50581234,-72.87822002,,,,,,,,,2014,Town Highway,7/31/2018,Round,Steel Corrugated,Rip-rap,18,18,50,Good,No
+4246c0e2-fed0-48a6-b573-ce0c6d636ab6,CHARLOTTE,1,44.32483637,-73.23183258,,,,,,,,,2012,Town Highway,6/2/2014,Round,Steel Corrugated,Stone masonry,15,15,30,Excellent,No
+d231345b-7163-417a-b445-cf28c9c24341,KILLINGTON,1,43.65438486,-72.78948608,,,,,,,,,1999,"Private, (other than railroad)",9/29/2020,Round,Steel Corrugated,Stone masonry,15,15,35,Poor,No
+491360aa-c62b-4e92-a8e7-d00496be8de8,WILMINGTON,3,42.86204462,-72.8213077,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,45,Excellent,No
+b0218940-f0eb-497c-aa37-d061ec00cfcd,SPRINGFIELD,1,43.31796195,-72.52902618,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,15,15,27,Fair,No
+e20943f6-a576-4ed0-a8dc-d0a306b26155,READING,1,43.48533865,-72.60437933,,,,,,,,,2011,Town Highway,6/30/2016,Round,Plastic Corrugated,Concrete,15,15,30,Good,No
+dfd7c19f-3fdb-4bcf-b12c-d0e99693433c,READING,1,43.46126313,-72.62005954,,,,,,,,,2016,Town Highway,10/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+23f21a74-6150-4258-9213-d0ea24b4795f,GROTON,1,44.24018185,-72.2401697,,,,,,,,,2015,"Private, (other than railroad)",5/17/2004,Round,Plastic Smooth,Rip-rap,18,18,40,Good,No
+a97f7443-ea9e-4812-ade3-d0ecadeb10fe,UNDERHILL,2,44.58928941,-72.87370242,,,,,,,,,2014,Town Highway,8/1/2018,Round,Steel Corrugated,Stone masonry,18,18,25,Good,No
+b52db39d-6f34-4185-ac48-d0f50f6b4ba9,CORNWALL,3,43.95687731,-73.25195382,,,,,,,,,2017,Town Highway,12/18/2017,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+947af047-2076-44bf-8481-d11611145901,BALTIMORE,1,43.35332738,-72.58319182,,,,,,,,,1999,Town Highway,6/17/2014,Round,Steel Corrugated,Stone masonry,24,24,30,Fair,No
+1141f823-11d9-4cff-9d03-d144298b687c,WILMINGTON,3,42.85997128,-72.82130977,,,,,,,,,2016,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,18,18,44,Excellent,No
+33a129af-c75e-450d-9c07-d1700c1993c7,LUDLOW,2,43.39491939,-72.70840214,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,105,Excellent,No
+77968bfa-3834-4913-9491-d1a4d9d4678e,BALTIMORE,1,43.35997239,-72.57572498,,,,,,,,,1984,"Private, (other than railroad)",6/17/2014,Round,Plastic Smooth,Stone masonry,10,10,30,Fair,No
+30d9a174-d8fe-4fbb-9c0b-d1dfc2a8979b,CHARLESTON,1,44.89468014,-72.06585559,,,,,,,,,2012,"Private, (other than railroad)",5/7/2014,Round,Plastic Smooth,Rip-rap,15,15,20,Good,No
+a54e4dd1-0b10-47cc-9a5d-d1e2c83ace58,ANDOVER,2,43.24716363,-72.70801036,,,,,,,,,2011,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,33,Good,No
+0d63e97b-0a69-4e7e-ac63-d1f9128027fc,STRATTON,1,43.10445916,-72.87366724,,,,,,,,,2016,Town Highway,11/17/2016,Ellipse/Squashed,Steel Corrugated,Stone masonry,54,77,40,Excellent,No
+b2566af9-767d-481a-9a59-d20f6333abb4,CHARLESTON,1,44.89393379,-72.06665034,,,,,,,,,2012,"Private, (other than railroad)",5/7/2014,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+2dfbf8eb-1eab-4efd-8498-d225f5892a9a,WAITSFIELD,3,44.14835217,-72.81004565,,,,,,,,,1997,Town Highway,9/18/2020,Round,Plastic Corrugated,Stone masonry,24,24,55,Good,No
+cde6e606-501c-4e1f-ab23-d2267abab48c,GROTON,1,44.2291586,-72.20732461,,,,,,,,,2007,Town Highway,6/22/2011,Round,Plastic Smooth,Rip-rap,18,18,20,Good,No
+c9d28697-35e7-4060-b345-d29ac21ea829,READING,1,43.45704537,-72.61188435,,,,,,,,,2013,Town Highway,6/15/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+2d684423-707d-4db9-8445-d29fc274bd17,DERBY,1,44.93282353,-72.12422758,,,,,,,,,2019,Town Highway,6/3/2019,Round,Steel Corrugated,Stone masonry,24,24,40,Fair,No
+f6c572c2-c00f-4f9e-8153-d2d928140fae,WINDSOR,1,43.49263447,-72.39208713,,,,,,,,,2012,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,18,18,65,Excellent,No
+65e3382e-84aa-4756-81bc-d2faef1b2c43,WINDSOR,1,43.48700407,-72.42719596,,,,,,,,,2014,Town Highway,10/11/2016,Round,Plastic Corrugated,Concrete,18,18,40,Poor,No
+b3ac9c99-9f8f-4685-8e8b-d33af57bfcd9,COLCHESTER,3,44.57724003,-73.12642962,,,,,,,,,2014,Town Highway,7/24/2019,Round,Plastic Smooth,Rip-rap,15,15,55,Good,No
+6a1dd112-c64d-4df1-a798-d37beb8ad8d6,CHARLESTON,3,44.83764114,-72.02042812,,,,,,,,,2017,Town Highway,6/9/2017,Round,Steel Corrugated,Rip-rap,38,57,50,Excellent,No
+1801a133-83b8-4b75-8379-d392888d1ac3,ANDOVER,1,43.2541768,-72.74309922,,,,,,,,,1999,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+b47bb3b6-a568-48d5-baec-d3f319df55e9,SPRINGFIELD,3,43.31520871,-72.50570392,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,50,Excellent,No
+715fcd5d-c095-4ddc-be80-d42dd73a49a5,BOLTON,1,44.418999,-72.8515874,,,,,,,,,2017,Town Highway,7/19/2018,Round,Steel Corrugated,Stone masonry,18,18,50,Good,No
+7febb50f-0e37-4176-ba1b-d438ed545462,WILMINGTON,1,42.91455325,-72.83685047,,,,,,,,,2017,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,18,18,40,Good,No
+00d886f9-40df-41d8-aa02-d4e42e5abd5d,SPRINGFIELD,3,43.31379252,-72.50420936,,,,,,,,,1960,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,18,18,56,Poor,No
+4f02716a-dd72-4648-b22b-d4eeff73cc3c,READING,1,43.49787514,-72.56046326,,,,,,,,,2011,Town Highway,8/14/2019,Round,Steel Corrugated,Stone masonry,18,18,30,Excellent,No
+ce120419-fb7f-43da-9272-d534b4d327f8,DERBY,1,44.96721534,-72.14635097,,,,,,,,,2019,Town Highway,6/13/2005,Round,"Pipe, Plastic",Rip-rap,18,18,35,Excellent,No
+bae1b34b-71fc-4eda-96f1-d5582064a37e,LUDLOW,2,43.39469149,-72.68860197,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,15,15,30,Excellent,No
+a8a6cc3d-4cf5-434a-b8fb-d5817a93ee24,ANDOVER,1,43.30504245,-72.68893859,,,,,,,,,1998,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,20,Excellent,No
+5228de04-c1bc-456b-bb49-d5bd76980d54,BALTIMORE,2,43.35406452,-72.561422,,,,,,,,,2010,"Private, (other than railroad)",6/17/2014,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+9a58bf44-a6fd-4b5c-b138-d66b44b25b12,READING,1,43.50728188,-72.53197051,,,,,,,,,2019,Town Highway,2/13/2020,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+ef8f6e47-fe67-42eb-9ee8-d6e1cfb34846,UNDERHILL,1,44.52813737,-72.93359164,,,,,,,,,2016,Town Highway,8/12/2019,Round,Steel Corrugated,Stone masonry,18,18,40,Fair,No
+4d36b7e5-e8e6-421f-a349-d7856731e051,READING,1,43.52793583,-72.57789708,,,,,,,,,2018,Town Highway,7/6/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+385e9c44-9035-441d-ad08-d799e8cf19d8,GROTON,1,44.23231188,-72.21941317,,,,,,,,,2015,Town Highway,10/19/2015,Round,Plastic Smooth,Rip-rap,18,18,34,Excellent,No
+af255ff1-1a24-4171-ada6-d7ca792856b6,WEATHERSFIELD,1,43.37878655,-72.47621492,,,,,,,,,2010,Town Highway,5/15/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+5e97cda7-ed57-445d-86c4-d7cbed0b02e1,GROTON,1,44.19614565,-72.26789474,,,,,,,,,2013,"Private, (other than railroad)",10/20/2013,Round,Plastic Smooth,Rip-rap,15,15,20,Excellent,No
+42c2254e-5976-4b85-ba7c-d7cdb4eedc72,LUDLOW,3,43.39974702,-72.71500372,,,,,,,,,2015,Town Highway,7/12/2017,Round,Plastic Corrugated,Stone masonry,18,18,70,Poor,No
+395482de-1561-4b48-8f81-d7e10746762f,ANDOVER,1,43.25869911,-72.68907313,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,15,15,40,Good,No
+7c87fdd4-f987-44c2-b2b3-d803c39af54e,SPRINGFIELD,1,43.25372613,-72.4521661,,,,,,,,,2015,Town Highway,8/15/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+4c8c72b0-8df7-4db7-afaa-d838fa7de1a7,READING,3,43.4649583,-72.55659479,,,,,,,,,2010,Town Highway,6/13/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+3057e386-5e85-4044-abf9-d89d297138ad,BALTIMORE,1,43.34582629,-72.55502369,,,,,,,,,2009,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,50,Good,No
+b5b4e59c-f9be-4c54-8595-d94abee69612,SPRINGFIELD,1,43.32521163,-72.50154106,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,45,Excellent,No
+4a4b53ed-59ab-4995-92d6-d97b673afe75,ANDOVER,1,43.25364517,-72.68702378,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+7a68ad22-48ed-417a-aa37-d9821b1a18f8,CORNWALL,3,43.91772256,-73.17618676,,,,,,,,,2004,Town Highway,6/5/2018,Round,Plastic Smooth,Rip-rap,36,36,40,Excellent,No
+0edcf747-58ac-40a3-8305-d9b8044d195e,TINMOUTH,2,43.44443369,-73.05107248,,,,,,,,,1984,Town Highway,5/28/2020,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+e1c9c13b-3cd5-4b5f-8717-da6b2b68bc56,CHARLESTON,1,44.89455204,-72.06594939,,,,,,,,,2012,Town Highway,5/7/2014,Round,Plastic Smooth,Rip-rap,18,18,46,Good,No
+4f96780c-a81c-49e5-8037-da873900880f,READING,1,43.47187257,-72.59228865,,,,,,,,,2014,Town Highway,6/15/2016,Round,Steel Corrugated,Stone masonry,18,18,30,Good,No
+38ccb463-1dab-43a3-9fa0-da8b47a854c0,DERBY,1,45.00044204,-72.06097622,,,,,,,,,2015,Town Highway,5/14/2015,Round,Steel Corrugated,Stone masonry,18,18,40,Excellent,No
+afc472aa-cde4-4e80-804e-da9bf32ad265,TINMOUTH,1,43.45799918,-73.0805548,,,,,,,,,1984,Town Highway,5/21/2020,Round,Steel Corrugated,Stone masonry,18,18,50,Good,No
+1d091f8f-178c-4eb3-a3f9-db4b15430fa1,SPRINGFIELD,1,43.28765829,-72.45263579,,,,,,,,,2001,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,30,Fair,No
+8eafa125-2c3e-4982-b7e5-db53f11d30ea,TINMOUTH,3,43.40667522,-73.03825946,,,,,,,,,1989,Town Highway,5/25/2020,Round,Steel Corrugated,Concrete,48,48,60,Good,No
+ede546b6-7542-4cb6-acb3-dbaa488bd4a8,SPRINGFIELD,1,43.29070973,-72.52379166,,,,,,,,,2020,Town Highway,9/15/2020,Round,Plastic Smooth,Rip-rap,18,18,60,Excellent,No
+b999d8df-bc2c-4b3c-ae93-dbbdcf7cc0a0,WEATHERSFIELD,2,43.41601137,-72.50528955,,,,,,,,,2005,Town Highway,5/8/2014,Round,Steel Corrugated,Stone masonry,18,18,34,Good,No
+677f73ee-e63e-4fbe-a6cd-dcd790b814e2,GOSHEN,3,43.8551654,-73.0105545,,,,,,,,,2020,Town Highway,12/30/2020,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+b1c66d30-32cf-44c7-8c6d-dd28d58c637b,GROTON,1,44.24568225,-72.21856222,,,,,,,,,2012,Town Highway,9/30/2013,Round,Plastic Smooth,Rip-rap,18,18,40,Excellent,No
+67c9fd01-c369-4d3e-b419-dd8441e710cd,LUDLOW,1,43.35629692,-72.70757101,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,42,Good,No
+b65518cf-9b6f-4433-b64f-dde159495cf5,ANDOVER,1,43.2499206,-72.74098326,,,,,,,,,2013,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,Yes
+5cf38002-ef92-4bd7-98fa-de154312daf0,LUDLOW,1,43.43120056,-72.71775696,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,18,18,38,Excellent,No
+c39a5f12-a7f1-4963-a602-de844b17f403,TINMOUTH,2,43.44288449,-73.0455906,,,,,,,,,1997,"Private, (other than railroad)",6/4/2020,Round,Steel Corrugated,Stone masonry,24,24,20,Good,No
+b3c4aa88-99f7-464e-beec-df3c219fef07,HALIFAX,3,42.78279163,-72.76433477,,,,,,,,,1987,Town Highway,6/26/2017,Round,Steel Corrugated,Stone masonry,60,60,36,Good,No
+f6bffcb3-afe2-4b76-9d2f-df4c3e3c8613,SPRINGFIELD,1,43.28262996,-72.54422833,,,,,,,,,2021,Town Highway,8/10/2016,Round,Concrete Sectional,Concrete,18,18,40,Excellent,No
+3b6705a4-a709-40db-8848-dfa04f66e10c,STRATTON,3,43.06222811,-72.9955992,,,,,,,,,2008,Town Highway,11/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,Yes
+eb75bdda-3b04-433b-bd22-dfc265f5c018,DERBY,1,44.88988898,-72.10516422,,,,,,,,,2020,Town Highway,6/9/2020,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+0088f46d-338f-401f-878f-dfd4825849dc,UNDERHILL,2,44.54416888,-72.8860588,,,,,,,,,2014,Town Highway,8/1/2018,Round,Steel Corrugated,Stone masonry,12,14,40,Fair,No
+e0707588-98c3-41d0-8ae0-dff15dc6e4fc,SPRINGFIELD,1,43.30999074,-72.52476511,,,,,,,,,2009,Town Highway,8/9/2016,Round,Steel Corrugated,Stone masonry,15,15,40,Fair,No
+ac165ba4-1f24-428b-8d6f-e04e89d88ee0,WEATHERSFIELD,1,43.40816411,-72.46856137,,,,,,,,,2006,Town Highway,5/12/2014,Round,Steel Corrugated,Stone masonry,24,24,38,Good,No
+845b8b53-2e31-4c99-b7a0-e05458ecd501,TINMOUTH,1,43.44957822,-73.08891813,,,,,,,,,1974,Town Highway,5/21/2020,Round,Steel Corrugated,Concrete,72,72,30,Good,No
+247117e3-42fa-49a8-bbc7-e0e742cb4e4a,READING,1,43.50814585,-72.57616783,,,,,,,,,2011,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+547ab247-70a0-4887-b537-e10a7b4ad529,LUDLOW,1,43.38430668,-72.66872479,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+8224ffbb-9487-4a95-aa6e-e2522e297305,ANDOVER,3,43.28707491,-72.72545103,,,,,,,,,2000,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,65,Excellent,No
+9a9ca7e2-e00f-475a-ae7f-e271d45b6d34,TINMOUTH,3,43.41954201,-73.03595079,,,,,,,,,1974,Town Highway,5/25/2020,Round,Steel Corrugated,Stone masonry,24,24,40,Good,No
+f3825286-522f-49f5-976d-e2afe76f28bc,ANDOVER,1,43.25871267,-72.75390669,,,,,,,,,2000,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+34036172-1d94-4f0a-b7a0-e32e619916e0,HALIFAX,1,42.75650948,-72.79042612,,,,,,,,,2011,Town Highway,6/15/2107,Round,Plastic Smooth,Stone masonry,48,48,40,Good,No
+d614bc03-e665-438f-910f-e36fbd0eca9f,WILMINGTON,3,42.90212153,-72.83613047,,,,,,,,,2015,Town Highway,10/24/2018,Round,Plastic Smooth,Concrete,24,24,53,Excellent,No
+8362fd0f-f858-4082-95fb-e3a40d94a5fc,SPRINGFIELD,1,43.28099178,-72.51899054,,,,,,,,,2015,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+7c817e79-8678-4355-abcc-e3ec8277570b,READING,1,43.46822018,-72.6064741,,,,,,,,,2011,Town Highway,7/14/2016,Round,Steel Corrugated,Concrete,15,15,30,Good,No
+b638efc4-73c8-4f27-95f6-e4051a01ecd8,WESTFORD,3,44.63361755,-73.0286688,,,,,,,,,2017,Town Highway,8/2/2018,Round,Plastic Corrugated,Stone masonry,18,18,60,Excellent,No
+cf1636c9-7722-4be7-aec5-e4d612a06644,READING,1,43.50188645,-72.57995462,,,,,,,,,2011,Town Highway,7/6/2016,Round,Steel Corrugated,Rip-rap,15,15,34,Fair,No
+7e5c8682-13aa-483a-bcae-e4dee3c78381,SPRINGFIELD,1,43.23584875,-72.53965586,,,,,,,,,2010,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Good,No
+dd90e509-65ba-4111-8675-e52b2ef43997,RICHMOND,1,44.39099,-73.022131,,,,,,,,,2017,Town Highway,6/19/2018,Arch,Steel Corrugated,Concrete,72,144,50,Excellent,No
+1d855323-245c-4c02-8b12-e53095764952,WAITSFIELD,1,44.19381412,-72.7863209,,,,,,,,,1970,Town Highway,9/15/2020,Round,Steel Corrugated,Stone masonry,18,18,35,Poor,No
+33a2ad8a-c7c1-40ea-933e-e5423b79f277,SPRINGFIELD,1,43.3365033,-72.52966795,,,,,,,,,2005,Town Highway,8/3/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+4793d98e-41f1-4d2c-9607-e54b73126a68,READING,1,43.47083846,-72.60555107,,,,,,,,,2011,Town Highway,7/14/2016,Ellipse/Squashed,Steel Corrugated,Concrete,72,84,24,Excellent,No
+bdc43c36-80cb-47fa-806d-e634a49d729e,ANDOVER,2,43.24410466,-72.70923562,,,,,,,,,2011,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Good,No
+31fed68f-091a-428b-9c80-e6488517dc87,ANDOVER,3,43.27917194,-72.70617861,,,,,,,,,2016,Town Highway,9/7/2016,Box,Concrete Sectional,Concrete,72,96,40,Excellent,No
+e2faf6df-50a3-4430-8176-e689d51a603a,RICHMOND,1,44.37293979,-72.96224759,,,,,,,,,2018,Town Highway,6/19/2018,Round,Steel Corrugated,Rip-rap,60,60,60,Excellent,No
+89dd515c-8c65-4683-856f-e69b450f7be3,READING,1,43.50252809,-72.56696837,,,,,,,,,2011,Town Highway,7/6/2016,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+521fb066-a55b-4c28-b3ec-e6a1f4ae760a,HALIFAX,1,42.78651301,-72.7736098,,,,,,,,,2015,Town Highway,6/14/2017,Box,Concrete Sectional,Concrete,48,96,40,Excellent,No
+1c7ac4c6-da69-4dc1-8285-e6e86fae729e,TINMOUTH,1,43.49225047,-73.01324718,,,,,,,,,2001,Town Highway,6/9/2020,Round,Plastic Smooth,Rip-rap,18,18,40,Good,No
+93fb1fa2-a2cf-4522-9a8f-e7083262fb24,READING,1,43.55069442,-72.6144055,,,,,,,,,2011,Town Highway,7/14/2016,Round,Plastic Corrugated,Stone masonry,15,15,48,Good,No
+71c76319-1f10-4e2e-841b-e8278368ddd3,LUDLOW,1,43.33587634,-72.69217173,,,,,,,,,2016,Town Highway,6/6/2017,Round,Plastic Smooth,Stone masonry,15,15,28,Good,No
+66a3161e-55f6-4e06-ab00-e84f1b99d1e1,WAITSFIELD,1,44.18558465,-72.8152231,,,,,,,,,1970,Town Highway,9/17/2020,Round,Steel Corrugated,Stone masonry,15,15,60,Fair,Yes
+5b1013f2-fa5d-4af0-ae71-e85991f612bb,TINMOUTH,2,43.40933256,-73.0517078,,,,,,,,,1974,Town Highway,5/28/2020,Round,Steel Corrugated,Stone masonry,18,18,28,Good,No
+8ca5b27e-315b-42fa-a5e3-e85b49c0c59e,WAITSFIELD,1,44.17400622,-72.80338179,,,,,,,,,1980,Town Highway,9/17/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Poor,No
+2842facf-2ca7-4d40-9330-e8a96aea0ae0,SPRINGFIELD,1,43.2517555,-72.5352587,,,,,,,,,2008,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+3a9e7812-0dce-43a9-9f40-e8c47fa07dd8,ANDOVER,2,43.25272265,-72.70475536,,,,,,,,,2013,Town Highway,9/1/2013,Round,Steel Corrugated,Stone masonry,15,15,40,Good,No
+c76b22c9-bb29-4197-9c7f-e8e1777bebd2,CORNWALL,2,43.97154136,-73.22933278,,,,,,,,,1985,Town Highway,8/3/2018,Other,Other,Concrete,96,96,40,Good,No
+a4d192e6-649d-4ce9-9f9c-e90ab1ea6ae6,SPRINGFIELD,1,43.32721656,-72.50045561,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Excellent,No
+88436bbc-43fa-4deb-989b-e934e2c85b63,GROTON,2,44.28638479,-72.26848151,,,,,,,,,1995,Town Highway,6/22/2011,Round,Steel Corrugated,Rip-rap,18,18,40,Good,No
+7c71b53e-a732-40d1-a4a3-e9e77f47fe54,GOSHEN,2,43.86356627,-73.01520967,,,,,,,,,1937,Town Highway,1/10/2020,Box,Concrete Poured,Concrete,48,46,35,Good,No
+e3e0f97c-f4c9-4cdf-87ad-eb00d79089d9,GOSHEN,2,43.89961526,-73.01472233,,,,,,,,,2020,Town Highway,12/30/2020,Ellipse/Squashed,Steel Corrugated,Stone masonry,67,95,40,Excellent,No
+cf6eb969-0049-4292-a84b-eb1241ccc368,WAITSFIELD,2,44.20247634,-72.79584745,,,,,,,,,1990,Town Highway,9/15/2020,Round,Plastic Corrugated,Rip-rap,18,18,45,Good,No
+49d77a15-e1de-4434-9a66-eb43aee63e57,ANDOVER,1,43.25504925,-72.74493645,,,,,,,,,2012,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+02b99937-8b98-4fe3-8d8e-eb43e76ef934,READING,1,43.5120314,-72.61126577,,,,,,,,,2011,Town Highway,6/30/2016,Round,Steel Corrugated,Concrete,18,18,30,Good,No
+7f14155e-dd18-4785-902c-eb7adaeec79c,ANDOVER,1,43.29751791,-72.73438243,,,,,,,,,2002,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+23048522-8487-48cc-9a9e-ebc7682f57f2,GOSHEN,2,43.86673723,-73.01552447,,,,,,,,,2019,Town Highway,6/24/2019,Round,Plastic Corrugated,Concrete,20,20,50,Excellent,No
+5390a6df-2f62-41d5-b964-ebe72497e463,BALTIMORE,1,43.35025222,-72.58405284,,,,,,,,,2004,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+89cac89e-50ec-41f0-8516-ec1898c7c1c3,WINDSOR,1,43.50829879,-72.4346042,,,,,,,,,2001,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,18,18,60,Excellent,No
+3f741237-4950-41ce-b386-ec6939b60519,ANDOVER,2,43.32502308,-72.71465887,,,,,,,,,1992,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,15,15,50,Excellent,No
+0685198d-9689-4af5-b271-ec95466f92bc,CHARLESTON,1,44.89543475,-72.06490569,,,,,,,,,2012,Town Highway,5/7/2014,Round,Plastic Corrugated,Concrete,18,18,175,Excellent,No
+29c7dcc8-dfa8-4dd2-a25c-ecb1e8f77680,GROTON,1,44.21600498,-72.25500478,,,,,,,,,2015,Town Highway,9/8/2015,Round,"Pipe, Plastic",Rip-rap,18,18,30,Excellent,No
+f64c6844-bb54-4764-b7a5-ece3bece082a,BALTIMORE,2,43.36021421,-72.57222339,,,,,,,,,2017,Town Highway,10/24/2017,Round,Plastic Corrugated,Rip-rap,18,18,40,Excellent,No
+cb6e164f-56a0-482d-95f0-ed2f8cafc7b5,HALIFAX,1,42.82132778,-72.78131861,,,,,,,,,2010,Town Highway,6/14/2017,Round,Plastic Smooth,Stone masonry,24,24,40,Good,No
+881506d8-145d-43e0-a05f-ed5992e1e25b,SPRINGFIELD,1,43.24301546,-72.54234064,,,,,,,,,2017,Town Highway,12/4/2017,Round,Plastic Smooth,Stone masonry,18,18,28,Excellent,No
+8dd7d9d1-48e7-4bbe-bb9e-ed8b03471736,MIDDLEBURY,3,44.03323618,-73.12413516,,,,,,,,,2012,Town Highway,11/26/2018,Round,Concrete Sectional,Concrete,36,36,56,Good,No
+af9a8432-98ed-484f-ab41-edb2d592fcb2,READING,1,43.48555077,-72.61935042,,,,,,,,,2013,Town Highway,6/29/2016,Round,Steel Corrugated,Stone masonry,15,15,20,Excellent,No
+a645a62b-1c3c-438c-b8be-edb2e7fb3020,WILMINGTON,3,42.89428575,-72.88348997,,,,,,,,,2018,Town Highway,8/30/2018,Round,Plastic Smooth,Concrete,18,18,42,Excellent,No
+b35ed7af-2f25-4541-a9bb-edba0b9acf69,STRATTON,1,43.07866368,-72.87503146,,,,,,,,,2012,Town Highway,11/18/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+fcd43a79-149b-4138-95cf-edbcf30296f1,GROTON,1,44.2404014,-72.240146,,,,,,,,,2015,Town Highway,5/17/2004,Arch,Steel Corrugated,Rip-rap,19,30,40,Excellent,No
+0808b0fb-668e-401d-a7dc-ee3c8ded45b2,SPRINGFIELD,1,43.32119103,-72.52595379,,,,,,,,,2004,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,68,Good,No
+db42a589-d3fe-47ee-9770-ef2b71871c65,SPRINGFIELD,1,43.32147616,-72.46384414,,,,,,,,,2002,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,50,Good,No
+5fe2a9b2-d19c-4a1c-93fa-ef3aa3b00654,TINMOUTH,1,43.47710471,-73.07423976,,,,,,,,,1974,Town Highway,5/20/2020,Round,Steel Corrugated,Stone masonry,15,15,30,Good,No
+1618734c-6953-4673-bc98-ef42856e32e5,SPRINGFIELD,2,43.29870393,-72.43367768,,,,,,,,,2003,Town Highway,8/16/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Excellent,No
+e907029f-99b1-428a-91d2-efa3f354932f,TINMOUTH,1,43.48341455,-73.01628663,,,,,,,,,2002,"Private, (other than railroad)",6/9/2020,Round,Plastic Smooth,Stone masonry,18,18,20,Good,No
+925d89e7-1386-4742-bea3-efacfdcc7438,HALIFAX,2,42.82149498,-72.77677852,,,,,,,,,1985,Town Highway,6/14/2017,Round,Steel Corrugated,Stone masonry,36,36,30,Fair,Yes
+006b5d67-a064-4f83-9128-f0660659fa30,MARSHFIELD,1,44.34772286,-72.35454415,,,,,,,,,2011,Town Highway,8/8/2017,Round,Steel Corrugated,Stone masonry,24,24,50,Good,No
+019c2204-d858-444e-91a4-f0ea8e8b463c,WILMINGTON,3,42.87690104,-72.89177326,,,,,,,,,2015,Town Highway,8/9/2018,Round,Plastic Smooth,Concrete,18,18,59,Excellent,No
+784b2b8c-2afc-4eb4-b864-f0ebae29d3eb,READING,3,43.46769719,-72.56370654,,,,,,,,,1996,Town Highway,8/13/2019,Round,Aluminum Corrugated,Stone masonry,15,15,40,Excellent,No
+dabad719-9749-4b8f-a2fd-f1a234180b80,ANDOVER,1,43.25533018,-72.68660581,,,,,,,,,2014,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+3c852a1e-e74d-4dec-9c4a-f1a8a425ef58,SPRINGFIELD,1,43.32311318,-72.42671398,,,,,,,,,2016,Town Highway,11/29/2016,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+50d4b1d9-175c-4256-a3dc-f1e6c5d308d6,ANDOVER,2,43.32529209,-72.71945962,,,,,,,,,2006,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,24,24,60,Good,No
+7ed58253-dc0d-4c4b-8bd4-f1e7410c12fe,DERBY,1,44.9522249,-72.07409086,,,,,,,,,2019,Town Highway,5/6/2019,Round,Steel Corrugated,Rip-rap,18,18,25,Excellent,No
+61b6603d-fa36-4c92-9485-f215e10f8c74,SPRINGFIELD,1,43.2557422,-72.50285041,,,,,,,,,2014,Town Highway,8/11/2016,Round,Plastic Smooth,Stone masonry,18,18,28,Good,No
+9f632953-e43c-4a67-a273-f22e93a1d3b9,RUTLAND TOWN,1,43.63396437,-72.96607959,,,,,,,,,2004,Town Highway,4/19/2018,Round,Steel Corrugated,Stone masonry,12,12,30,Fair,No
+cb3cae00-f83e-4fb9-849b-f2788214bffc,ANDOVER,1,43.27363194,-72.73351197,,,,,,,,,2002,Town Highway,9/1/2013,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+7c8fa685-3a22-43dc-8f28-f2bcffeff92d,READING,3,43.46855151,-72.57079852,,,,,,,,,1996,Town Highway,6/13/2016,Round,Steel Corrugated,Concrete,46,46,50,Good,No
+8ed66dde-1e78-40ac-b128-f301c8fe56f4,WEATHERSFIELD,2,43.39660276,-72.48699469,,,,,,,,,2012,Town Highway,5/12/2014,Round,Steel Corrugated,Stone masonry,18,18,40,Good,No
+7589ef43-3357-4945-ba67-f325c451d91f,SPRINGFIELD,1,43.29794954,-72.5361782,,,,,,,,,2000,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,24,24,28,Fair,No
+f742f059-4c6b-449b-b783-f32ebc320d94,UNDERHILL,1,44.5293269,-72.86527807,,,,,,,,,2014,Town Highway,7/31/2018,Round,Steel Corrugated,Metal,30,30,40,Good,No
+301d5d00-4456-4de3-aa1e-f39d306f9aa9,READING,1,43.49595495,-72.55986768,,,,,,,,,2011,Town Highway,7/6/2016,Round,Steel Corrugated,Concrete,48,48,30,Good,No
+d1f5341c-5a0e-458a-a2d7-f3e415174a42,READING,1,43.50145711,-72.61418391,,,,,,,,,2014,Town Highway,6/30/2016,Round,Plastic Corrugated,Stone masonry,18,18,30,Good,No
+2126abd5-d0e5-4ed6-ab23-f3e71a3d31cd,CHARLOTTE,2,44.28963474,-73.20474844,,,,,,,,,2019,Town Highway,8/5/2019,Round,"Pipe, Metal",Stone masonry,24,24,50,Excellent,No
+965abf59-cd4c-4cbc-815e-f400b8838f82,RIPTON,3,44.00443023,-73.01974342,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Excellent,No
+22f40ebd-0d3c-45c5-b73d-f4095852b316,BALTIMORE,1,43.35577891,-72.58245836,,,,,,,,,1962,Town Highway,6/17/2014,Ellipse/Squashed,Steel Corrugated,Stone masonry,36,72,32,Fair,No
+ca5f2b71-1c98-434d-9f0d-f41e2e6149aa,SPRINGFIELD,1,43.31637698,-72.46414781,,,,,,,,,2020,Town Highway,9/15/2016,Round,"Pipe, Metal",Stone masonry,24,24,40,Good,No
+2b5d9aee-ea73-45fe-bf2d-f4f929f58810,WINDSOR,1,43.45897917,-72.41338369,,,,,,,,,2011,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,15,15,25,Good,No
+f2af7f5d-5591-4bad-a219-f56b08b1adcb,WINDSOR,2,43.51033068,-72.44783526,,,,,,,,,2013,Town Highway,10/11/2016,Round,Steel Corrugated,Stone masonry,72,72,60,Good,No
+92ae7231-91f4-4ac7-ac8e-f5bb4e7425d3,LUDLOW,1,43.39182202,-72.70728529,,,,,,,,,2013,Town Highway,7/21/2017,Round,Plastic Corrugated,Stone masonry,18,18,35,Excellent,No
+1ff7d01f-3176-40c9-8f0d-f5d1b65e91c8,WINDSOR,3,43.48747069,-72.41739766,,,,,,,,,2013,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,18,18,38,Excellent,No
+f0173e64-4737-4a6f-8365-f5d84ce730c9,TINMOUTH,3,43.45110391,-73.02554171,,,,,,,,,1990,"Private, (other than railroad)",6/10/2020,Round,"Pipe, Metal",Stone masonry,15,15,20,Fair,No
+8b633895-47a4-499e-85bf-f602eb876ae7,WAITSFIELD,3,44.14600885,-72.80951286,,,,,,,,,1997,Town Highway,9/18/2020,Round,Plastic Corrugated,Stone masonry,24,24,64,Good,Yes
+e432ef28-e333-4937-84fa-f62b4a355ad6,STRATTON,1,43.11002116,-72.88435196,,,,,,,,,2012,Town Highway,11/17/2016,Round,Plastic Smooth,Stone masonry,15,15,40,Good,No
+9ae1833c-5b07-426d-a786-f6eccaa53921,WAITSFIELD,2,44.15900346,-72.81001834,,,,,,,,,1997,Town Highway,12/4/2020,Round,Steel Corrugated,Stone masonry,24,24,35,Good,No
+d30c72bb-5b95-48c3-9e90-f6feae04f525,BALTIMORE,1,43.35225593,-72.58352592,,,,,,,,,2005,Town Highway,6/17/2014,Round,Plastic Corrugated,Stone masonry,24,24,30,Good,No
+711aa5a4-4bab-4067-8b40-f726774b2318,SPRINGFIELD,3,43.30997118,-72.501535,,,,,,,,,2005,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+22db28dd-928e-4185-9cfe-f74f0f2c212c,ANDOVER,1,43.29841084,-72.7007279,,,,,,,,,2016,Town Highway,10/8/2018,Round,Plastic Corrugated,Stone masonry,18,18,30,Excellent,No
+b255871b-7241-4500-a7e2-f7ac7953ed2b,SPRINGFIELD,1,43.33193488,-72.47104751,,,,,,,,,2013,Town Highway,8/23/2016,Round,Plastic Smooth,Stone masonry,18,18,60,Excellent,No
+a7701d35-73fe-4dde-b4da-f7cc68bc127c,SPRINGFIELD,1,43.32528704,-72.52773027,,,,,,,,,2000,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+6899294b-2f14-422e-99ac-f7cc7ed0209c,SPRINGFIELD,1,43.29605711,-72.54020351,,,,,,,,,2008,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Fair,No
+f3c65b02-2f83-4f13-9deb-f86044236770,READING,3,43.47005642,-72.58318736,,,,,,,,,1996,Town Highway,6/13/2016,Round,Plastic Corrugated,Stone masonry,30,30,40,Good,No
+d214a096-b73c-40d8-9ac1-f864d757a39d,READING,1,43.45758728,-72.61118203,,,,,,,,,2013,Town Highway,6/15/2016,Round,Plastic Corrugated,Stone masonry,15,15,40,Excellent,No
+bfa0c2a3-69c7-4d26-8776-f866b10edbf9,TINMOUTH,1,43.42039255,-73.05724102,,,,,,,,,1974,Town Highway,6/3/2020,Round,Plastic Smooth,Stone masonry,24,24,30,Excellent,No
+52356697-e9d1-4e94-8d57-f866e629f027,WILMINGTON,1,42.91776344,-72.82733794,,,,,,,,,2018,Town Highway,10/3/2018,Round,Plastic Smooth,Concrete,18,18,40,Excellent,No
+b70375cd-c53a-4038-ab83-f8b2257b0814,GROTON,1,44.23985722,-72.23775141,,,,,,,,,2015,Town Highway,10/19/2015,Round,Steel Corrugated,Rip-rap,18,18,33,Excellent,No
+0b1149fd-7105-47ff-95c4-f8f84eacf3f9,BALTIMORE,2,43.36314267,-72.57001088,,,,,,,,,1964,Town Highway,6/17/2014,Round,Steel Corrugated,Stone masonry,24,24,42,Good,No
+19b71d22-9063-4c81-ab5b-f8f88f87415c,RUTLAND TOWN,1,43.66192723,-72.9749944,,,,,,,,,2010,Town Highway,4/17/2018,Round,Plastic Corrugated,Stone masonry,24,24,40,Good,No
+c49c9c55-70f3-4a31-9888-f9464e5d3a6f,ANDOVER,1,43.25585902,-72.74709438,,,,,,,,,2012,Town Highway,9/30/2014,Round,Plastic Corrugated,Stone masonry,18,18,20,Good,No
+94388900-3663-4349-86f3-f9fe0085b3e1,SPRINGFIELD,1,43.27539719,-72.53829775,,,,,,,,,2001,Town Highway,8/10/2016,Round,Plastic Smooth,Stone masonry,18,18,35,Good,No
+6a3f9664-9202-41b0-8154-fad70aea38ac,ORWELL,2,43.79255076,-73.28456032,,,,,,,,,2008,Town Highway,6/14/2018,Round,Plastic Smooth,Stone masonry,30,30,40,Excellent,No
+fd86a048-89b0-4245-af20-fbe551aa490e,RIPTON,3,44.01198096,-73.02274442,,,,,,,,,2013,Town Highway,8/15/2014,Round,Plastic Smooth,Concrete,24,24,40,Excellent,No
+3413fcc5-219b-405f-a44b-fc26f4d9949c,DERBY,1,44.89329619,-72.10160882,,,,,,,,,2015,Town Highway,6/3/2015,Round,Plastic Corrugated,Stone masonry,18,18,40,Excellent,No
+e6974c8b-d1fd-4853-bdb1-fc581f7546df,GOSHEN,3,43.85476274,-73.01182537,,,,,,,,,2020,Town Highway,12/30/2020,Round,Plastic Smooth,Stone masonry,24,24,40,Excellent,No
+7cdd6dc4-60cd-4093-a928-fc72e01ec0ab,WAITSFIELD,2,44.20266877,-72.79758394,,,,,,,,,1990,Town Highway,9/15/2020,Round,Steel Corrugated,Concrete,36,36,40,Good,Yes
+cf80507f-99bf-461e-a502-fc91d132b3f6,GOSHEN,2,43.90399777,-73.01598513,,,,,,,,,2004,Town Highway,12/30/2020,Round,Steel Corrugated,Stone masonry,15,15,35,Fair,No
+c66608e8-5a12-4bed-bedb-fc97af8e52fe,DERBY,1,44.95206216,-72.07287011,,,,,,,,,2019,Town Highway,6/5/2019,Round,Steel Corrugated,Rip-rap,24,24,26,Good,No
+a1d64771-e04e-40a9-8778-fcb4aa388701,TINMOUTH,1,43.44043052,-73.09740258,,,,,,,,,1974,Town Highway,5/22/2020,Round,Steel Corrugated,Stone masonry,15,15,20,Fair,No
+c6ba93ea-834c-45c6-b025-fcb5de440606,WEATHERSFIELD,1,43.40318516,-72.4088082,,,,,,,,,2007,Town Highway,5/15/2014,Round,Plastic Corrugated,Stone masonry,18,18,36,Good,No
+3d32a572-76a3-4bbc-bfec-fccb3452af32,DERBY,3,44.92159153,-72.14920218,,,,,,,,,2020,Town Highway,7/21/2020,Round,Steel Corrugated,Rip-rap,24,24,50,Excellent,No
+aa2111ec-52a5-4cce-a8a8-fcdb082bf736,TINMOUTH,2,43.44578441,-73.05078251,,,,,,,,,1998,"Private, (other than railroad)",5/28/2020,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+fc2c75b0-5a45-4996-8a98-fd0f75c0c3e7,DERBY,1,44.95151081,-72.09948281,,,,,,,,,2019,Town Highway,11/1/2019,Round,Steel Corrugated,Rip-rap,18,18,40,Excellent,No
+ad909592-9948-4169-a576-fd49f8ba2463,SPRINGFIELD,1,43.32671544,-72.50091266,,,,,,,,,2016,Town Highway,8/8/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Excellent,No
+13bfeb3c-8b77-4b51-9492-fd8b69b66fd6,MILTON,1,44.6254292,-73.08466966,,,,,,,,,2018,Town Highway,6/26/2018,Round,Plastic Corrugated,Rip-rap,18,18,40,Excellent,No
+e01e79ca-46c7-4964-bc3f-fdca26acdfdc,WEATHERSFIELD,2,43.41247089,-72.43497607,,,,,,,,,2013,Town Highway,5/12/2014,Ellipse/Squashed,Steel Corrugated,Concrete,48,58,50,Good,No
+4f9a1563-a33e-42ee-a2eb-fe1b721e0b1e,WINDSOR,1,43.45800798,-72.4144108,,,,,,,,,2002,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,36,36,50,Good,No
+50bb51e5-7a39-4127-a046-fe5df56fbf66,LUDLOW,1,43.38074367,-72.67193815,,,,,,,,,2013,Town Highway,5/13/2014,Round,Plastic Corrugated,Stone masonry,18,18,50,Excellent,No
+764fe695-5089-4aa2-9055-fea6df12748b,SPRINGFIELD,1,43.29710443,-72.51830533,,,,,,,,,2000,Town Highway,8/9/2016,Round,Plastic Smooth,Stone masonry,18,18,40,Good,No
+65e41972-5337-4c95-bdda-fec6cb349740,WAITSFIELD,3,44.16371017,-72.81341873,,,,,,,,,1997,Town Highway,9/17/2020,Round,Plastic Corrugated,Stone masonry,24,24,92,Good,No
+1d9567ed-43ed-4e58-b701-fed96602dbc8,WINDSOR,1,43.46703783,-72.42858592,,,,,,,,,2008,Town Highway,10/11/2016,Round,Plastic Corrugated,Stone masonry,18,18,35,Good,No
+7bee5e04-ce82-4d70-9995-ff49e6fde127,HALIFAX,1,42.80234527,-72.7772794,,,,,,,,,2014,Town Highway,6/14/2017,Round,Plastic Smooth,Stone masonry,24,24,40,Good,Yes
+180f9a14-4ced-4edb-9679-ffcc503fe669,WEATHERSFIELD,1,43.39636226,-72.42495026,,,,,,,,,2013,Town Highway,8/25/2014,Round,Steel Corrugated,Stone masonry,24,24,58,Good,No
