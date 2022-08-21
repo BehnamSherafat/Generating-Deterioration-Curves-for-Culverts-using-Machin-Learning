@@ -26,8 +26,6 @@ Codes are explained as follows:
 2. UtahCulvertsInspection.ipynb
       
 
-## Delay-and-sum beamforming architecture
-
 
 
 
